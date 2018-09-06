@@ -1,8 +1,8 @@
 Writeup 1 - Ethics
 ======
 
-Name: *PUT YOUR NAME HERE*
-Section: *PUT YOUR SECTION NUMBER HERE*
+Name: Noah Bathras
+Section: 0101
 
 I pledge on my honor that I have not given or received any unauthorized assistance on this assignment or examniation.
 
@@ -16,4 +16,5 @@ This was done via the [ELMS assignment](https://myelms.umd.edu/courses/1251976/a
 
 ### Part 2 (75 pts)
 
-*Replace this text with your repsonse to our prompt and your ethical argument!*
+After discovering the complex security problems in ECU firmware, I think it is your ethical responsibility to inform your boss
+first.  

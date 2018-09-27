@@ -12,14 +12,12 @@ Digital acknowledgement of honor pledge: Noah Bathras
 
 ### Part 1 (45 pts)
 The flag I found was: CMSC389R-{p1ng_as_a_$erv1c3}
-The way I obtained the flag was through command line injection, which is an attack in which the goal is execution of arbitrary commands on teh host operating system via a vulnerable application.  In this case the vulnerable application was Cornerstone Airlines uptime system.
+The way I obtained the flag was through command line injection, which is an attack in which the goal is execution of arbitrary commands on the host operating system via a vulnerable application.  In this case the vulnerable application was Cornerstone Airlines uptime system.
 Before I could start the attack I ran the command:
 
 `nc cornerstoneairlines.co 45` 
 
-Which connected me to the uptime application.
-
-I was then able to run the command:
+Which connected me to the uptime application.  Because we were told this was a command line injection project, I tried stringing commands together in the first way I could think of which was using the && operator.  So I ran:
 
 `www.google.com && ls` 
 
@@ -31,6 +29,23 @@ Which once you strip out the output from the ping command, represents the conten
 
 `bin boot dev etc  homelib lib64 media mnt opt proc root run sbin srv sys tmp usr var` 
 
+I then made the assumtion that the flag would be in the users home directory because that is where many user based files are stored so I ran another ls command:
+
+`www.google.com && ls /home/`
+
+Which gave me:
+
+`flag.txt`
+
+I then read that file using the command:
+
+`www.google.com && cat /home/flag.txt`
+
+Which then gave me the ouput "Good! Here's your flag: CMSC389R-{p1ng_as_a_$erv1c3}" and thus the flag.
+
+I have two suggestions for Fred that he could implement quite easily to prevent this kind of vulnerability.
+
+First, he could implement a system that performs proper input validation
 
 ### Part 2 (55 pts)
 *Put your writeup >= 200 words here in response to part 2 prompt. Your code for part 2 should be copied into a file in the /writeup directory and pushed there as well*

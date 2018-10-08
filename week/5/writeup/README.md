@@ -48,8 +48,11 @@ Which keeps the ending of the exclamation point of the string.  I fixed this pro
 The way I approached the second method was very similar to the first method.  I started off by storing the three parameters char *dst, char *src, int len into the registers r11, rax, and rdx.  I created the same local variable i in rcx and set that to zero.  I had the same loop structure as function one.  The main difference was instead of getting the character value outside of the loop I did that instead the loop because the character value kept changing.  I did this by doing
 
 > (1) mov		r8, [rsi+rcx]
+>
 > (2) mov		[rbp-8], r8
+>
 > (3) mov		al, [rbp-8]
+>
 > (4) mov		[r11+rcx], al
 
 This command stores the character value at [rsi+rcx] or src[i] into r8 which is then stored on the stack.  I am then able to pull the single character from the stack into al using line (3).  Once the character value is stored in al, the same move command as the my_memset function is used, (4).  This copies each character to the correct position in the string.

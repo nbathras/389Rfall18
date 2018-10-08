@@ -19,38 +19,31 @@ mov	[r11+rcx], al
 which tries to the store the value in al or char val into the memory location that r11 or *str points to plus rcx or i.  The plus rcx is what moves to the next character.  After the move I add one to rcx to keep track of the count and then jump back up to the .loop1 label to start the loop again.  Once the loop condition fails, we jump down to the .end1 which returns to function.
 When writing this method I ran into a problem where I was attempting to copy values into the str pointer, but when I did I kept losing everything after the end of the string.  For example, when I ran the following code:
 
-'''
-...
-mov	r11, rdi	;takes param 1 (char *str) and stores it
-mov	rax, rsi	;takes param 2 (char val) and stores it
-...
-mov	rcx, 0		;sets int i = 0
-...
-mov	[r11+rcx], rax	;attempting to do str[i] = val
-...
+> ...
+> mov	r11, rdi	;takes param 1 (char *str) and stores it
+> mov	rax, rsi	;takes param 2 (char val) and stores it
+> ...
+> mov	rcx, 0		;sets int i = 0
+> ...
+> mov	[r11+rcx], rax	;attempting to do str[i] = val
+> ...
 
-'''
-
-I get: Hello zzzzz when I should be getting Hello zzzzz!
+I get: *Hello zzzzz* when I should be getting *Hello zzzzz!*
 
 However, when I change the mov line to:
 
-'''
-mov	byte [r11+rcx], 77 ;attempting to do str[i] = 'a'
-'''
+> mov	byte [r11+rcx], 77 ;attempting to do str[i] = 'a'
 
-I got: Hello aaaaa!
+I got: *Hello aaaaa!*
 
 Which keeps the ending of the exclamation point of the string.  I fixed this problem by storing the char value on the stack instead of in the register, so I could move an exact amount of memory into where [r11+rcx] was pointing instead of the entire 64 bit register.
 
 The way I approached the second method was very similar to the first method.  I started off by storing the three parameters char *dst, char *src, int len into the registers r11, rax, and rdx.  I created the same local variable i in rcx and set that to zero.  I had the same loop structure as function one.  The main difference was instead of getting the character value outside of the loop I did that instead the loop because the character value kept changing.  I did this by doing
 
-'''
-(1) mov		r8, [rsi+rcx]
-(2) mov		[rbp-8], r8
-(3) mov		al, [rbp-8]
-(4) mov		[r11+rcx], al
-'''
+> (1) mov		r8, [rsi+rcx]
+> (2) mov		[rbp-8], r8
+> (3) mov		al, [rbp-8]
+> (4) mov		[r11+rcx], al
 
 This command stores the character value at [rsi+rcx] or src[i] into r8 which is then stored on the stack.  I am then able to pull the single character from the stack into al using line (3).  Once the character value is stored in al, the same move command as the my_memset function is used, (4).  This copies each character to the correct position in the string.
 When completing this method, I ran into the same problem as with function one where after replacing the characters in the string it would cut off the end of the string.

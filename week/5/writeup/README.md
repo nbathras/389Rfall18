@@ -14,7 +14,7 @@ I struggled a lot with this project because I did not have much experience with 
 
 The way I approached the first method, was first I wanted to store all of the parameter values in the appropriate registers.  I stored the first parameter (char *str) in r11, the second parameter (char val) into on the stack at [rbp-8], and the third parameter (int str1) into rdx.  I stored char val on the stack because I wanted to be able to get out small bytes segments.  After I stored all the parameters, I declared in local variable rcx to 0 which represents the i variable along with storing [rbp-8] into al so that I can access that character value.  I stored this in rcx because generally rcx is the counter register.  Then we get into the loop, which first checks if rcx < rdx or i < str1 if it is we move onto the body of the loop if it is not we jump down to .end1 label.  In the loop we run the command:
 
-mov	[r11+rcx], al
+> mov	[r11+rcx], al
 
 which tries to the store the value in al or char val into the memory location that r11 or *str points to plus rcx or i.  The plus rcx is what moves to the next character.  After the move I add one to rcx to keep track of the count and then jump back up to the .loop1 label to start the loop again.  Once the loop condition fails, we jump down to the .end1 which returns to function.
 When writing this method I ran into a problem where I was attempting to copy values into the str pointer, but when I did I kept losing everything after the end of the string.  For example, when I ran the following code:

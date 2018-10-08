@@ -20,12 +20,19 @@ which tries to the store the value in al or char val into the memory location th
 When writing this method I ran into a problem where I was attempting to copy values into the str pointer, but when I did I kept losing everything after the end of the string.  For example, when I ran the following code:
 
 > ...
+>
 > mov	r11, rdi	;takes param 1 (char *str) and stores it
+>
 > mov	rax, rsi	;takes param 2 (char val) and stores it
+>
 > ...
+>
 > mov	rcx, 0		;sets int i = 0
+>
 > ...
+>
 > mov	[r11+rcx], rax	;attempting to do str[i] = val
+>
 > ...
 
 I get: *Hello zzzzz* when I should be getting *Hello zzzzz!*

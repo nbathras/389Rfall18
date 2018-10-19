@@ -113,9 +113,9 @@ So, I tried running **steghide extract -sf .stego -xf out.txt**, but
 
 This gave me the idea to try using **exiftool** on .stego to see if it gave a file type, it returned a warning saying its processing it as a JPEG because of unknown 1-byte header.
 
-I then used xxd to look at the magic bytes at the top of the file.  I saw that it had JFIF which refers to jpg or jpeg, but there was a padding of 00 on at the start which was corrupting the file.
+I then used **xxd** to look at the magic bytes at the top of the file.  I saw that it had JFIF which refers to jpg or jpeg, but there was a padding of 00 on at the start which was corrupting the file.
 
-I then used the dd command to skip the first bit and got the correct version of the file.
+I then used the **dd** command to skip the first bit and got the correct version of the file: **dd if=.stego_bak bs=1 skip=1 of.stego_out**
 
 Seeing that it was a Stegosaurus, I ran the command **steghide extract -sf .stego_out** with the passphrase **stegosaurus**, but I got the error “Premature end of JPEG file.” So I changed the file name from **.stego_out** to **img_out.jpg** and got the ouput 
 

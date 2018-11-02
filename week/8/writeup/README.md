@@ -39,7 +39,7 @@ The hackers plan to see eachother tomorrow, Oct 25 at 3:00 pm.
 ### Part 2 (55 Pts)
 
 Print Out from update.fpff:
-'''
+```
 ------- HEADER -------
 MAGIC: 0xdeadbeef
 VERSION: 1
@@ -127,7 +127,7 @@ Section Length 48
 -------  END  -------
 Final Pointer: %d 247039
 Total Data Length: %d 247039
-'''
+```
 
 *Report your answers to the questions about parsing update.fpff below.*
 1.

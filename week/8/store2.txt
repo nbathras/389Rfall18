@@ -1,0 +1,737 @@
+22:42:21.418955 IP 142.93.118.186.54924 > 67.207.67.2.domain: 24106+ A? facebook.com. (30)
+22:42:21.419402 IP 67.207.67.2.domain > 142.93.118.186.54924: 24106 1/0/0 A 31.13.71.36 (46)
+22:42:21.421259 IP 142.93.118.186.42403 > 67.207.67.2.domain: 57054+ A? whois.verisign-grs.com. (40)
+22:42:21.421275 IP 142.93.118.186.42403 > 67.207.67.2.domain: 37457+ AAAA? whois.verisign-grs.com. (40)
+22:42:21.421743 IP 67.207.67.2.domain > 142.93.118.186.42403: 57054 2/0/0 A 192.34.234.30, A 192.30.45.30 (72)
+22:42:21.421824 IP 67.207.67.2.domain > 142.93.118.186.42403: 37457 2/0/0 AAAA 2620:74:20::30, AAAA 2620:74:21::30 (96)
+22:42:21.421921 IP 142.93.118.186.36176 > whois-2.verisign-grs.com.whois: Flags [S], seq 2330846790, win 29200, options [mss 1460,sackOK,TS val 475653344 ecr 0,nop,wscale 7], length 0
+22:42:21.443400 IP whois-2.verisign-grs.com.whois > 142.93.118.186.36176: Flags [S.], seq 2756751800, ack 2330846791, win 13480, options [mss 1360,sackOK,TS val 2260313777 ecr 475653344,nop,wscale 7], length 0
+22:42:21.443454 IP 142.93.118.186.36176 > whois-2.verisign-grs.com.whois: Flags [.], ack 1, win 229, options [nop,nop,TS val 475653349 ecr 2260313777], length 0
+22:42:21.443532 IP 142.93.118.186.36176 > whois-2.verisign-grs.com.whois: Flags [P.], seq 1:14, ack 1, win 229, options [nop,nop,TS val 475653349 ecr 2260313777], length 13
+22:42:21.448229 IP 104.248.224.85.33794 > 142.93.118.186.2749: Flags [S], seq 713670068, win 29200, options [mss 1460,sackOK,TS val 2074056 ecr 0,nop,wscale 7], length 0
+22:42:21.448279 IP 142.93.118.186.2749 > 104.248.224.85.33794: Flags [S.], seq 4054690318, ack 713670069, win 28960, options [mss 1460,sackOK,TS val 475653350 ecr 2074056,nop,wscale 7], length 0
+22:42:21.448980 IP 104.248.224.85.33794 > 142.93.118.186.2749: Flags [.], ack 1, win 229, options [nop,nop,TS val 2074057 ecr 475653350], length 0
+22:42:21.449283 IP 142.93.118.186.2749 > 104.248.224.85.33794: Flags [P.], seq 1:26, ack 1, win 227, options [nop,nop,TS val 475653350 ecr 2074057], length 25
+22:42:21.449583 IP 104.248.224.85.33794 > 142.93.118.186.2749: Flags [.], ack 26, win 229, options [nop,nop,TS val 2074057 ecr 475653350], length 0
+22:42:21.464514 IP whois-2.verisign-grs.com.whois > 142.93.118.186.36176: Flags [.], ack 14, win 106, options [nop,nop,TS val 2260313798 ecr 475653349], length 0
+22:42:21.465150 IP whois-2.verisign-grs.com.whois > 142.93.118.186.36176: Flags [P.], seq 1:3240, ack 14, win 106, options [nop,nop,TS val 2260313799 ecr 475653349], length 3239
+22:42:21.465176 IP whois-2.verisign-grs.com.whois > 142.93.118.186.36176: Flags [F.], seq 3240, ack 14, win 106, options [nop,nop,TS val 2260313799 ecr 475653349], length 0
+22:42:21.465206 IP 142.93.118.186.36176 > whois-2.verisign-grs.com.whois: Flags [.], ack 3240, win 279, options [nop,nop,TS val 475653354 ecr 2260313799], length 0
+22:42:21.465291 IP 142.93.118.186.36176 > whois-2.verisign-grs.com.whois: Flags [F.], seq 14, ack 3241, win 279, options [nop,nop,TS val 475653354 ecr 2260313799], length 0
+22:42:21.486247 IP whois-2.verisign-grs.com.whois > 142.93.118.186.36176: Flags [.], ack 15, win 106, options [nop,nop,TS val 2260313820 ecr 475653354], length 0
+22:42:24.847756 IP 104.248.224.85.33794 > 142.93.118.186.2749: Flags [P.], seq 1:10, ack 26, win 229, options [nop,nop,TS val 2074906 ecr 475653350], length 9
+22:42:24.847804 IP 142.93.118.186.2749 > 104.248.224.85.33794: Flags [.], ack 10, win 227, options [nop,nop,TS val 475654200 ecr 2074906], length 0
+22:42:24.847958 IP 142.93.118.186.2749 > 104.248.224.85.33794: Flags [P.], seq 26:65, ack 10, win 227, options [nop,nop,TS val 475654200 ecr 2074906], length 39
+22:42:24.848189 IP 104.248.224.85.33794 > 142.93.118.186.2749: Flags [.], ack 65, win 229, options [nop,nop,TS val 2074906 ecr 475654200], length 0
+22:42:26.296102 IP 206.189.113.189.53878 > 142.93.118.186.2749: Flags [S], seq 1326303986, win 29200, options [mss 1460,sackOK,TS val 2059461 ecr 0,nop,wscale 7], length 0
+22:42:26.296155 IP 142.93.118.186.2749 > 206.189.113.189.53878: Flags [S.], seq 1695385287, ack 1326303987, win 28960, options [mss 1460,sackOK,TS val 475654562 ecr 2059461,nop,wscale 7], length 0
+22:42:26.365180 IP 206.189.113.189.53878 > 142.93.118.186.2749: Flags [.], ack 1, win 229, options [nop,nop,TS val 2059478 ecr 475654562], length 0
+22:42:26.365346 IP 142.93.118.186.2749 > 206.189.113.189.53878: Flags [P.], seq 1:26, ack 1, win 227, options [nop,nop,TS val 475654579 ecr 2059478], length 25
+22:42:26.433950 IP 206.189.113.189.53878 > 142.93.118.186.2749: Flags [.], ack 26, win 229, options [nop,nop,TS val 2059495 ecr 475654579], length 0
+22:42:26.527602 IP 114-47-150-62.dynamic-ip.hinet.net.64434 > 142.93.118.186.microsoft-ds: Flags [S], seq 3279652447, win 8192, options [mss 1440,nop,wscale 2,nop,nop,sackOK], length 0
+22:42:26.527647 IP 142.93.118.186.microsoft-ds > 114-47-150-62.dynamic-ip.hinet.net.64434: Flags [R.], seq 0, ack 3279652448, win 0, length 0
+22:42:27.225883 IP 114-47-150-62.dynamic-ip.hinet.net.64434 > 142.93.118.186.microsoft-ds: Flags [S], seq 3279652447, win 8192, options [mss 1440,nop,wscale 2,nop,nop,sackOK], length 0
+22:42:27.225932 IP 142.93.118.186.microsoft-ds > 114-47-150-62.dynamic-ip.hinet.net.64434: Flags [R.], seq 0, ack 1, win 0, length 0
+22:42:27.468599 IP 142.93.118.186.54565 > 67.207.67.2.domain: 357+ A? oracle.com. (28)
+22:42:27.468622 IP 142.93.118.186.54565 > 67.207.67.2.domain: 54623+ AAAA? oracle.com. (28)
+22:42:27.470340 IP 67.207.67.2.domain > 142.93.118.186.54565: 54623 0/1/0 (93)
+22:42:27.471388 IP 67.207.67.2.domain > 142.93.118.186.54565: 357 1/0/0 A 137.254.120.50 (44)
+22:42:27.471489 IP 142.93.118.186.36208 > vp-ocoma-cms-adc.oracle.com.http: Flags [S], seq 958308271, win 29200, options [mss 1460,sackOK,TS val 475654856 ecr 0,nop,wscale 7], length 0
+22:42:27.515809 IP vp-ocoma-cms-adc.oracle.com.http > 142.93.118.186.36208: Flags [S.], seq 3497819762, ack 958308272, win 4380, options [mss 1460,nop,nop,TS val 2837055526 ecr 475654856,sackOK,eol], length 0
+22:42:27.515853 IP 142.93.118.186.36208 > vp-ocoma-cms-adc.oracle.com.http: Flags [.], ack 1, win 29200, options [nop,nop,TS val 475654867 ecr 2837055526], length 0
+22:42:27.515933 IP 142.93.118.186.36208 > vp-ocoma-cms-adc.oracle.com.http: Flags [P.], seq 1:138, ack 1, win 29200, options [nop,nop,TS val 475654867 ecr 2837055526], length 137: HTTP: GET / HTTP/1.1
+22:42:27.559623 IP vp-ocoma-cms-adc.oracle.com.http > 142.93.118.186.36208: Flags [P.], seq 1:107, ack 138, win 4380, options [nop,nop,TS val 2837055570 ecr 475654867], length 106: HTTP: HTTP/1.0 301 Moved Permanently
+22:42:27.559670 IP 142.93.118.186.36208 > vp-ocoma-cms-adc.oracle.com.http: Flags [.], ack 107, win 29200, options [nop,nop,TS val 475654878 ecr 2837055570], length 0
+22:42:27.559686 IP vp-ocoma-cms-adc.oracle.com.http > 142.93.118.186.36208: Flags [F.], seq 107, ack 138, win 4517, options [nop,nop,TS val 2837055570 ecr 475654867], length 0
+22:42:27.559840 IP 142.93.118.186.36208 > vp-ocoma-cms-adc.oracle.com.http: Flags [F.], seq 138, ack 108, win 29200, options [nop,nop,TS val 475654878 ecr 2837055570], length 0
+22:42:27.560069 IP 142.93.118.186.40233 > 67.207.67.2.domain: 32593+ A? www.oracle.com. (32)
+22:42:27.560084 IP 142.93.118.186.40233 > 67.207.67.2.domain: 38738+ AAAA? www.oracle.com. (32)
+22:42:27.561613 IP 67.207.67.2.domain > 142.93.118.186.40233: 32593 3/0/0 CNAME ds-www.oracle.com.edgekey.net., CNAME e870.dscx.akamaiedge.net., A 23.193.182.108 (126)
+22:42:27.561895 IP 67.207.67.2.domain > 142.93.118.186.40233: 38738 4/0/0 CNAME ds-www.oracle.com.edgekey.net., CNAME e870.dscx.akamaiedge.net., AAAA 2600:1400:d:18e::366, AAAA 2600:1400:d:183::366 (166)
+22:42:27.562192 IP 142.93.118.186.54678 > a23-193-182-108.deploy.static.akamaitechnologies.com.http: Flags [S], seq 1526867399, win 29200, options [mss 1460,sackOK,TS val 475654879 ecr 0,nop,wscale 7], length 0
+22:42:27.562911 IP a23-193-182-108.deploy.static.akamaitechnologies.com.http > 142.93.118.186.54678: Flags [S.], seq 84963278, ack 1526867400, win 28960, options [mss 1460,sackOK,TS val 4129479675 ecr 475654879,nop,wscale 7], length 0
+22:42:27.562939 IP 142.93.118.186.54678 > a23-193-182-108.deploy.static.akamaitechnologies.com.http: Flags [.], ack 1, win 229, options [nop,nop,TS val 475654879 ecr 4129479675], length 0
+22:42:27.562985 IP 142.93.118.186.54678 > a23-193-182-108.deploy.static.akamaitechnologies.com.http: Flags [P.], seq 1:142, ack 1, win 229, options [nop,nop,TS val 475654879 ecr 4129479675], length 141: HTTP: GET / HTTP/1.1
+22:42:27.563729 IP a23-193-182-108.deploy.static.akamaitechnologies.com.http > 142.93.118.186.54678: Flags [.], ack 142, win 235, options [nop,nop,TS val 4129479675 ecr 475654879], length 0
+22:42:27.568627 IP a23-193-182-108.deploy.static.akamaitechnologies.com.http > 142.93.118.186.54678: Flags [P.], seq 1:283, ack 142, win 235, options [nop,nop,TS val 4129479680 ecr 475654879], length 282: HTTP: HTTP/1.1 301 Moved Permanently
+22:42:27.568657 IP 142.93.118.186.54678 > a23-193-182-108.deploy.static.akamaitechnologies.com.http: Flags [.], ack 283, win 237, options [nop,nop,TS val 475654880 ecr 4129479680], length 0
+22:42:27.571217 IP 142.93.118.186.48730 > a23-193-182-108.deploy.static.akamaitechnologies.com.https: Flags [S], seq 655244564, win 29200, options [mss 1460,sackOK,TS val 475654881 ecr 0,nop,wscale 7], length 0
+22:42:27.571880 IP a23-193-182-108.deploy.static.akamaitechnologies.com.https > 142.93.118.186.48730: Flags [S.], seq 1167804540, ack 655244565, win 28960, options [mss 1460,sackOK,TS val 1974339688 ecr 475654881,nop,wscale 7], length 0
+22:42:27.571901 IP 142.93.118.186.48730 > a23-193-182-108.deploy.static.akamaitechnologies.com.https: Flags [.], ack 1, win 229, options [nop,nop,TS val 475654881 ecr 1974339688], length 0
+22:42:27.572021 IP 142.93.118.186.48730 > a23-193-182-108.deploy.static.akamaitechnologies.com.https: Flags [P.], seq 1:329, ack 1, win 229, options [nop,nop,TS val 475654881 ecr 1974339688], length 328
+22:42:27.572629 IP a23-193-182-108.deploy.static.akamaitechnologies.com.https > 142.93.118.186.48730: Flags [.], ack 329, win 235, options [nop,nop,TS val 1974339688 ecr 475654881], length 0
+22:42:27.573856 IP a23-193-182-108.deploy.static.akamaitechnologies.com.https > 142.93.118.186.48730: Flags [P.], seq 1:2641, ack 329, win 235, options [nop,nop,TS val 1974339689 ecr 475654881], length 2640
+22:42:27.573877 IP 142.93.118.186.48730 > a23-193-182-108.deploy.static.akamaitechnologies.com.https: Flags [.], ack 2641, win 270, options [nop,nop,TS val 475654882 ecr 1974339689], length 0
+22:42:27.576220 IP 142.93.118.186.48730 > a23-193-182-108.deploy.static.akamaitechnologies.com.https: Flags [P.], seq 329:455, ack 2641, win 270, options [nop,nop,TS val 475654882 ecr 1974339689], length 126
+22:42:27.577172 IP a23-193-182-108.deploy.static.akamaitechnologies.com.https > 142.93.118.186.48730: Flags [P.], seq 2641:2883, ack 455, win 235, options [nop,nop,TS val 1974339693 ecr 475654882], length 242
+22:42:27.577291 IP 142.93.118.186.48730 > a23-193-182-108.deploy.static.akamaitechnologies.com.https: Flags [P.], seq 455:635, ack 2883, win 292, options [nop,nop,TS val 475654882 ecr 1974339693], length 180
+22:42:27.584942 IP a23-193-182-108.deploy.static.akamaitechnologies.com.https > 142.93.118.186.48730: Flags [.], seq 2883:8675, ack 635, win 243, options [nop,nop,TS val 1974339701 ecr 475654882], length 5792
+22:42:27.584981 IP 142.93.118.186.48730 > a23-193-182-108.deploy.static.akamaitechnologies.com.https: Flags [.], ack 8675, win 383, options [nop,nop,TS val 475654884 ecr 1974339701], length 0
+22:42:27.584991 IP a23-193-182-108.deploy.static.akamaitechnologies.com.https > 142.93.118.186.48730: Flags [.], seq 8675:15915, ack 635, win 243, options [nop,nop,TS val 1974339701 ecr 475654882], length 7240
+22:42:27.585007 IP 142.93.118.186.48730 > a23-193-182-108.deploy.static.akamaitechnologies.com.https: Flags [.], ack 15915, win 496, options [nop,nop,TS val 475654884 ecr 1974339701], length 0
+22:42:27.585013 IP a23-193-182-108.deploy.static.akamaitechnologies.com.https > 142.93.118.186.48730: Flags [P.], seq 15915:19296, ack 635, win 243, options [nop,nop,TS val 1974339701 ecr 475654882], length 3381
+22:42:27.585023 IP 142.93.118.186.48730 > a23-193-182-108.deploy.static.akamaitechnologies.com.https: Flags [.], ack 19296, win 549, options [nop,nop,TS val 475654884 ecr 1974339701], length 0
+22:42:27.585029 IP a23-193-182-108.deploy.static.akamaitechnologies.com.https > 142.93.118.186.48730: Flags [.], seq 19296:22192, ack 635, win 243, options [nop,nop,TS val 1974339701 ecr 475654882], length 2896
+22:42:27.585034 IP 142.93.118.186.48730 > a23-193-182-108.deploy.static.akamaitechnologies.com.https: Flags [.], ack 22192, win 594, options [nop,nop,TS val 475654884 ecr 1974339701], length 0
+22:42:27.585045 IP a23-193-182-108.deploy.static.akamaitechnologies.com.https > 142.93.118.186.48730: Flags [.], seq 22192:25088, ack 635, win 243, options [nop,nop,TS val 1974339701 ecr 475654882], length 2896
+22:42:27.585051 IP 142.93.118.186.48730 > a23-193-182-108.deploy.static.akamaitechnologies.com.https: Flags [.], ack 25088, win 639, options [nop,nop,TS val 475654884 ecr 1974339701], length 0
+22:42:27.585166 IP 142.93.118.186.54678 > a23-193-182-108.deploy.static.akamaitechnologies.com.http: Flags [F.], seq 142, ack 283, win 237, options [nop,nop,TS val 475654884 ecr 4129479680], length 0
+22:42:27.585699 IP a23-193-182-108.deploy.static.akamaitechnologies.com.https > 142.93.118.186.48730: Flags [.], seq 26536:29432, ack 635, win 243, options [nop,nop,TS val 1974339701 ecr 475654884], length 2896
+22:42:27.585722 IP a23-193-182-108.deploy.static.akamaitechnologies.com.https > 142.93.118.186.48730: Flags [.], seq 25088:26536, ack 635, win 243, options [nop,nop,TS val 1974339701 ecr 475654884], length 1448
+22:42:27.585726 IP a23-193-182-108.deploy.static.akamaitechnologies.com.https > 142.93.118.186.48730: Flags [.], seq 30880:33776, ack 635, win 243, options [nop,nop,TS val 1974339701 ecr 475654884], length 2896
+22:42:27.585732 IP a23-193-182-108.deploy.static.akamaitechnologies.com.https > 142.93.118.186.48730: Flags [.], seq 29432:30880, ack 635, win 243, options [nop,nop,TS val 1974339701 ecr 475654884], length 1448
+22:42:27.585736 IP a23-193-182-108.deploy.static.akamaitechnologies.com.https > 142.93.118.186.48730: Flags [.], seq 35224:38120, ack 635, win 243, options [nop,nop,TS val 1974339701 ecr 475654884], length 2896
+22:42:27.585740 IP a23-193-182-108.deploy.static.akamaitechnologies.com.https > 142.93.118.186.48730: Flags [.], seq 38120:41016, ack 635, win 243, options [nop,nop,TS val 1974339701 ecr 475654884], length 2896
+22:42:27.585744 IP a23-193-182-108.deploy.static.akamaitechnologies.com.https > 142.93.118.186.48730: Flags [.], seq 33776:35224, ack 635, win 243, options [nop,nop,TS val 1974339701 ecr 475654884], length 1448
+22:42:27.585765 IP a23-193-182-108.deploy.static.akamaitechnologies.com.https > 142.93.118.186.48730: Flags [.], seq 41016:43912, ack 635, win 243, options [nop,nop,TS val 1974339701 ecr 475654884], length 2896
+22:42:27.585781 IP a23-193-182-108.deploy.static.akamaitechnologies.com.https > 142.93.118.186.48730: Flags [.], seq 43912:46808, ack 635, win 243, options [nop,nop,TS val 1974339701 ecr 475654884], length 2896
+22:42:27.585800 IP 142.93.118.186.48730 > a23-193-182-108.deploy.static.akamaitechnologies.com.https: Flags [.], ack 25088, win 685, options [nop,nop,TS val 475654885 ecr 1974339701,nop,nop,sack 1 {26536:29432}], length 0
+22:42:27.585820 IP a23-193-182-108.deploy.static.akamaitechnologies.com.https > 142.93.118.186.48730: Flags [P.], seq 46808:48000, ack 635, win 243, options [nop,nop,TS val 1974339701 ecr 475654884], length 1192
+22:42:27.585829 IP 142.93.118.186.48730 > a23-193-182-108.deploy.static.akamaitechnologies.com.https: Flags [.], ack 29432, win 707, options [nop,nop,TS val 475654885 ecr 1974339701], length 0
+22:42:27.585837 IP 142.93.118.186.48730 > a23-193-182-108.deploy.static.akamaitechnologies.com.https: Flags [.], ack 29432, win 753, options [nop,nop,TS val 475654885 ecr 1974339701,nop,nop,sack 1 {30880:33776}], length 0
+22:42:27.585842 IP 142.93.118.186.48730 > a23-193-182-108.deploy.static.akamaitechnologies.com.https: Flags [.], ack 33776, win 775, options [nop,nop,TS val 475654885 ecr 1974339701], length 0
+22:42:27.585850 IP 142.93.118.186.48730 > a23-193-182-108.deploy.static.akamaitechnologies.com.https: Flags [.], ack 33776, win 820, options [nop,nop,TS val 475654885 ecr 1974339701,nop,nop,sack 1 {35224:38120}], length 0
+22:42:27.585854 IP 142.93.118.186.48730 > a23-193-182-108.deploy.static.akamaitechnologies.com.https: Flags [.], ack 33776, win 866, options [nop,nop,TS val 475654885 ecr 1974339701,nop,nop,sack 1 {35224:41016}], length 0
+22:42:27.585858 IP 142.93.118.186.48730 > a23-193-182-108.deploy.static.akamaitechnologies.com.https: Flags [.], ack 41016, win 888, options [nop,nop,TS val 475654885 ecr 1974339701], length 0
+22:42:27.585862 IP 142.93.118.186.48730 > a23-193-182-108.deploy.static.akamaitechnologies.com.https: Flags [.], ack 43912, win 934, options [nop,nop,TS val 475654885 ecr 1974339701], length 0
+22:42:27.585865 IP 142.93.118.186.48730 > a23-193-182-108.deploy.static.akamaitechnologies.com.https: Flags [.], ack 46808, win 979, options [nop,nop,TS val 475654885 ecr 1974339701], length 0
+22:42:27.585868 IP a23-193-182-108.deploy.static.akamaitechnologies.com.http > 142.93.118.186.54678: Flags [F.], seq 283, ack 143, win 235, options [nop,nop,TS val 4129479698 ecr 475654884], length 0
+22:42:27.585878 IP 142.93.118.186.54678 > a23-193-182-108.deploy.static.akamaitechnologies.com.http: Flags [.], ack 284, win 237, options [nop,nop,TS val 475654885 ecr 4129479698], length 0
+22:42:27.585893 IP 142.93.118.186.48730 > a23-193-182-108.deploy.static.akamaitechnologies.com.https: Flags [.], ack 48000, win 1001, options [nop,nop,TS val 475654885 ecr 1974339701], length 0
+22:42:27.586523 IP 142.93.118.186.48730 > a23-193-182-108.deploy.static.akamaitechnologies.com.https: Flags [F.], seq 635, ack 48000, win 1001, options [nop,nop,TS val 475654885 ecr 1974339701], length 0
+22:42:27.586801 IP a23-193-182-108.deploy.static.akamaitechnologies.com.https > 142.93.118.186.48730: Flags [.], seq 33776:35224, ack 635, win 243, options [nop,nop,TS val 1974339702 ecr 475654885], length 1448
+22:42:27.586815 IP 142.93.118.186.48730 > a23-193-182-108.deploy.static.akamaitechnologies.com.https: Flags [.], ack 48000, win 1001, options [nop,nop,TS val 475654885 ecr 1974339701,nop,nop,sack 1 {33776:35224}], length 0
+22:42:27.587722 IP a23-193-182-108.deploy.static.akamaitechnologies.com.https > 142.93.118.186.48730: Flags [P.], seq 48000:48031, ack 636, win 243, options [nop,nop,TS val 1974339703 ecr 475654885], length 31
+22:42:27.587750 IP 142.93.118.186.48730 > a23-193-182-108.deploy.static.akamaitechnologies.com.https: Flags [R], seq 655245200, win 0, length 0
+22:42:27.587763 IP a23-193-182-108.deploy.static.akamaitechnologies.com.https > 142.93.118.186.48730: Flags [F.], seq 48031, ack 636, win 243, options [nop,nop,TS val 1974339703 ecr 475654885], length 0
+22:42:27.587770 IP 142.93.118.186.48730 > a23-193-182-108.deploy.static.akamaitechnologies.com.https: Flags [R], seq 655245200, win 0, length 0
+22:42:27.603519 IP vp-ocoma-cms-adc.oracle.com.http > 142.93.118.186.36208: Flags [.], ack 139, win 4517, options [nop,nop,TS val 2837055614 ecr 475654878], length 0
+22:42:31.193852 IP 206.189.113.189.53878 > 142.93.118.186.2749: Flags [P.], seq 1:14, ack 26, win 229, options [nop,nop,TS val 2060685 ecr 475654579], length 13
+22:42:31.193898 IP 142.93.118.186.2749 > 206.189.113.189.53878: Flags [.], ack 14, win 227, options [nop,nop,TS val 475655787 ecr 2060685], length 0
+22:42:31.194015 IP 142.93.118.186.2749 > 206.189.113.189.53878: Flags [P.], seq 26:69, ack 14, win 227, options [nop,nop,TS val 475655787 ecr 2060685], length 43
+22:42:31.194040 IP 142.93.118.186.2749 > 104.248.224.85.33794: Flags [P.], seq 65:103, ack 10, win 227, options [nop,nop,TS val 475655787 ecr 2074906], length 38
+22:42:31.194460 IP 104.248.224.85.33794 > 142.93.118.186.2749: Flags [.], ack 103, win 229, options [nop,nop,TS val 2076493 ecr 475655787], length 0
+22:42:31.262537 IP 206.189.113.189.53878 > 142.93.118.186.2749: Flags [.], ack 69, win 229, options [nop,nop,TS val 2060702 ecr 475655787], length 0
+22:42:33.595467 IP 142.93.118.186.52622 > 67.207.67.2.domain: 52606+ A? microsoft.com. (31)
+22:42:33.596059 IP 67.207.67.2.domain > 142.93.118.186.52622: 52606 5/0/0 A 40.113.200.201, A 13.77.161.179, A 104.215.148.63, A 40.76.4.15, A 40.112.72.205 (111)
+22:42:33.598830 IP 142.93.118.186.58408 > 67.207.67.2.domain: 22877+ A? csec.umd.edu. (30)
+22:42:33.598853 IP 142.93.118.186.58408 > 67.207.67.2.domain: 63823+ AAAA? csec.umd.edu. (30)
+22:42:33.599424 IP 67.207.67.2.domain > 142.93.118.186.58408: 22877 2/0/0 CNAME csec.umiacs.umd.edu., A 128.8.120.43 (72)
+22:42:33.616001 IP 67.207.67.2.domain > 142.93.118.186.58408: 63823 1/1/0 CNAME csec.umiacs.umd.edu. (112)
+22:42:33.616214 IP 142.93.118.186.35020 > csec-vip.umiacs.umd.edu.http: Flags [S], seq 1047921896, win 29200, options [mss 1460,sackOK,TS val 475656392 ecr 0,nop,wscale 7], length 0
+22:42:33.626185 IP csec-vip.umiacs.umd.edu.http > 142.93.118.186.35020: Flags [S.], seq 1915146468, ack 1047921897, win 28960, options [mss 1460,sackOK,TS val 526654804 ecr 475656392,nop,wscale 7], length 0
+22:42:33.626235 IP 142.93.118.186.35020 > csec-vip.umiacs.umd.edu.http: Flags [.], ack 1, win 229, options [nop,nop,TS val 475656395 ecr 526654804], length 0
+22:42:33.626322 IP 142.93.118.186.35020 > csec-vip.umiacs.umd.edu.http: Flags [P.], seq 1:140, ack 1, win 229, options [nop,nop,TS val 475656395 ecr 526654804], length 139: HTTP: GET / HTTP/1.1
+22:42:33.643501 IP csec-vip.umiacs.umd.edu.http > 142.93.118.186.35020: Flags [.], seq 1:4345, ack 140, win 235, options [nop,nop,TS val 526654817 ecr 475656395], length 4344: HTTP: HTTP/1.1 200 OK
+22:42:33.643543 IP 142.93.118.186.35020 > csec-vip.umiacs.umd.edu.http: Flags [.], ack 4345, win 296, options [nop,nop,TS val 475656399 ecr 526654817], length 0
+22:42:33.643554 IP csec-vip.umiacs.umd.edu.http > 142.93.118.186.35020: Flags [.], seq 4345:13033, ack 140, win 235, options [nop,nop,TS val 526654817 ecr 475656395], length 8688: HTTP
+22:42:33.643563 IP 142.93.118.186.35020 > csec-vip.umiacs.umd.edu.http: Flags [.], ack 13033, win 432, options [nop,nop,TS val 475656399 ecr 526654817], length 0
+22:42:33.653466 IP csec-vip.umiacs.umd.edu.http > 142.93.118.186.35020: Flags [P.], seq 13033:16317, ack 140, win 235, options [nop,nop,TS val 526654831 ecr 475656399], length 3284: HTTP
+22:42:33.653505 IP 142.93.118.186.35020 > csec-vip.umiacs.umd.edu.http: Flags [.], ack 16317, win 484, options [nop,nop,TS val 475656401 ecr 526654831], length 0
+22:42:33.654067 IP 142.93.118.186.35020 > csec-vip.umiacs.umd.edu.http: Flags [F.], seq 140, ack 16317, win 484, options [nop,nop,TS val 475656402 ecr 526654831], length 0
+22:42:33.663429 IP csec-vip.umiacs.umd.edu.http > 142.93.118.186.35020: Flags [F.], seq 16317, ack 141, win 235, options [nop,nop,TS val 526654841 ecr 475656402], length 0
+22:42:33.663471 IP 142.93.118.186.35020 > csec-vip.umiacs.umd.edu.http: Flags [.], ack 16318, win 484, options [nop,nop,TS val 475656404 ecr 526654841], length 0
+22:42:35.365611 IP 104.248.224.85.33794 > 142.93.118.186.2749: Flags [P.], seq 10:34, ack 103, win 229, options [nop,nop,TS val 2077536 ecr 475655787], length 24
+22:42:35.365737 IP 142.93.118.186.2749 > 206.189.113.189.53878: Flags [P.], seq 69:105, ack 14, win 227, options [nop,nop,TS val 475656830 ecr 2060702], length 36
+22:42:35.401707 IP 142.93.118.186.2749 > 104.248.224.85.33794: Flags [.], ack 34, win 227, options [nop,nop,TS val 475656839 ecr 2077536], length 0
+22:42:35.434387 IP 206.189.113.189.53878 > 142.93.118.186.2749: Flags [.], ack 105, win 229, options [nop,nop,TS val 2061745 ecr 475656830], length 0
+22:42:39.655823 IP 142.93.118.186.45738 > 67.207.67.2.domain: 46403+ A? csec.umd.edu. (30)
+22:42:39.655845 IP 142.93.118.186.45738 > 67.207.67.2.domain: 32540+ AAAA? csec.umd.edu. (30)
+22:42:39.656322 IP 67.207.67.2.domain > 142.93.118.186.45738: 46403 2/0/0 CNAME csec.umiacs.umd.edu., A 128.8.120.43 (72)
+22:42:39.672093 IP 67.207.67.2.domain > 142.93.118.186.45738: 32540 1/1/0 CNAME csec.umiacs.umd.edu. (112)
+22:42:39.672312 IP 142.93.118.186.49601 > csec-vip.umiacs.umd.edu.33434: UDP, length 32
+22:42:39.672366 IP 142.93.118.186.46852 > csec-vip.umiacs.umd.edu.33435: UDP, length 32
+22:42:39.672386 IP 142.93.118.186.36769 > csec-vip.umiacs.umd.edu.33436: UDP, length 32
+22:42:39.672404 IP 142.93.118.186.35210 > csec-vip.umiacs.umd.edu.33437: UDP, length 32
+22:42:39.672422 IP 142.93.118.186.59866 > csec-vip.umiacs.umd.edu.33438: UDP, length 32
+22:42:39.672439 IP 142.93.118.186.37043 > csec-vip.umiacs.umd.edu.33439: UDP, length 32
+22:42:39.672456 IP 142.93.118.186.33986 > csec-vip.umiacs.umd.edu.33440: UDP, length 32
+22:42:39.672473 IP 142.93.118.186.38063 > csec-vip.umiacs.umd.edu.33441: UDP, length 32
+22:42:39.672500 IP 142.93.118.186.37968 > csec-vip.umiacs.umd.edu.33442: UDP, length 32
+22:42:39.672517 IP 142.93.118.186.53937 > csec-vip.umiacs.umd.edu.33443: UDP, length 32
+22:42:39.672536 IP 142.93.118.186.60718 > csec-vip.umiacs.umd.edu.33444: UDP, length 32
+22:42:39.672561 IP 142.93.118.186.42898 > csec-vip.umiacs.umd.edu.33445: UDP, length 32
+22:42:39.672589 IP 142.93.118.186.44570 > csec-vip.umiacs.umd.edu.33446: UDP, length 32
+22:42:39.672614 IP 142.93.118.186.33785 > csec-vip.umiacs.umd.edu.33447: UDP, length 32
+22:42:39.672749 IP 142.93.118.186.50480 > csec-vip.umiacs.umd.edu.33448: UDP, length 32
+22:42:39.672769 IP 142.93.118.186.33325 > csec-vip.umiacs.umd.edu.33449: UDP, length 32
+22:42:39.673359 IP 138.197.251.84 > 142.93.118.186: ICMP time exceeded in-transit, length 36
+22:42:39.673378 IP 142.93.112.253 > 142.93.118.186: ICMP time exceeded in-transit, length 36
+22:42:39.673383 IP 138.197.251.84 > 142.93.118.186: ICMP time exceeded in-transit, length 36
+22:42:39.673390 IP 142.93.112.253 > 142.93.118.186: ICMP time exceeded in-transit, length 36
+22:42:39.673453 IP 142.93.112.253 > 142.93.118.186: ICMP time exceeded in-transit, length 36
+22:42:39.673551 IP 142.93.118.186.34043 > 67.207.67.2.domain: 56235+ PTR? 253.112.93.142.in-addr.arpa. (45)
+22:42:39.674083 IP 67.207.67.2.domain > 142.93.118.186.34043: 56235 NXDomain 0/1/0 (112)
+22:42:39.674172 IP 138.197.251.64 > 142.93.118.186: ICMP time exceeded in-transit, length 36
+22:42:39.674202 IP 142.93.118.186.45367 > csec-vip.umiacs.umd.edu.33450: UDP, length 32
+22:42:39.674264 IP 142.93.118.186.36061 > csec-vip.umiacs.umd.edu.33451: UDP, length 32
+22:42:39.674291 IP 142.93.118.186.40343 > csec-vip.umiacs.umd.edu.33452: UDP, length 32
+22:42:39.674313 IP 142.93.118.186.38644 > csec-vip.umiacs.umd.edu.33453: UDP, length 32
+22:42:39.674424 IP 142.93.118.186.46049 > 67.207.67.2.domain: 45526+ PTR? 64.251.197.138.in-addr.arpa. (45)
+22:42:39.674882 IP 67.207.67.2.domain > 142.93.118.186.46049: 45526 NXDomain 0/1/0 (112)
+22:42:39.674989 IP 142.93.118.186.32909 > 67.207.67.2.domain: 38870+ PTR? 84.251.197.138.in-addr.arpa. (45)
+22:42:39.679938 IP 67.207.67.2.domain > 142.93.118.186.32909: 38870 NXDomain 0/1/0 (112)
+22:42:39.680021 IP 142.93.118.186.44887 > csec-vip.umiacs.umd.edu.33454: UDP, length 32
+22:42:39.680040 IP 142.93.118.186.52578 > csec-vip.umiacs.umd.edu.33455: UDP, length 32
+22:42:39.681004 IP MID-ATLANTI.ear2.Washington1.Level3.net > 142.93.118.186: ICMP time exceeded in-transit, length 36
+22:42:39.681020 IP MID-ATLANTI.ear2.Washington1.Level3.net > 142.93.118.186: ICMP time exceeded in-transit, length 36
+22:42:39.681076 IP MID-ATLANTI.ear2.Washington1.Level3.net > 142.93.118.186: ICMP time exceeded in-transit, length 36
+22:42:39.681097 IP 142.93.118.186.47148 > csec-vip.umiacs.umd.edu.33456: UDP, length 32
+22:42:39.681116 IP 142.93.118.186.53213 > csec-vip.umiacs.umd.edu.33457: UDP, length 32
+22:42:39.681136 IP 142.93.118.186.46050 > csec-vip.umiacs.umd.edu.33458: UDP, length 32
+22:42:39.682189 IP ae0.clpk-core.maxgigapop.net > 142.93.118.186: ICMP time exceeded in-transit, length 148
+22:42:39.682230 IP 142.93.118.186.50106 > csec-vip.umiacs.umd.edu.33459: UDP, length 32
+22:42:39.683506 IP umd-isp.clpk.demarc.maxgigapop.net > 142.93.118.186: ICMP time exceeded in-transit, length 76
+22:42:39.683544 IP ae0.clpk-core.maxgigapop.net > 142.93.118.186: ICMP time exceeded in-transit, length 148
+22:42:39.683568 IP 142.93.118.186.52479 > csec-vip.umiacs.umd.edu.33460: UDP, length 32
+22:42:39.683592 IP 142.93.118.186.43365 > csec-vip.umiacs.umd.edu.33461: UDP, length 32
+22:42:39.683817 IP ae0.clpk-core.maxgigapop.net > 142.93.118.186: ICMP time exceeded in-transit, length 148
+22:42:39.683842 IP 142.93.118.186.49106 > csec-vip.umiacs.umd.edu.33462: UDP, length 32
+22:42:39.683926 IP umd-isp.clpk.demarc.maxgigapop.net > 142.93.118.186: ICMP time exceeded in-transit, length 76
+22:42:39.683949 IP 142.93.118.186.50460 > csec-vip.umiacs.umd.edu.33463: UDP, length 32
+22:42:39.689699 IP umd-isp.clpk.demarc.maxgigapop.net > 142.93.118.186: ICMP time exceeded in-transit, length 76
+22:42:39.689787 IP 142.93.118.186.55372 > csec-vip.umiacs.umd.edu.33464: UDP, length 32
+22:42:39.690388 IP 128.8.0.12 > 142.93.118.186: ICMP time exceeded in-transit, length 36
+22:42:39.690424 IP 142.93.118.186.36381 > csec-vip.umiacs.umd.edu.33465: UDP, length 32
+22:42:39.690649 IP 128.8.0.155 > 142.93.118.186: ICMP time exceeded in-transit, length 36
+22:42:39.690709 IP 142.93.118.186.36653 > csec-vip.umiacs.umd.edu.33466: UDP, length 32
+22:42:39.691522 IP 128.8.0.12 > 142.93.118.186: ICMP time exceeded in-transit, length 36
+22:42:39.691562 IP 142.93.118.186.45271 > csec-vip.umiacs.umd.edu.33467: UDP, length 32
+22:42:39.691732 IP 128.8.0.155 > 142.93.118.186: ICMP time exceeded in-transit, length 36
+22:42:39.691770 IP 142.93.118.186.41190 > csec-vip.umiacs.umd.edu.33468: UDP, length 32
+22:42:39.691853 IP 128.8.0.12 > 142.93.118.186: ICMP time exceeded in-transit, length 36
+22:42:39.691882 IP 142.93.118.186.57184 > csec-vip.umiacs.umd.edu.33469: UDP, length 32
+22:42:39.693299 IP 128.8.0.155 > 142.93.118.186: ICMP time exceeded in-transit, length 36
+22:42:39.693350 IP 142.93.118.186.47115 > csec-vip.umiacs.umd.edu.33470: UDP, length 32
+22:42:39.694088 IP 128.8.0.97 > 142.93.118.186: ICMP time exceeded in-transit, length 36
+22:42:39.694094 IP 128.8.0.97 > 142.93.118.186: ICMP time exceeded in-transit, length 36
+22:42:39.694127 IP 142.93.118.186.36174 > csec-vip.umiacs.umd.edu.33471: UDP, length 32
+22:42:39.694146 IP 142.93.118.186.56330 > csec-vip.umiacs.umd.edu.33472: UDP, length 32
+22:42:39.694234 IP 128.8.0.97 > 142.93.118.186: ICMP time exceeded in-transit, length 36
+22:42:39.694266 IP 142.93.118.186.43330 > csec-vip.umiacs.umd.edu.33473: UDP, length 32
+22:42:39.699085 IP 128.8.7.2 > 142.93.118.186: ICMP time exceeded in-transit, length 36
+22:42:39.699146 IP 142.93.118.186.57959 > csec-vip.umiacs.umd.edu.33474: UDP, length 32
+22:42:39.699442 IP 128.8.7.2 > 142.93.118.186: ICMP time exceeded in-transit, length 36
+22:42:39.699480 IP 142.93.118.186.32922 > csec-vip.umiacs.umd.edu.33475: UDP, length 32
+22:42:39.700251 IP 128.8.7.2 > 142.93.118.186: ICMP time exceeded in-transit, length 36
+22:42:39.700294 IP 142.93.118.186.33394 > csec-vip.umiacs.umd.edu.33476: UDP, length 32
+22:42:39.703250 IP csec-vip.umiacs.umd.edu > 142.93.118.186: ICMP host csec-vip.umiacs.umd.edu unreachable - admin prohibited, length 68
+22:42:39.703681 IP csec-vip.umiacs.umd.edu > 142.93.118.186: ICMP host csec-vip.umiacs.umd.edu unreachable - admin prohibited, length 68
+22:42:39.703874 IP csec-vip.umiacs.umd.edu > 142.93.118.186: ICMP host csec-vip.umiacs.umd.edu unreachable - admin prohibited, length 68
+22:42:39.703880 IP csec-vip.umiacs.umd.edu > 142.93.118.186: ICMP host csec-vip.umiacs.umd.edu unreachable - admin prohibited, length 68
+22:42:39.708906 IP csec-vip.umiacs.umd.edu > 142.93.118.186: ICMP host csec-vip.umiacs.umd.edu unreachable - admin prohibited, length 68
+22:42:39.709323 IP csec-vip.umiacs.umd.edu > 142.93.118.186: ICMP host csec-vip.umiacs.umd.edu unreachable - admin prohibited, length 68
+22:42:39.714241 IP v62.avw-1139a.net.umiacs.umd.edu > 142.93.118.186: ICMP time exceeded in-transit, length 36
+22:42:39.714660 IP v62.avw-1139a.net.umiacs.umd.edu > 142.93.118.186: ICMP time exceeded in-transit, length 36
+22:42:39.714805 IP v62.avw-1139a.net.umiacs.umd.edu > 142.93.118.186: ICMP time exceeded in-transit, length 36
+22:42:39.741508 IP 59-115-128-236.dynamic-ip.hinet.net.64699 > 142.93.118.186.microsoft-ds: Flags [S], seq 189597798, win 8192, options [mss 1452,nop,nop,sackOK], length 0
+22:42:39.741559 IP 142.93.118.186.microsoft-ds > 59-115-128-236.dynamic-ip.hinet.net.64699: Flags [R.], seq 0, ack 189597799, win 0, length 0
+22:42:39.756393 IP 206.189.113.189.53878 > 142.93.118.186.2749: Flags [P.], seq 14:42, ack 105, win 229, options [nop,nop,TS val 2062826 ecr 475656830], length 28
+22:42:39.756555 IP 142.93.118.186.2749 > 104.248.224.85.33794: Flags [P.], seq 103:147, ack 34, win 227, options [nop,nop,TS val 475657927 ecr 2077536], length 44
+22:42:39.756937 IP 104.248.224.85.33794 > 142.93.118.186.2749: Flags [.], ack 147, win 229, options [nop,nop,TS val 2078634 ecr 475657927], length 0
+22:42:39.793708 IP 142.93.118.186.2749 > 206.189.113.189.53878: Flags [.], ack 42, win 227, options [nop,nop,TS val 475657937 ecr 2062826], length 0
+22:42:40.443424 IP 59-115-128-236.dynamic-ip.hinet.net.64699 > 142.93.118.186.microsoft-ds: Flags [S], seq 189597798, win 8192, options [mss 1452,nop,nop,sackOK], length 0
+22:42:40.443478 IP 142.93.118.186.microsoft-ds > 59-115-128-236.dynamic-ip.hinet.net.64699: Flags [R.], seq 0, ack 1, win 0, length 0
+22:42:40.852313 IP ae-1-3501.ear2.Washington1.Level3.net > 142.93.118.186: ICMP time exceeded in-transit, length 68
+22:42:40.852699 IP ae-1-3501.ear2.Washington1.Level3.net > 142.93.118.186: ICMP time exceeded in-transit, length 68
+22:42:40.853236 IP ae-1-3501.ear2.Washington1.Level3.net > 142.93.118.186: ICMP time exceeded in-transit, length 68
+22:42:44.676279 IP 142.93.118.186.59027 > 67.207.67.2.domain: 59724+ PTR? 69.206.69.4.in-addr.arpa. (42)
+22:42:44.873578 IP 67.207.67.2.domain > 142.93.118.186.59027: 59724 1/0/0 PTR ae-1-3501.ear2.Washington1.Level3.net. (93)
+22:42:44.873831 IP 142.93.118.186.56165 > 67.207.67.2.domain: 16362+ PTR? 178.249.16.4.in-addr.arpa. (43)
+22:42:44.876332 IP 67.207.67.2.domain > 142.93.118.186.56165: 16362 1/0/0 PTR MID-ATLANTI.ear2.Washington1.Level3.net. (96)
+22:42:44.876480 IP 142.93.118.186.39665 > 67.207.67.2.domain: 52129+ PTR? 81.178.196.206.in-addr.arpa. (45)
+22:42:44.888619 IP 67.207.67.2.domain > 142.93.118.186.39665: 52129 1/0/0 PTR ae0.clpk-core.maxgigapop.net. (87)
+22:42:44.888797 IP 142.93.118.186.47082 > 67.207.67.2.domain: 59755+ PTR? 87.177.196.206.in-addr.arpa. (45)
+22:42:44.900590 IP 67.207.67.2.domain > 142.93.118.186.47082: 59755 1/0/0 PTR umd-isp.clpk.demarc.maxgigapop.net. (93)
+22:42:44.900786 IP 142.93.118.186.49193 > 67.207.67.2.domain: 57763+ PTR? 12.0.8.128.in-addr.arpa. (41)
+22:42:44.912999 IP 67.207.67.2.domain > 142.93.118.186.49193: 57763 NXDomain 0/1/0 (108)
+22:42:44.913230 IP 142.93.118.186.59436 > 67.207.67.2.domain: 27533+ PTR? 155.0.8.128.in-addr.arpa. (42)
+22:42:44.924879 IP 67.207.67.2.domain > 142.93.118.186.59436: 27533 NXDomain 0/1/0 (109)
+22:42:44.925079 IP 142.93.118.186.44240 > 67.207.67.2.domain: 15208+ PTR? 97.0.8.128.in-addr.arpa. (41)
+22:42:44.938439 IP 67.207.67.2.domain > 142.93.118.186.44240: 15208 NXDomain 0/1/0 (108)
+22:42:44.938677 IP 142.93.118.186.42928 > 67.207.67.2.domain: 64866+ PTR? 2.7.8.128.in-addr.arpa. (40)
+22:42:44.951689 IP 67.207.67.2.domain > 142.93.118.186.42928: 64866 NXDomain 0/1/0 (107)
+22:42:44.951871 IP 142.93.118.186.57717 > 67.207.67.2.domain: 45986+ PTR? 194.118.8.128.in-addr.arpa. (44)
+22:42:45.008058 IP 67.207.67.2.domain > 142.93.118.186.57717: 45986 1/0/0 PTR v62.avw-1139a.net.umiacs.umd.edu. (90)
+22:42:45.008323 IP 142.93.118.186.37250 > 67.207.67.2.domain: 30203+ PTR? 43.120.8.128.in-addr.arpa. (43)
+22:42:45.052658 IP 67.207.67.2.domain > 142.93.118.186.37250: 30203 1/0/0 PTR csec-vip.umiacs.umd.edu. (80)
+22:42:48.486062 IP 104.248.224.85.33794 > 142.93.118.186.2749: Flags [P.], seq 34:69, ack 147, win 229, options [nop,nop,TS val 2080816 ecr 475657927], length 35
+22:42:48.486103 IP 142.93.118.186.2749 > 104.248.224.85.33794: Flags [.], ack 69, win 227, options [nop,nop,TS val 475660110 ecr 2080816], length 0
+22:42:48.486201 IP 142.93.118.186.2749 > 206.189.113.189.53878: Flags [P.], seq 105:152, ack 42, win 227, options [nop,nop,TS val 475660110 ecr 2062826], length 47
+22:42:48.554834 IP 206.189.113.189.53878 > 142.93.118.186.2749: Flags [.], ack 152, win 229, options [nop,nop,TS val 2065025 ecr 475660110], length 0
+22:42:52.057009 IP 142.93.118.186.58001 > 67.207.67.2.domain: 44899+ A? cnn.com. (25)
+22:42:52.057035 IP 142.93.118.186.58001 > 67.207.67.2.domain: 16218+ AAAA? cnn.com. (25)
+22:42:52.057556 IP 67.207.67.2.domain > 142.93.118.186.58001: 16218 4/0/0 AAAA 2a04:4e42::323, AAAA 2a04:4e42:400::323, AAAA 2a04:4e42:600::323, AAAA 2a04:4e42:200::323 (137)
+22:42:52.058784 IP 67.207.67.2.domain > 142.93.118.186.58001: 44899 4/0/0 A 151.101.129.67, A 151.101.1.67, A 151.101.193.67, A 151.101.65.67 (89)
+22:42:52.059089 IP 142.93.118.186.37996 > 151.101.129.67.http: Flags [S], seq 3111386597, win 29200, options [mss 1460,sackOK,TS val 475661003 ecr 0,nop,wscale 7], length 0
+22:42:52.060009 IP 151.101.129.67.http > 142.93.118.186.37996: Flags [S.], seq 706350592, ack 3111386598, win 26960, options [mss 1360,sackOK,TS val 1767848114 ecr 475661003,nop,wscale 9], length 0
+22:42:52.060054 IP 142.93.118.186.37996 > 151.101.129.67.http: Flags [.], ack 1, win 229, options [nop,nop,TS val 475661003 ecr 1767848114], length 0
+22:42:52.060095 IP 142.93.118.186.37996 > 151.101.129.67.http: Flags [P.], seq 1:135, ack 1, win 229, options [nop,nop,TS val 475661003 ecr 1767848114], length 134: HTTP: GET / HTTP/1.1
+22:42:52.060502 IP 151.101.129.67.http > 142.93.118.186.37996: Flags [.], ack 135, win 55, options [nop,nop,TS val 1767848115 ecr 475661003], length 0
+22:42:52.060675 IP 151.101.129.67.http > 142.93.118.186.37996: Flags [P.], seq 1:436, ack 135, win 55, options [nop,nop,TS val 1767848115 ecr 475661003], length 435: HTTP: HTTP/1.1 301 Moved Permanently
+22:42:52.060700 IP 142.93.118.186.37996 > 151.101.129.67.http: Flags [.], ack 436, win 237, options [nop,nop,TS val 475661003 ecr 1767848115], length 0
+22:42:52.060788 IP 151.101.129.67.http > 142.93.118.186.37996: Flags [F.], seq 436, ack 135, win 55, options [nop,nop,TS val 1767848115 ecr 475661003], length 0
+22:42:52.060814 IP 142.93.118.186.37996 > 151.101.129.67.http: Flags [F.], seq 135, ack 437, win 237, options [nop,nop,TS val 475661003 ecr 1767848115], length 0
+22:42:52.060925 IP 142.93.118.186.35875 > 67.207.67.2.domain: 38306+ A? www.cnn.com. (29)
+22:42:52.060934 IP 142.93.118.186.35875 > 67.207.67.2.domain: 8689+ AAAA? www.cnn.com. (29)
+22:42:52.061254 IP 151.101.129.67.http > 142.93.118.186.37996: Flags [.], ack 136, win 55, options [nop,nop,TS val 1767848115 ecr 475661003], length 0
+22:42:52.061471 IP 67.207.67.2.domain > 142.93.118.186.35875: 38306 2/0/0 CNAME turner-tls.map.fastly.net., A 151.101.21.67 (84)
+22:42:52.061493 IP 67.207.67.2.domain > 142.93.118.186.35875: 8689 2/0/0 CNAME turner-tls.map.fastly.net., AAAA 2a04:4e42:5::323 (96)
+22:42:52.061671 IP 142.93.118.186.40880 > 151.101.21.67.http: Flags [S], seq 1916649283, win 29200, options [mss 1460,sackOK,TS val 475661003 ecr 0,nop,wscale 7], length 0
+22:42:52.062112 IP 151.101.21.67.http > 142.93.118.186.40880: Flags [S.], seq 3636459010, ack 1916649284, win 26960, options [mss 1360,sackOK,TS val 1635219212 ecr 475661003,nop,wscale 9], length 0
+22:42:52.062126 IP 142.93.118.186.40880 > 151.101.21.67.http: Flags [.], ack 1, win 229, options [nop,nop,TS val 475661004 ecr 1635219212], length 0
+22:42:52.062151 IP 142.93.118.186.40880 > 151.101.21.67.http: Flags [P.], seq 1:196, ack 1, win 229, options [nop,nop,TS val 475661004 ecr 1635219212], length 195: HTTP: GET / HTTP/1.1
+22:42:52.062572 IP 151.101.21.67.http > 142.93.118.186.40880: Flags [.], ack 196, win 55, options [nop,nop,TS val 1635219212 ecr 475661004], length 0
+22:42:52.062738 IP 151.101.21.67.http > 142.93.118.186.40880: Flags [P.], seq 1:437, ack 196, win 55, options [nop,nop,TS val 1635219212 ecr 475661004], length 436: HTTP: HTTP/1.1 301 Moved Permanently
+22:42:52.062761 IP 142.93.118.186.40880 > 151.101.21.67.http: Flags [.], ack 437, win 237, options [nop,nop,TS val 475661004 ecr 1635219212], length 0
+22:42:52.062848 IP 151.101.21.67.http > 142.93.118.186.40880: Flags [F.], seq 437, ack 196, win 55, options [nop,nop,TS val 1635219212 ecr 475661004], length 0
+22:42:52.062857 IP 142.93.118.186.40880 > 151.101.21.67.http: Flags [F.], seq 196, ack 437, win 237, options [nop,nop,TS val 475661004 ecr 1635219212], length 0
+22:42:52.062875 IP 142.93.118.186.40880 > 151.101.21.67.http: Flags [.], ack 438, win 237, options [nop,nop,TS val 475661004 ecr 1635219212], length 0
+22:42:52.063240 IP 151.101.21.67.http > 142.93.118.186.40880: Flags [.], ack 197, win 55, options [nop,nop,TS val 1635219212 ecr 475661004], length 0
+22:42:52.065938 IP 142.93.118.186.35982 > 151.101.21.67.https: Flags [S], seq 3846393481, win 29200, options [mss 1460,sackOK,TS val 475661005 ecr 0,nop,wscale 7], length 0
+22:42:52.066482 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [S.], seq 3434323925, ack 3846393482, win 26960, options [mss 1360,sackOK,TS val 1788145141 ecr 475661005,nop,wscale 9], length 0
+22:42:52.066506 IP 142.93.118.186.35982 > 151.101.21.67.https: Flags [.], ack 1, win 229, options [nop,nop,TS val 475661005 ecr 1788145141], length 0
+22:42:52.066622 IP 142.93.118.186.35982 > 151.101.21.67.https: Flags [P.], seq 1:326, ack 1, win 229, options [nop,nop,TS val 475661005 ecr 1788145141], length 325
+22:42:52.067249 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [.], ack 326, win 55, options [nop,nop,TS val 1788145141 ecr 475661005], length 0
+22:42:52.068462 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [.], seq 1:4045, ack 326, win 55, options [nop,nop,TS val 1788145142 ecr 475661005], length 4044
+22:42:52.068476 IP 142.93.118.186.35982 > 151.101.21.67.https: Flags [.], ack 4045, win 292, options [nop,nop,TS val 475661005 ecr 1788145142], length 0
+22:42:52.068731 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [P.], seq 4045:4968, ack 326, win 55, options [nop,nop,TS val 1788145142 ecr 475661005], length 923
+22:42:52.068741 IP 142.93.118.186.35982 > 151.101.21.67.https: Flags [.], ack 4968, win 313, options [nop,nop,TS val 475661005 ecr 1788145142], length 0
+22:42:52.069507 IP 142.93.118.186.35982 > 151.101.21.67.https: Flags [P.], seq 326:452, ack 4968, win 313, options [nop,nop,TS val 475661005 ecr 1788145142], length 126
+22:42:52.070158 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [P.], seq 4968:5210, ack 452, win 55, options [nop,nop,TS val 1788145142 ecr 475661005], length 242
+22:42:52.070278 IP 142.93.118.186.35982 > 151.101.21.67.https: Flags [P.], seq 452:676, ack 5210, win 334, options [nop,nop,TS val 475661006 ecr 1788145142], length 224
+22:42:52.070896 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [P.], seq 5210:7998, ack 676, win 57, options [nop,nop,TS val 1788145142 ecr 475661006], length 2788
+22:42:52.070906 IP 142.93.118.186.35982 > 151.101.21.67.https: Flags [.], ack 7998, win 377, options [nop,nop,TS val 475661006 ecr 1788145142], length 0
+22:42:52.071168 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [P.], seq 7998:10786, ack 676, win 57, options [nop,nop,TS val 1788145142 ecr 475661006], length 2788
+22:42:52.071177 IP 142.93.118.186.35982 > 151.101.21.67.https: Flags [.], ack 10786, win 421, options [nop,nop,TS val 475661006 ecr 1788145142], length 0
+22:42:52.071185 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [.], seq 10786:16178, ack 676, win 57, options [nop,nop,TS val 1788145142 ecr 475661006], length 5392
+22:42:52.071192 IP 142.93.118.186.35982 > 151.101.21.67.https: Flags [.], ack 16178, win 505, options [nop,nop,TS val 475661006 ecr 1788145142], length 0
+22:42:52.071443 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [.], seq 16178:24266, ack 676, win 57, options [nop,nop,TS val 1788145142 ecr 475661006], length 8088
+22:42:52.071456 IP 142.93.118.186.35982 > 151.101.21.67.https: Flags [.], ack 24266, win 632, options [nop,nop,TS val 475661006 ecr 1788145142], length 0
+22:42:52.071728 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [.], seq 24266:43138, ack 676, win 57, options [nop,nop,TS val 1788145142 ecr 475661006], length 18872
+22:42:52.071751 IP 142.93.118.186.35982 > 151.101.21.67.https: Flags [.], ack 43138, win 927, options [nop,nop,TS val 475661006 ecr 1788145142], length 0
+22:42:52.072148 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [.], seq 43138:48530, ack 676, win 57, options [nop,nop,TS val 1788145143 ecr 475661006], length 5392
+22:42:52.072166 IP 142.93.118.186.35982 > 151.101.21.67.https: Flags [.], ack 48530, win 1011, options [nop,nop,TS val 475661006 ecr 1788145143], length 0
+22:42:52.072437 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [.], seq 48530:70098, ack 676, win 57, options [nop,nop,TS val 1788145143 ecr 475661006], length 21568
+22:42:52.072467 IP 142.93.118.186.35982 > 151.101.21.67.https: Flags [.], ack 70098, win 1348, options [nop,nop,TS val 475661006 ecr 1788145143], length 0
+22:42:52.072680 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [.], seq 70098:71446, ack 676, win 57, options [nop,nop,TS val 1788145143 ecr 475661006], length 1348
+22:42:52.072969 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [.], seq 71446:86274, ack 676, win 57, options [nop,nop,TS val 1788145143 ecr 475661006], length 14828
+22:42:52.072984 IP 142.93.118.186.35982 > 151.101.21.67.https: Flags [.], ack 86274, win 1444, options [nop,nop,TS val 475661006 ecr 1788145143], length 0
+22:42:52.073239 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [.], seq 86274:97058, ack 676, win 57, options [nop,nop,TS val 1788145143 ecr 475661006], length 10784
+22:42:52.073252 IP 142.93.118.186.35982 > 151.101.21.67.https: Flags [.], ack 97058, win 1404, options [nop,nop,TS val 475661006 ecr 1788145143], length 0
+22:42:52.073509 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [.], seq 97058:111886, ack 676, win 57, options [nop,nop,TS val 1788145143 ecr 475661006], length 14828
+22:42:52.073541 IP 142.93.118.186.35982 > 151.101.21.67.https: Flags [.], ack 111886, win 1390, options [nop,nop,TS val 475661006 ecr 1788145143], length 0
+22:42:52.073773 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [.], seq 111886:128062, ack 676, win 57, options [nop,nop,TS val 1788145143 ecr 475661006], length 16176
+22:42:52.073813 IP 142.93.118.186.35982 > 151.101.21.67.https: Flags [.], ack 128062, win 1697, options [nop,nop,TS val 475661007 ecr 1788145143], length 0
+22:42:52.074049 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [.], seq 128062:142890, ack 676, win 57, options [nop,nop,TS val 1788145143 ecr 475661006], length 14828
+22:42:52.074068 IP 142.93.118.186.35982 > 151.101.21.67.https: Flags [.], ack 142890, win 1929, options [nop,nop,TS val 475661007 ecr 1788145143], length 0
+22:42:52.074321 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [.], seq 142890:159066, ack 676, win 57, options [nop,nop,TS val 1788145143 ecr 475661007], length 16176
+22:42:52.074342 IP 142.93.118.186.35982 > 151.101.21.67.https: Flags [.], ack 159066, win 2181, options [nop,nop,TS val 475661007 ecr 1788145143], length 0
+22:42:52.074583 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [.], seq 159066:175242, ack 676, win 57, options [nop,nop,TS val 1788145143 ecr 475661007], length 16176
+22:42:52.074601 IP 142.93.118.186.35982 > 151.101.21.67.https: Flags [.], ack 175242, win 2434, options [nop,nop,TS val 475661007 ecr 1788145143], length 0
+22:42:52.074843 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [.], seq 175242:180634, ack 676, win 57, options [nop,nop,TS val 1788145143 ecr 475661007], length 5392
+22:42:52.074857 IP 142.93.118.186.35982 > 151.101.21.67.https: Flags [.], ack 180634, win 2518, options [nop,nop,TS val 475661007 ecr 1788145143], length 0
+22:42:52.075124 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [.], seq 180634:208942, ack 676, win 57, options [nop,nop,TS val 1788145143 ecr 475661007], length 28308
+22:42:52.075146 IP 142.93.118.186.35982 > 151.101.21.67.https: Flags [.], ack 208942, win 2961, options [nop,nop,TS val 475661007 ecr 1788145143], length 0
+22:42:52.075368 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [.], seq 208942:211638, ack 676, win 57, options [nop,nop,TS val 1788145143 ecr 475661007], length 2696
+22:42:52.075380 IP 142.93.118.186.35982 > 151.101.21.67.https: Flags [.], ack 211638, win 3003, options [nop,nop,TS val 475661007 ecr 1788145143], length 0
+22:42:52.075653 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [.], seq 211638:233206, ack 676, win 57, options [nop,nop,TS val 1788145143 ecr 475661007], length 21568
+22:42:52.075674 IP 142.93.118.186.35982 > 151.101.21.67.https: Flags [.], ack 233206, win 3340, options [nop,nop,TS val 475661007 ecr 1788145143], length 0
+22:42:52.075914 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [.], seq 233206:245338, ack 676, win 57, options [nop,nop,TS val 1788145143 ecr 475661007], length 12132
+22:42:52.075932 IP 142.93.118.186.35982 > 151.101.21.67.https: Flags [.], ack 245338, win 3529, options [nop,nop,TS val 475661007 ecr 1788145143], length 0
+22:42:52.076188 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [.], seq 245338:264210, ack 676, win 57, options [nop,nop,TS val 1788145144 ecr 475661007], length 18872
+22:42:52.076462 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [.], seq 264210:280386, ack 676, win 57, options [nop,nop,TS val 1788145144 ecr 475661007], length 16176
+22:42:52.076716 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [.], seq 280386:283082, ack 676, win 57, options [nop,nop,TS val 1788145144 ecr 475661007], length 2696
+22:42:52.076782 IP 142.93.118.186.35982 > 151.101.21.67.https: Flags [.], ack 264210, win 3824, options [nop,nop,TS val 475661007 ecr 1788145144], length 0
+22:42:52.076795 IP 142.93.118.186.35982 > 151.101.21.67.https: Flags [.], ack 280386, win 3907, options [nop,nop,TS val 475661007 ecr 1788145144], length 0
+22:42:52.076803 IP 142.93.118.186.35982 > 151.101.21.67.https: Flags [.], ack 283082, win 3893, options [nop,nop,TS val 475661007 ecr 1788145144], length 0
+22:42:52.077167 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [.], seq 283082:289822, ack 676, win 57, options [nop,nop,TS val 1788145144 ecr 475661007], length 6740
+22:42:52.077184 IP 142.93.118.186.35982 > 151.101.21.67.https: Flags [.], ack 289822, win 4025, options [nop,nop,TS val 475661007 ecr 1788145144], length 0
+22:42:52.077462 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [.], seq 289822:319478, ack 676, win 57, options [nop,nop,TS val 1788145144 ecr 475661007], length 29656
+22:42:52.077507 IP 142.93.118.186.35982 > 151.101.21.67.https: Flags [.], ack 319478, win 3933, options [nop,nop,TS val 475661007 ecr 1788145144], length 0
+22:42:52.077707 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [.], seq 319478:322174, ack 676, win 57, options [nop,nop,TS val 1788145144 ecr 475661007], length 2696
+22:42:52.077722 IP 142.93.118.186.35982 > 151.101.21.67.https: Flags [.], ack 322174, win 4100, options [nop,nop,TS val 475661008 ecr 1788145144], length 0
+22:42:52.077992 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [.], seq 322174:342394, ack 676, win 57, options [nop,nop,TS val 1788145144 ecr 475661007], length 20220
+22:42:52.078012 IP 142.93.118.186.35982 > 151.101.21.67.https: Flags [.], ack 342394, win 4416, options [nop,nop,TS val 475661008 ecr 1788145144], length 0
+22:42:52.078260 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [.], seq 342394:361266, ack 676, win 57, options [nop,nop,TS val 1788145144 ecr 475661007], length 18872
+22:42:52.078280 IP 142.93.118.186.35982 > 151.101.21.67.https: Flags [.], ack 361266, win 4711, options [nop,nop,TS val 475661008 ecr 1788145144], length 0
+22:42:52.078543 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [.], seq 361266:385530, ack 676, win 57, options [nop,nop,TS val 1788145144 ecr 475661008], length 24264
+22:42:52.078564 IP 142.93.118.186.35982 > 151.101.21.67.https: Flags [.], ack 385530, win 5090, options [nop,nop,TS val 475661008 ecr 1788145144], length 0
+22:42:52.078833 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [.], seq 385530:404402, ack 676, win 57, options [nop,nop,TS val 1788145144 ecr 475661008], length 18872
+22:42:52.078852 IP 142.93.118.186.35982 > 151.101.21.67.https: Flags [.], ack 404402, win 5385, options [nop,nop,TS val 475661008 ecr 1788145144], length 0
+22:42:52.079070 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [.], seq 404402:425970, ack 676, win 57, options [nop,nop,TS val 1788145144 ecr 475661008], length 21568
+22:42:52.079090 IP 142.93.118.186.35982 > 151.101.21.67.https: Flags [.], ack 425970, win 5722, options [nop,nop,TS val 475661008 ecr 1788145144], length 0
+22:42:52.079319 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [.], seq 425970:430014, ack 676, win 57, options [nop,nop,TS val 1788145144 ecr 475661008], length 4044
+22:42:52.079335 IP 142.93.118.186.35982 > 151.101.21.67.https: Flags [.], ack 430014, win 5785, options [nop,nop,TS val 475661008 ecr 1788145144], length 0
+22:42:52.079601 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [.], seq 430014:450234, ack 676, win 57, options [nop,nop,TS val 1788145144 ecr 475661008], length 20220
+22:42:52.079621 IP 142.93.118.186.35982 > 151.101.21.67.https: Flags [.], ack 450234, win 6101, options [nop,nop,TS val 475661008 ecr 1788145144], length 0
+22:42:52.079870 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [.], seq 450234:473150, ack 676, win 57, options [nop,nop,TS val 1788145144 ecr 475661008], length 22916
+22:42:52.079890 IP 142.93.118.186.35982 > 151.101.21.67.https: Flags [.], ack 473150, win 6459, options [nop,nop,TS val 475661008 ecr 1788145144], length 0
+22:42:52.080126 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [.], seq 473150:485282, ack 676, win 57, options [nop,nop,TS val 1788145145 ecr 475661008], length 12132
+22:42:52.080145 IP 142.93.118.186.35982 > 151.101.21.67.https: Flags [.], ack 485282, win 6621, options [nop,nop,TS val 475661008 ecr 1788145145], length 0
+22:42:52.080418 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [.], seq 485282:517634, ack 676, win 57, options [nop,nop,TS val 1788145145 ecr 475661008], length 32352
+22:42:52.080666 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [.], seq 517634:521678, ack 676, win 57, options [nop,nop,TS val 1788145145 ecr 475661008], length 4044
+22:42:52.080958 IP 142.93.118.186.35982 > 151.101.21.67.https: Flags [.], ack 521678, win 6522, options [nop,nop,TS val 475661008 ecr 1788145145], length 0
+22:42:52.081385 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [.], seq 521678:533810, ack 676, win 57, options [nop,nop,TS val 1788145145 ecr 475661008], length 12132
+22:42:52.081406 IP 142.93.118.186.35982 > 151.101.21.67.https: Flags [.], ack 533810, win 6625, options [nop,nop,TS val 475661008 ecr 1788145145], length 0
+22:42:52.081677 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [.], seq 533810:572902, ack 676, win 57, options [nop,nop,TS val 1788145145 ecr 475661008], length 39092
+22:42:52.081704 IP 142.93.118.186.35982 > 151.101.21.67.https: Flags [.], ack 572902, win 6507, options [nop,nop,TS val 475661009 ecr 1788145145], length 0
+22:42:52.081905 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [.], seq 572902:586382, ack 676, win 57, options [nop,nop,TS val 1788145145 ecr 475661008], length 13480
+22:42:52.081943 IP 142.93.118.186.35982 > 151.101.21.67.https: Flags [.], ack 586382, win 6611, options [nop,nop,TS val 475661009 ecr 1788145145], length 0
+22:42:52.082188 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [.], seq 586382:613342, ack 676, win 57, options [nop,nop,TS val 1788145145 ecr 475661009], length 26960
+22:42:52.082218 IP 142.93.118.186.35982 > 151.101.21.67.https: Flags [.], ack 613342, win 6563, options [nop,nop,TS val 475661009 ecr 1788145145], length 0
+22:42:52.082439 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [.], seq 613342:626822, ack 676, win 57, options [nop,nop,TS val 1788145145 ecr 475661009], length 13480
+22:42:52.082465 IP 142.93.118.186.35982 > 151.101.21.67.https: Flags [.], ack 626822, win 6678, options [nop,nop,TS val 475661009 ecr 1788145145], length 0
+22:42:52.082727 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [.], seq 626822:669958, ack 676, win 57, options [nop,nop,TS val 1788145145 ecr 475661009], length 43136
+22:42:52.082764 IP 142.93.118.186.35982 > 151.101.21.67.https: Flags [.], ack 669958, win 6499, options [nop,nop,TS val 475661009 ecr 1788145145], length 0
+22:42:52.083152 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [.], seq 669958:674002, ack 676, win 57, options [nop,nop,TS val 1788145145 ecr 475661009], length 4044
+22:42:52.083177 IP 142.93.118.186.35982 > 151.101.21.67.https: Flags [.], ack 674002, win 6678, options [nop,nop,TS val 475661009 ecr 1788145145], length 0
+22:42:52.083451 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [.], seq 674002:721182, ack 676, win 57, options [nop,nop,TS val 1788145145 ecr 475661009], length 47180
+22:42:52.083488 IP 142.93.118.186.35982 > 151.101.21.67.https: Flags [.], ack 721182, win 6483, options [nop,nop,TS val 475661009 ecr 1788145145], length 0
+22:42:52.083695 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [.], seq 721182:729270, ack 676, win 57, options [nop,nop,TS val 1788145145 ecr 475661009], length 8088
+22:42:52.083742 IP 142.93.118.186.35982 > 151.101.21.67.https: Flags [.], ack 729270, win 6449, options [nop,nop,TS val 475661009 ecr 1788145145], length 0
+22:42:52.083984 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [.], seq 729270:760274, ack 676, win 57, options [nop,nop,TS val 1788145145 ecr 475661009], length 31004
+22:42:52.084268 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [.], seq 760274:783190, ack 676, win 57, options [nop,nop,TS val 1788145145 ecr 475661009], length 22916
+22:42:52.084284 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [.], seq 783190:791278, ack 676, win 57, options [nop,nop,TS val 1788145146 ecr 475661009], length 8088
+22:42:52.084528 IP 142.93.118.186.35982 > 151.101.21.67.https: Flags [.], ack 760274, win 6547, options [nop,nop,TS val 475661009 ecr 1788145145], length 0
+22:42:52.084544 IP 142.93.118.186.35982 > 151.101.21.67.https: Flags [.], ack 791278, win 6415, options [nop,nop,TS val 475661009 ecr 1788145145], length 0
+22:42:52.085408 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [.], seq 791278:792626, ack 676, win 57, options [nop,nop,TS val 1788145146 ecr 475661009], length 1348
+22:42:52.085688 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [.], seq 792626:823630, ack 676, win 57, options [nop,nop,TS val 1788145146 ecr 475661009], length 31004
+22:42:52.085725 IP 142.93.118.186.35982 > 151.101.21.67.https: Flags [.], ack 823630, win 6547, options [nop,nop,TS val 475661010 ecr 1788145146], length 0
+22:42:52.085962 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [.], seq 823630:855982, ack 676, win 57, options [nop,nop,TS val 1788145146 ecr 475661009], length 32352
+22:42:52.085996 IP 142.93.118.186.35982 > 151.101.21.67.https: Flags [.], ack 855982, win 6547, options [nop,nop,TS val 475661010 ecr 1788145146], length 0
+22:42:52.086219 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [.], seq 855982:888334, ack 676, win 57, options [nop,nop,TS val 1788145146 ecr 475661010], length 32352
+22:42:52.086244 IP 142.93.118.186.35982 > 151.101.21.67.https: Flags [.], ack 888334, win 6547, options [nop,nop,TS val 475661010 ecr 1788145146], length 0
+22:42:52.086530 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [.], seq 888334:889682, ack 676, win 57, options [nop,nop,TS val 1788145146 ecr 475661010], length 1348
+22:42:52.086820 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [.], seq 889682:920686, ack 676, win 57, options [nop,nop,TS val 1788145146 ecr 475661010], length 31004
+22:42:52.086852 IP 142.93.118.186.35982 > 151.101.21.67.https: Flags [.], ack 920686, win 6547, options [nop,nop,TS val 475661010 ecr 1788145146], length 0
+22:42:52.087092 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [.], seq 920686:958430, ack 676, win 57, options [nop,nop,TS val 1788145146 ecr 475661010], length 37744
+22:42:52.087127 IP 142.93.118.186.35982 > 151.101.21.67.https: Flags [.], ack 958430, win 6515, options [nop,nop,TS val 475661010 ecr 1788145146], length 0
+22:42:52.087348 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [.], seq 958430:985390, ack 676, win 57, options [nop,nop,TS val 1788145146 ecr 475661010], length 26960
+22:42:52.087377 IP 142.93.118.186.35982 > 151.101.21.67.https: Flags [.], ack 985390, win 6563, options [nop,nop,TS val 475661010 ecr 1788145146], length 0
+22:42:52.087607 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [.], seq 985390:998870, ack 676, win 57, options [nop,nop,TS val 1788145146 ecr 475661010], length 13480
+22:42:52.087888 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [.], seq 998870:1021786, ack 676, win 57, options [nop,nop,TS val 1788145146 ecr 475661010], length 22916
+22:42:52.088128 IP 142.93.118.186.35982 > 151.101.21.67.https: Flags [.], ack 998870, win 6611, options [nop,nop,TS val 475661010 ecr 1788145146], length 0
+22:42:52.088143 IP 142.93.118.186.35982 > 151.101.21.67.https: Flags [.], ack 1021786, win 6513, options [nop,nop,TS val 475661010 ecr 1788145146], length 0
+22:42:52.088165 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [P.], seq 1021786:1050094, ack 676, win 57, options [nop,nop,TS val 1788145146 ecr 475661010], length 28308
+22:42:52.088269 IP 142.93.118.186.35982 > 151.101.21.67.https: Flags [.], ack 1050094, win 6399, options [nop,nop,TS val 475661010 ecr 1788145146], length 0
+22:42:52.088419 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [.], seq 1050094:1059530, ack 676, win 57, options [nop,nop,TS val 1788145146 ecr 475661010], length 9436
+22:42:52.088440 IP 142.93.118.186.35982 > 151.101.21.67.https: Flags [.], ack 1059530, win 6349, options [nop,nop,TS val 475661010 ecr 1788145146], length 0
+22:42:52.088686 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [.], seq 1059530:1074358, ack 676, win 57, options [nop,nop,TS val 1788145147 ecr 475661010], length 14828
+22:42:52.088732 IP 142.93.118.186.35982 > 151.101.21.67.https: Flags [.], ack 1074358, win 6611, options [nop,nop,TS val 475661010 ecr 1788145147], length 0
+22:42:52.088972 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [.], seq 1074358:1113450, ack 676, win 57, options [nop,nop,TS val 1788145147 ecr 475661010], length 39092
+22:42:52.089006 IP 142.93.118.186.35982 > 151.101.21.67.https: Flags [.], ack 1113450, win 6515, options [nop,nop,TS val 475661010 ecr 1788145147], length 0
+22:42:52.089225 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [.], seq 1113450:1137714, ack 676, win 57, options [nop,nop,TS val 1788145147 ecr 475661010], length 24264
+22:42:52.089252 IP 142.93.118.186.35982 > 151.101.21.67.https: Flags [.], ack 1137714, win 6579, options [nop,nop,TS val 475661010 ecr 1788145147], length 0
+22:42:52.089495 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [.], seq 1137714:1163326, ack 676, win 57, options [nop,nop,TS val 1788145147 ecr 475661010], length 25612
+22:42:52.089519 IP 142.93.118.186.35982 > 151.101.21.67.https: Flags [.], ack 1163326, win 6563, options [nop,nop,TS val 475661010 ecr 1788145147], length 0
+22:42:52.089758 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [P.], seq 1163326:1179502, ack 676, win 57, options [nop,nop,TS val 1788145147 ecr 475661010], length 16176
+22:42:52.089771 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [.], seq 1179502:1194330, ack 676, win 57, options [nop,nop,TS val 1788145147 ecr 475661010], length 14828
+22:42:52.089790 IP 142.93.118.186.35982 > 151.101.21.67.https: Flags [.], ack 1179502, win 6931, options [nop,nop,TS val 475661011 ecr 1788145147], length 0
+22:42:52.089800 IP 142.93.118.186.35982 > 151.101.21.67.https: Flags [.], ack 1194330, win 7163, options [nop,nop,TS val 475661011 ecr 1788145147], length 0
+22:42:52.090038 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [.], seq 1194330:1219942, ack 676, win 57, options [nop,nop,TS val 1788145147 ecr 475661010], length 25612
+22:42:52.090067 IP 142.93.118.186.35982 > 151.101.21.67.https: Flags [.], ack 1219942, win 7563, options [nop,nop,TS val 475661011 ecr 1788145147], length 0
+22:42:52.090289 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [.], seq 1219942:1244206, ack 676, win 57, options [nop,nop,TS val 1788145147 ecr 475661010], length 24264
+22:42:52.090563 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [.], seq 1244206:1279254, ack 676, win 57, options [nop,nop,TS val 1788145147 ecr 475661011], length 35048
+22:42:52.090806 IP 142.93.118.186.35982 > 151.101.21.67.https: Flags [.], ack 1244206, win 7942, options [nop,nop,TS val 475661011 ecr 1788145147], length 0
+22:42:52.090820 IP 142.93.118.186.35982 > 151.101.21.67.https: Flags [.], ack 1279254, win 8490, options [nop,nop,TS val 475661011 ecr 1788145147], length 0
+22:42:52.091257 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [.], seq 1279254:1280602, ack 676, win 57, options [nop,nop,TS val 1788145147 ecr 475661011], length 1348
+22:42:52.091576 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [P.], seq 1280602:1308910, ack 676, win 57, options [nop,nop,TS val 1788145147 ecr 475661011], length 28308
+22:42:52.091599 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [.], seq 1308910:1353394, ack 676, win 57, options [nop,nop,TS val 1788145147 ecr 475661011], length 44484
+22:42:52.091633 IP 142.93.118.186.35982 > 151.101.21.67.https: Flags [.], ack 1308910, win 8836, options [nop,nop,TS val 475661011 ecr 1788145147], length 0
+22:42:52.091645 IP 142.93.118.186.35982 > 151.101.21.67.https: Flags [.], ack 1353394, win 8658, options [nop,nop,TS val 475661011 ecr 1788145147], length 0
+22:42:52.091792 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [.], seq 1353394:1368222, ack 676, win 57, options [nop,nop,TS val 1788145147 ecr 475661011], length 14828
+22:42:52.091834 IP 142.93.118.186.35982 > 151.101.21.67.https: Flags [.], ack 1368222, win 8592, options [nop,nop,TS val 475661011 ecr 1788145147], length 0
+22:42:52.092057 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [.], seq 1368222:1373614, ack 676, win 57, options [nop,nop,TS val 1788145147 ecr 475661011], length 5392
+22:42:52.092089 IP 142.93.118.186.35982 > 151.101.21.67.https: Flags [.], ack 1373614, win 8558, options [nop,nop,TS val 475661011 ecr 1788145147], length 0
+22:42:52.092394 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [P.], seq 1373614:1438318, ack 676, win 57, options [nop,nop,TS val 1788145148 ecr 475661011], length 64704
+22:42:52.092441 IP 142.93.118.186.35982 > 151.101.21.67.https: Flags [.], ack 1438318, win 8692, options [nop,nop,TS val 475661011 ecr 1788145148], length 0
+22:42:52.092577 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [.], seq 1438318:1441014, ack 676, win 57, options [nop,nop,TS val 1788145148 ecr 475661011], length 2696
+22:42:52.092623 IP 142.93.118.186.35982 > 151.101.21.67.https: Flags [.], ack 1441014, win 8674, options [nop,nop,TS val 475661011 ecr 1788145148], length 0
+22:42:52.092867 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [.], seq 1441014:1462582, ack 676, win 57, options [nop,nop,TS val 1788145148 ecr 475661011], length 21568
+22:42:52.092895 IP 142.93.118.186.35982 > 151.101.21.67.https: Flags [.], ack 1462582, win 8852, options [nop,nop,TS val 475661011 ecr 1788145148], length 0
+22:42:52.093155 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [.], seq 1462582:1517850, ack 676, win 57, options [nop,nop,TS val 1788145148 ecr 475661011], length 55268
+22:42:52.093418 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [.], seq 1517850:1542114, ack 676, win 57, options [nop,nop,TS val 1788145148 ecr 475661011], length 24264
+22:42:52.093668 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [.], seq 1542114:1560986, ack 676, win 57, options [nop,nop,TS val 1788145148 ecr 475661011], length 18872
+22:42:52.093693 IP 142.93.118.186.35982 > 151.101.21.67.https: Flags [.], ack 1560986, win 8544, options [nop,nop,TS val 475661012 ecr 1788145148], length 0
+22:42:52.094124 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [.], seq 1560986:1563682, ack 676, win 57, options [nop,nop,TS val 1788145148 ecr 475661012], length 2696
+22:42:52.094141 IP 142.93.118.186.35982 > 151.101.21.67.https: Flags [.], ack 1563682, win 8526, options [nop,nop,TS val 475661012 ecr 1788145148], length 0
+22:42:52.094438 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [.], seq 1563682:1618950, ack 676, win 57, options [nop,nop,TS val 1788145148 ecr 475661012], length 55268
+22:42:52.094498 IP 142.93.118.186.35982 > 151.101.21.67.https: Flags [.], ack 1618950, win 8724, options [nop,nop,TS val 475661012 ecr 1788145148], length 0
+22:42:52.094692 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [.], seq 1618950:1663434, ack 676, win 57, options [nop,nop,TS val 1788145148 ecr 475661012], length 44484
+22:42:52.094749 IP 142.93.118.186.35982 > 151.101.21.67.https: Flags [.], ack 1663434, win 8546, options [nop,nop,TS val 475661012 ecr 1788145148], length 0
+22:42:52.094939 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [.], seq 1663434:1687698, ack 676, win 57, options [nop,nop,TS val 1788145148 ecr 475661012], length 24264
+22:42:52.094985 IP 142.93.118.186.35982 > 151.101.21.67.https: Flags [.], ack 1687698, win 8448, options [nop,nop,TS val 475661012 ecr 1788145148], length 0
+22:42:52.095198 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [.], seq 1687698:1707918, ack 676, win 57, options [nop,nop,TS val 1788145148 ecr 475661012], length 20220
+22:42:52.095225 IP 142.93.118.186.35982 > 151.101.21.67.https: Flags [.], ack 1707918, win 8868, options [nop,nop,TS val 475661012 ecr 1788145148], length 0
+22:42:52.095457 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [P.], seq 1707918:1720980, ack 676, win 57, options [nop,nop,TS val 1788145148 ecr 475661012], length 13062
+22:42:52.095473 IP 142.93.118.186.35982 > 151.101.21.67.https: Flags [.], ack 1720980, win 8884, options [nop,nop,TS val 475661012 ecr 1788145148], length 0
+22:42:52.096076 IP 142.93.118.186.35982 > 151.101.21.67.https: Flags [F.], seq 676, ack 1720980, win 8951, options [nop,nop,TS val 475661012 ecr 1788145148], length 0
+22:42:52.096564 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [P.], seq 1720980:1721011, ack 677, win 57, options [nop,nop,TS val 1788145149 ecr 475661012], length 31
+22:42:52.096591 IP 142.93.118.186.35982 > 151.101.21.67.https: Flags [R], seq 3846394158, win 0, length 0
+22:42:52.096604 IP 151.101.21.67.https > 142.93.118.186.35982: Flags [F.], seq 1721011, ack 677, win 57, options [nop,nop,TS val 1788145149 ecr 475661012], length 0
+22:42:52.096612 IP 142.93.118.186.35982 > 151.101.21.67.https: Flags [R], seq 3846394158, win 0, length 0
+22:42:53.762862 IP 104.248.224.85.33794 > 142.93.118.186.2749: Flags [P.], seq 69:100, ack 147, win 229, options [nop,nop,TS val 2082135 ecr 475660110], length 31
+22:42:53.762898 IP 142.93.118.186.2749 > 104.248.224.85.33794: Flags [.], ack 100, win 227, options [nop,nop,TS val 475661429 ecr 2082135], length 0
+22:42:53.762990 IP 142.93.118.186.2749 > 206.189.113.189.53878: Flags [P.], seq 152:195, ack 42, win 227, options [nop,nop,TS val 475661429 ecr 2065025], length 43
+22:42:53.831597 IP 206.189.113.189.53878 > 142.93.118.186.2749: Flags [.], ack 195, win 229, options [nop,nop,TS val 2066344 ecr 475661429], length 0
+22:42:55.891097 IP 58.84.21.3.49877 > 142.93.118.186.microsoft-ds: Flags [S], seq 440794370, win 8192, options [mss 1392,nop,wscale 2,nop,nop,sackOK], length 0
+22:42:55.891142 IP 142.93.118.186.microsoft-ds > 58.84.21.3.49877: Flags [R.], seq 0, ack 440794371, win 0, length 0
+22:42:56.632077 IP 58.84.21.3.49877 > 142.93.118.186.microsoft-ds: Flags [S], seq 440794370, win 8192, options [mss 1392,nop,wscale 2,nop,nop,sackOK], length 0
+22:42:56.632139 IP 142.93.118.186.microsoft-ds > 58.84.21.3.49877: Flags [R.], seq 0, ack 1, win 0, length 0
+22:42:57.278467 IP 61.176.223.98.10255 > 142.93.118.186.53281: Flags [S], seq 3131556469, win 65535, length 0
+22:42:57.278519 IP 142.93.118.186.53281 > 61.176.223.98.10255: Flags [R.], seq 0, ack 3131556470, win 0, length 0
+22:42:57.729738 IP namcuong.com.vn.65433 > 142.93.118.186.microsoft-ds: Flags [S], seq 3224134978, win 8192, options [mss 1452,nop,wscale 2,nop,nop,sackOK], length 0
+22:42:57.729789 IP 142.93.118.186.microsoft-ds > namcuong.com.vn.65433: Flags [R.], seq 0, ack 3224134979, win 0, length 0
+22:42:58.104135 IP 142.93.118.186.44043 > 67.207.67.2.domain: 8471+ A? cs.umd.edu. (28)
+22:42:58.104740 IP 67.207.67.2.domain > 142.93.118.186.44043: 8471 1/0/0 A 128.8.127.4 (44)
+22:42:58.553639 IP namcuong.com.vn.65433 > 142.93.118.186.microsoft-ds: Flags [S], seq 3224134978, win 8192, options [mss 1452,nop,wscale 2,nop,nop,sackOK], length 0
+22:42:58.553689 IP 142.93.118.186.microsoft-ds > namcuong.com.vn.65433: Flags [R.], seq 0, ack 1, win 0, length 0
+22:42:58.965132 IP 206.189.113.189.53878 > 142.93.118.186.2749: Flags [P.], seq 42:70, ack 195, win 229, options [nop,nop,TS val 2067628 ecr 475661429], length 28
+22:42:58.965168 IP 142.93.118.186.2749 > 206.189.113.189.53878: Flags [.], ack 70, win 227, options [nop,nop,TS val 475662729 ecr 2067628], length 0
+22:42:58.965261 IP 142.93.118.186.2749 > 104.248.224.85.33794: Flags [P.], seq 147:191, ack 100, win 227, options [nop,nop,TS val 475662729 ecr 2082135], length 44
+22:42:58.965643 IP 104.248.224.85.33794 > 142.93.118.186.2749: Flags [.], ack 191, win 229, options [nop,nop,TS val 2083436 ecr 475662729], length 0
+22:43:04.109304 IP 142.93.118.186.40491 > 67.207.67.2.domain: 41493+ A? cornerstoneairlines.co. (40)
+22:43:04.109329 IP 142.93.118.186.40491 > 67.207.67.2.domain: 34493+ AAAA? cornerstoneairlines.co. (40)
+22:43:04.110306 IP 67.207.67.2.domain > 142.93.118.186.40491: 34493 0/1/0 (113)
+22:43:04.119169 IP 67.207.67.2.domain > 142.93.118.186.40491: 41493 1/0/0 A 142.93.118.186 (56)
+22:43:04.711854 IP 104.248.224.85.33794 > 142.93.118.186.2749: Flags [P.], seq 100:183, ack 191, win 229, options [nop,nop,TS val 2084872 ecr 475662729], length 83
+22:43:04.711903 IP 142.93.118.186.2749 > 104.248.224.85.33794: Flags [.], ack 183, win 227, options [nop,nop,TS val 475664166 ecr 2084872], length 0
+22:43:04.712004 IP 142.93.118.186.2749 > 206.189.113.189.53878: Flags [P.], seq 195:290, ack 70, win 227, options [nop,nop,TS val 475664166 ecr 2067628], length 95
+22:43:04.780656 IP 206.189.113.189.53878 > 142.93.118.186.2749: Flags [.], ack 290, win 229, options [nop,nop,TS val 2069082 ecr 475664166], length 0
+22:43:10.122349 IP 142.93.118.186.55665 > 67.207.67.2.domain: 4775+ A? google.com. (28)
+22:43:10.122375 IP 142.93.118.186.55665 > 67.207.67.2.domain: 56031+ AAAA? google.com. (28)
+22:43:10.122689 IP 67.207.67.2.domain > 142.93.118.186.55665: 4775 1/0/0 A 216.58.219.238 (44)
+22:43:10.122704 IP 67.207.67.2.domain > 142.93.118.186.55665: 56031 1/0/0 AAAA 2607:f8b0:4006:80f::200e (56)
+22:43:10.122922 IP 142.93.118.186.47810 > lga25s41-in-f14.1e100.net.33434: UDP, length 32
+22:43:10.122953 IP 142.93.118.186.59140 > lga25s41-in-f14.1e100.net.33435: UDP, length 32
+22:43:10.122970 IP 142.93.118.186.45025 > lga25s41-in-f14.1e100.net.33436: UDP, length 32
+22:43:10.122986 IP 142.93.118.186.58487 > lga25s41-in-f14.1e100.net.33437: UDP, length 32
+22:43:10.123002 IP 142.93.118.186.52245 > lga25s41-in-f14.1e100.net.33438: UDP, length 32
+22:43:10.123020 IP 142.93.118.186.42026 > lga25s41-in-f14.1e100.net.33439: UDP, length 32
+22:43:10.123037 IP 142.93.118.186.52393 > lga25s41-in-f14.1e100.net.33440: UDP, length 32
+22:43:10.123053 IP 142.93.118.186.36720 > lga25s41-in-f14.1e100.net.33441: UDP, length 32
+22:43:10.123070 IP 142.93.118.186.57536 > lga25s41-in-f14.1e100.net.33442: UDP, length 32
+22:43:10.123091 IP 142.93.118.186.39990 > lga25s41-in-f14.1e100.net.33443: UDP, length 32
+22:43:10.123113 IP 142.93.118.186.45709 > lga25s41-in-f14.1e100.net.33444: UDP, length 32
+22:43:10.123135 IP 142.93.118.186.46417 > lga25s41-in-f14.1e100.net.33445: UDP, length 32
+22:43:10.123157 IP 142.93.118.186.55167 > lga25s41-in-f14.1e100.net.33446: UDP, length 32
+22:43:10.123179 IP 142.93.118.186.54070 > lga25s41-in-f14.1e100.net.33447: UDP, length 32
+22:43:10.123202 IP 142.93.118.186.42314 > lga25s41-in-f14.1e100.net.33448: UDP, length 32
+22:43:10.123224 IP 142.93.118.186.54621 > lga25s41-in-f14.1e100.net.33449: UDP, length 32
+22:43:10.123751 IP 138.197.244.1 > 142.93.118.186: ICMP time exceeded in-transit, length 36
+22:43:10.123771 IP 138.197.251.64 > 142.93.118.186: ICMP time exceeded in-transit, length 36
+22:43:10.123777 IP 138.197.251.80 > 142.93.118.186: ICMP time exceeded in-transit, length 36
+22:43:10.123782 IP 142.93.112.254 > 142.93.118.186: ICMP time exceeded in-transit, length 36
+22:43:10.123788 IP 138.197.251.80 > 142.93.118.186: ICMP time exceeded in-transit, length 36
+22:43:10.123794 IP 142.93.112.253 > 142.93.118.186: ICMP time exceeded in-transit, length 36
+22:43:10.123801 IP 138.197.244.11 > 142.93.118.186: ICMP time exceeded in-transit, length 36
+22:43:10.123807 IP 142.93.112.253 > 142.93.118.186: ICMP time exceeded in-transit, length 36
+22:43:10.123985 IP 142.93.118.186.41651 > 67.207.67.2.domain: 39478+ PTR? 253.112.93.142.in-addr.arpa. (45)
+22:43:10.124208 IP 162.243.191.255 > 142.93.118.186: ICMP time exceeded in-transit, length 36
+22:43:10.124272 IP 72.14.194.62 > 142.93.118.186: ICMP time exceeded in-transit, length 36
+22:43:10.124277 IP 72.14.194.62 > 142.93.118.186: ICMP time exceeded in-transit, length 36
+22:43:10.124489 IP 67.207.67.2.domain > 142.93.118.186.41651: 39478 NXDomain 0/1/0 (112)
+22:43:10.124575 IP 142.93.118.186.37007 > 67.207.67.2.domain: 43145+ PTR? 254.112.93.142.in-addr.arpa. (45)
+22:43:10.124665 IP 108.170.248.65 > 142.93.118.186: ICMP time exceeded in-transit, length 68
+22:43:10.124692 IP 108.170.248.65 > 142.93.118.186: ICMP time exceeded in-transit, length 68
+22:43:10.124796 IP 108.170.230.5 > 142.93.118.186: ICMP time exceeded in-transit, length 68
+22:43:10.125087 IP 67.207.67.2.domain > 142.93.118.186.37007: 43145 NXDomain 0/1/0 (112)
+22:43:10.125165 IP 142.93.118.186.47187 > 67.207.67.2.domain: 49798+ PTR? 253.112.93.142.in-addr.arpa. (45)
+22:43:10.125791 IP 108.170.248.1 > 142.93.118.186: ICMP time exceeded in-transit, length 76
+22:43:10.125798 IP 67.207.67.2.domain > 142.93.118.186.47187: 49798 NXDomain 0/1/0 (112)
+22:43:10.125862 IP 142.93.118.186.55858 > 67.207.67.2.domain: 36092+ PTR? 64.251.197.138.in-addr.arpa. (45)
+22:43:10.126462 IP 67.207.67.2.domain > 142.93.118.186.55858: 36092 NXDomain 0/1/0 (112)
+22:43:10.126501 IP 138.197.244.9 > 142.93.118.186: ICMP time exceeded in-transit, length 36
+22:43:10.126559 IP 142.93.118.186.36835 > 67.207.67.2.domain: 30932+ PTR? 80.251.197.138.in-addr.arpa. (45)
+22:43:10.127190 IP 67.207.67.2.domain > 142.93.118.186.36835: 30932 NXDomain 0/1/0 (112)
+22:43:10.127240 IP 142.93.118.186.33294 > lga25s41-in-f14.1e100.net.33450: UDP, length 32
+22:43:10.127264 IP 142.93.118.186.54580 > lga25s41-in-f14.1e100.net.33451: UDP, length 32
+22:43:10.127284 IP 142.93.118.186.46438 > lga25s41-in-f14.1e100.net.33452: UDP, length 32
+22:43:10.127306 IP 142.93.118.186.36435 > lga25s41-in-f14.1e100.net.33453: UDP, length 32
+22:43:10.127326 IP 142.93.118.186.39598 > lga25s41-in-f14.1e100.net.33454: UDP, length 32
+22:43:10.127347 IP 142.93.118.186.39236 > lga25s41-in-f14.1e100.net.33455: UDP, length 32
+22:43:10.127370 IP 142.93.118.186.32813 > lga25s41-in-f14.1e100.net.33456: UDP, length 32
+22:43:10.127388 IP 142.93.118.186.60070 > lga25s41-in-f14.1e100.net.33457: UDP, length 32
+22:43:10.127493 IP 142.93.118.186.54747 > 67.207.67.2.domain: 41572+ PTR? 9.244.197.138.in-addr.arpa. (44)
+22:43:10.128535 IP 108.170.230.3 > 142.93.118.186: ICMP time exceeded in-transit, length 68
+22:43:10.128547 IP 108.170.230.3 > 142.93.118.186: ICMP time exceeded in-transit, length 68
+22:43:10.128728 IP lga25s41-in-f14.1e100.net > 142.93.118.186: ICMP lga25s41-in-f14.1e100.net udp port 33455 unreachable, length 36
+22:43:10.128734 IP lga25s41-in-f14.1e100.net > 142.93.118.186: ICMP lga25s41-in-f14.1e100.net udp port 33452 unreachable, length 36
+22:43:10.128738 IP lga25s41-in-f14.1e100.net > 142.93.118.186: ICMP lga25s41-in-f14.1e100.net udp port 33453 unreachable, length 36
+22:43:10.128774 IP lga25s41-in-f14.1e100.net > 142.93.118.186: ICMP lga25s41-in-f14.1e100.net udp port 33454 unreachable, length 36
+22:43:10.128785 IP lga25s41-in-f14.1e100.net > 142.93.118.186: ICMP lga25s41-in-f14.1e100.net udp port 33456 unreachable, length 36
+22:43:10.128789 IP lga25s41-in-f14.1e100.net > 142.93.118.186: ICMP lga25s41-in-f14.1e100.net udp port 33457 unreachable, length 36
+22:43:10.144250 IP 67.207.67.2.domain > 142.93.118.186.54747: 41572 NXDomain 0/1/0 (111)
+22:43:10.144524 IP 142.93.118.186.55781 > 67.207.67.2.domain: 38412+ PTR? 1.244.197.138.in-addr.arpa. (44)
+22:43:10.158475 IP 67.207.67.2.domain > 142.93.118.186.55781: 38412 NXDomain 0/1/0 (111)
+22:43:10.158721 IP 142.93.118.186.52509 > 67.207.67.2.domain: 23221+ PTR? 11.244.197.138.in-addr.arpa. (45)
+22:43:10.163563 IP 67.207.67.2.domain > 142.93.118.186.52509: 23221 NXDomain 0/1/0 (112)
+22:43:10.163737 IP 142.93.118.186.49653 > 67.207.67.2.domain: 44180+ PTR? 255.191.243.162.in-addr.arpa. (46)
+22:43:10.168549 IP 67.207.67.2.domain > 142.93.118.186.49653: 44180 NXDomain 0/1/0 (113)
+22:43:10.168680 IP 142.93.118.186.49937 > 67.207.67.2.domain: 45589+ PTR? 62.194.14.72.in-addr.arpa. (43)
+22:43:10.183766 IP 67.207.67.2.domain > 142.93.118.186.49937: 45589 NXDomain 0/1/0 (103)
+22:43:10.183996 IP 142.93.118.186.37708 > 67.207.67.2.domain: 48144+ PTR? 65.248.170.108.in-addr.arpa. (45)
+22:43:10.200080 IP 67.207.67.2.domain > 142.93.118.186.37708: 48144 NXDomain 0/1/0 (105)
+22:43:10.200315 IP 142.93.118.186.38519 > 67.207.67.2.domain: 41501+ PTR? 1.248.170.108.in-addr.arpa. (44)
+22:43:10.215816 IP 67.207.67.2.domain > 142.93.118.186.38519: 41501 NXDomain 0/1/0 (104)
+22:43:10.215977 IP 142.93.118.186.53602 > 67.207.67.2.domain: 30282+ PTR? 5.230.170.108.in-addr.arpa. (44)
+22:43:10.277970 IP 67.207.67.2.domain > 142.93.118.186.53602: 30282 ServFail 0/0/0 (44)
+22:43:10.278112 IP 142.93.118.186.52021 > 67.207.67.3.domain: 30282+ PTR? 5.230.170.108.in-addr.arpa. (44)
+22:43:10.350808 IP 67.207.67.3.domain > 142.93.118.186.52021: 30282 ServFail 0/0/0 (44)
+22:43:10.350937 IP 142.93.118.186.57120 > 67.207.67.2.domain: 30282+ PTR? 5.230.170.108.in-addr.arpa. (44)
+22:43:10.351406 IP 67.207.67.2.domain > 142.93.118.186.57120: 30282 ServFail 0/0/0 (44)
+22:43:10.351430 IP 142.93.118.186.59098 > 67.207.67.3.domain: 30282+ PTR? 5.230.170.108.in-addr.arpa. (44)
+22:43:10.414297 IP 67.207.67.3.domain > 142.93.118.186.59098: 30282 ServFail 0/0/0 (44)
+22:43:10.414460 IP 142.93.118.186.56243 > lga25s41-in-f14.1e100.net.33458: UDP, length 32
+22:43:10.414486 IP 142.93.118.186.58404 > lga25s41-in-f14.1e100.net.33459: UDP, length 32
+22:43:10.414499 IP 142.93.118.186.60897 > lga25s41-in-f14.1e100.net.33460: UDP, length 32
+22:43:10.414511 IP 142.93.118.186.50835 > lga25s41-in-f14.1e100.net.33461: UDP, length 32
+22:43:10.414524 IP 142.93.118.186.44665 > lga25s41-in-f14.1e100.net.33462: UDP, length 32
+22:43:10.414536 IP 142.93.118.186.54992 > lga25s41-in-f14.1e100.net.33463: UDP, length 32
+22:43:10.414550 IP 142.93.118.186.40608 > lga25s41-in-f14.1e100.net.33464: UDP, length 32
+22:43:10.414563 IP 142.93.118.186.54176 > lga25s41-in-f14.1e100.net.33465: UDP, length 32
+22:43:10.414661 IP 142.93.118.186.45202 > 67.207.67.2.domain: 42123+ PTR? 3.230.170.108.in-addr.arpa. (44)
+22:43:10.415619 IP lga25s41-in-f14.1e100.net > 142.93.118.186: ICMP lga25s41-in-f14.1e100.net udp port 33458 unreachable, length 36
+22:43:10.415742 IP lga25s41-in-f14.1e100.net > 142.93.118.186: ICMP lga25s41-in-f14.1e100.net udp port 33459 unreachable, length 36
+22:43:10.415756 IP lga25s41-in-f14.1e100.net > 142.93.118.186: ICMP lga25s41-in-f14.1e100.net udp port 33460 unreachable, length 36
+22:43:10.415759 IP lga25s41-in-f14.1e100.net > 142.93.118.186: ICMP lga25s41-in-f14.1e100.net udp port 33461 unreachable, length 36
+22:43:10.415762 IP lga25s41-in-f14.1e100.net > 142.93.118.186: ICMP lga25s41-in-f14.1e100.net udp port 33462 unreachable, length 36
+22:43:10.415865 IP lga25s41-in-f14.1e100.net > 142.93.118.186: ICMP lga25s41-in-f14.1e100.net udp port 33464 unreachable, length 36
+22:43:10.415869 IP lga25s41-in-f14.1e100.net > 142.93.118.186: ICMP lga25s41-in-f14.1e100.net udp port 33463 unreachable, length 36
+22:43:10.415972 IP lga25s41-in-f14.1e100.net > 142.93.118.186: ICMP lga25s41-in-f14.1e100.net udp port 33465 unreachable, length 36
+22:43:10.475786 IP 67.207.67.2.domain > 142.93.118.186.45202: 42123 ServFail 0/0/0 (44)
+22:43:10.475939 IP 142.93.118.186.33366 > 67.207.67.3.domain: 42123+ PTR? 3.230.170.108.in-addr.arpa. (44)
+22:43:10.476408 IP 67.207.67.3.domain > 142.93.118.186.33366: 42123 ServFail 0/0/0 (44)
+22:43:10.476461 IP 142.93.118.186.56308 > 67.207.67.2.domain: 42123+ PTR? 3.230.170.108.in-addr.arpa. (44)
+22:43:10.539397 IP 67.207.67.2.domain > 142.93.118.186.56308: 42123 ServFail 0/0/0 (44)
+22:43:10.539522 IP 142.93.118.186.57516 > 67.207.67.3.domain: 42123+ PTR? 3.230.170.108.in-addr.arpa. (44)
+22:43:10.540079 IP 67.207.67.3.domain > 142.93.118.186.57516: 42123 ServFail 0/0/0 (44)
+22:43:10.540184 IP 142.93.118.186.37415 > 67.207.67.2.domain: 22676+ PTR? 238.219.58.216.in-addr.arpa. (45)
+22:43:10.541042 IP 67.207.67.2.domain > 142.93.118.186.37415: 22676 4/0/0 PTR lga25s41-in-f14.1e100.net., PTR lga25s41-in-f14.1e100.net., PTR lga25s41-in-f238.1e100.net., PTR lga25s41-in-f238.1e100.net. (143)
+22:43:12.539819 IP 104.248.224.85.33794 > 142.93.118.186.2749: Flags [P.], seq 183:244, ack 191, win 229, options [nop,nop,TS val 2086829 ecr 475664166], length 61
+22:43:12.539858 IP 142.93.118.186.2749 > 104.248.224.85.33794: Flags [.], ack 244, win 227, options [nop,nop,TS val 475666123 ecr 2086829], length 0
+22:43:12.539989 IP 142.93.118.186.2749 > 206.189.113.189.53878: Flags [P.], seq 290:363, ack 70, win 227, options [nop,nop,TS val 475666123 ecr 2069082], length 73
+22:43:12.609575 IP 206.189.113.189.53878 > 142.93.118.186.2749: Flags [.], ack 363, win 229, options [nop,nop,TS val 2071039 ecr 475666123], length 0
+22:43:16.952302 IP 206.189.113.189.53878 > 142.93.118.186.2749: Flags [P.], seq 70:95, ack 363, win 229, options [nop,nop,TS val 2072125 ecr 475666123], length 25
+22:43:16.952359 IP 142.93.118.186.2749 > 206.189.113.189.53878: Flags [.], ack 95, win 227, options [nop,nop,TS val 475667226 ecr 2072125], length 0
+22:43:16.952450 IP 142.93.118.186.2749 > 104.248.224.85.33794: Flags [P.], seq 191:232, ack 244, win 227, options [nop,nop,TS val 475667226 ecr 2086829], length 41
+22:43:16.952788 IP 104.248.224.85.33794 > 142.93.118.186.2749: Flags [.], ack 232, win 229, options [nop,nop,TS val 2087933 ecr 475667226], length 0
+22:43:17.544430 IP 142.93.118.186.57941 > 67.207.67.2.domain: 20022+ A? msn.com. (25)
+22:43:17.544451 IP 142.93.118.186.57941 > 67.207.67.2.domain: 22783+ AAAA? msn.com. (25)
+22:43:17.544999 IP 67.207.67.2.domain > 142.93.118.186.57941: 20022 1/0/0 A 13.82.28.61 (41)
+22:43:17.545013 IP 67.207.67.2.domain > 142.93.118.186.57941: 22783 0/1/0 (90)
+22:43:17.545109 IP 142.93.118.186.34998 > 13.82.28.61.http: Flags [S], seq 1462160315, win 29200, options [mss 1460,sackOK,TS val 475667374 ecr 0,nop,wscale 7], length 0
+22:43:17.552976 IP 13.82.28.61.http > 142.93.118.186.34998: Flags [S.], seq 1254166211, ack 1462160316, win 8192, options [mss 1440,nop,wscale 8,sackOK,TS val 164349631 ecr 475667374], length 0
+22:43:17.553008 IP 142.93.118.186.34998 > 13.82.28.61.http: Flags [.], ack 1, win 229, options [nop,nop,TS val 475667376 ecr 164349631], length 0
+22:43:17.553054 IP 142.93.118.186.34998 > 13.82.28.61.http: Flags [P.], seq 1:135, ack 1, win 229, options [nop,nop,TS val 475667376 ecr 164349631], length 134: HTTP: GET / HTTP/1.1
+22:43:17.560249 IP 13.82.28.61.http > 142.93.118.186.34998: Flags [P.], seq 1:356, ack 135, win 514, options [nop,nop,TS val 164349631 ecr 475667376], length 355: HTTP: HTTP/1.1 301 Moved Permanently
+22:43:17.560269 IP 142.93.118.186.34998 > 13.82.28.61.http: Flags [.], ack 356, win 237, options [nop,nop,TS val 475667378 ecr 164349631], length 0
+22:43:17.560501 IP 142.93.118.186.36476 > 67.207.67.2.domain: 44788+ A? www.msn.com. (29)
+22:43:17.560513 IP 142.93.118.186.36476 > 67.207.67.2.domain: 6388+ AAAA? www.msn.com. (29)
+22:43:17.561676 IP 67.207.67.2.domain > 142.93.118.186.36476: 6388 2/1/0 CNAME www-msn-com.a-0003.a-msedge.net., CNAME a-0003.a-msedge.net. (145)
+22:43:17.562227 IP 67.207.67.2.domain > 142.93.118.186.36476: 44788 3/0/0 CNAME www-msn-com.a-0003.a-msedge.net., CNAME a-0003.a-msedge.net., A 204.79.197.203 (104)
+22:43:17.562319 IP 142.93.118.186.47552 > a-0003.a-msedge.net.http: Flags [S], seq 3670192552, win 29200, options [mss 1460,sackOK,TS val 475667379 ecr 0,nop,wscale 7], length 0
+22:43:17.564085 IP a-0003.a-msedge.net.http > 142.93.118.186.47552: Flags [S.], seq 2892409955, ack 3670192553, win 65535, options [mss 1440,nop,wscale 8,nop,nop,sackOK], length 0
+22:43:17.564102 IP 142.93.118.186.47552 > a-0003.a-msedge.net.http: Flags [.], ack 1, win 229, length 0
+22:43:17.564129 IP 142.93.118.186.47552 > a-0003.a-msedge.net.http: Flags [P.], seq 1:139, ack 1, win 229, length 138: HTTP: GET / HTTP/1.1
+22:43:17.565107 IP a-0003.a-msedge.net.http > 142.93.118.186.47552: Flags [.], ack 139, win 1026, length 0
+22:43:17.663952 IP a-0003.a-msedge.net.http > 142.93.118.186.47552: Flags [P.], seq 1:3518, ack 139, win 1026, length 3517: HTTP: HTTP/1.1 200 OK
+22:43:17.663996 IP 142.93.118.186.47552 > a-0003.a-msedge.net.http: Flags [.], ack 3518, win 284, length 0
+22:43:17.664009 IP a-0003.a-msedge.net.http > 142.93.118.186.47552: Flags [P.], seq 4978:11710, ack 139, win 1026, length 6732: HTTP
+22:43:17.664020 IP 142.93.118.186.47552 > a-0003.a-msedge.net.http: Flags [.], ack 3518, win 389, options [nop,nop,sack 1 {4978:11710}], length 0
+22:43:17.664022 IP a-0003.a-msedge.net.http > 142.93.118.186.47552: Flags [.], seq 3518:4978, ack 139, win 1026, length 1460: HTTP
+22:43:17.664029 IP 142.93.118.186.47552 > a-0003.a-msedge.net.http: Flags [.], ack 11710, win 412, length 0
+22:43:17.664126 IP a-0003.a-msedge.net.http > 142.93.118.186.47552: Flags [.], seq 11710:13170, ack 139, win 1026, length 1460: HTTP
+22:43:17.664135 IP 142.93.118.186.47552 > a-0003.a-msedge.net.http: Flags [.], ack 13170, win 434, length 0
+22:43:17.664144 IP a-0003.a-msedge.net.http > 142.93.118.186.47552: Flags [P.], seq 13170:19902, ack 139, win 1026, length 6732: HTTP
+22:43:17.664152 IP 142.93.118.186.47552 > a-0003.a-msedge.net.http: Flags [.], ack 19902, win 540, length 0
+22:43:17.664215 IP a-0003.a-msedge.net.http > 142.93.118.186.47552: Flags [.], seq 19902:22822, ack 139, win 1026, length 2920: HTTP
+22:43:17.664222 IP 142.93.118.186.47552 > a-0003.a-msedge.net.http: Flags [.], ack 22822, win 585, length 0
+22:43:17.664269 IP 142.93.118.186.34998 > 13.82.28.61.http: Flags [F.], seq 135, ack 356, win 237, options [nop,nop,TS val 475667404 ecr 164349631], length 0
+22:43:17.665184 IP a-0003.a-msedge.net.http > 142.93.118.186.47552: Flags [.], seq 22822:25742, ack 139, win 1026, length 2920: HTTP
+22:43:17.665195 IP 142.93.118.186.47552 > a-0003.a-msedge.net.http: Flags [.], ack 25742, win 631, length 0
+22:43:17.665207 IP a-0003.a-msedge.net.http > 142.93.118.186.47552: Flags [P.], seq 25742:28662, ack 139, win 1026, length 2920: HTTP
+22:43:17.665214 IP 142.93.118.186.47552 > a-0003.a-msedge.net.http: Flags [.], ack 28662, win 676, length 0
+22:43:17.665216 IP a-0003.a-msedge.net.http > 142.93.118.186.47552: Flags [.], seq 28662:34502, ack 139, win 1026, length 5840: HTTP
+22:43:17.665223 IP 142.93.118.186.47552 > a-0003.a-msedge.net.http: Flags [.], ack 34502, win 768, length 0
+22:43:17.665231 IP a-0003.a-msedge.net.http > 142.93.118.186.47552: Flags [P.], seq 34502:37422, ack 139, win 1026, length 2920: HTTP
+22:43:17.665237 IP 142.93.118.186.47552 > a-0003.a-msedge.net.http: Flags [.], ack 37422, win 813, length 0
+22:43:17.665243 IP a-0003.a-msedge.net.http > 142.93.118.186.47552: Flags [.], seq 37422:43262, ack 139, win 1026, length 5840: HTTP
+22:43:17.665250 IP 142.93.118.186.47552 > a-0003.a-msedge.net.http: Flags [.], ack 43262, win 905, length 0
+22:43:17.665256 IP a-0003.a-msedge.net.http > 142.93.118.186.47552: Flags [P.], seq 43262:44722, ack 139, win 1026, length 1460: HTTP
+22:43:17.665261 IP 142.93.118.186.47552 > a-0003.a-msedge.net.http: Flags [.], ack 44722, win 927, length 0
+22:43:17.665267 IP a-0003.a-msedge.net.http > 142.93.118.186.47552: Flags [P.], seq 44722:46827, ack 139, win 1026, length 2105: HTTP
+22:43:17.665273 IP 142.93.118.186.47552 > a-0003.a-msedge.net.http: Flags [.], ack 46827, win 960, length 0
+22:43:17.665798 IP 142.93.118.186.47552 > a-0003.a-msedge.net.http: Flags [F.], seq 139, ack 46827, win 960, length 0
+22:43:17.666466 IP a-0003.a-msedge.net.http > 142.93.118.186.47552: Flags [.], ack 140, win 1026, length 0
+22:43:17.666488 IP a-0003.a-msedge.net.http > 142.93.118.186.47552: Flags [F.], seq 46827, ack 140, win 1026, length 0
+22:43:17.666502 IP 142.93.118.186.47552 > a-0003.a-msedge.net.http: Flags [.], ack 46828, win 960, length 0
+22:43:17.671134 IP 13.82.28.61.http > 142.93.118.186.34998: Flags [F.], seq 356, ack 136, win 514, options [nop,nop,TS val 164349643 ecr 475667404], length 0
+22:43:17.671152 IP 142.93.118.186.34998 > 13.82.28.61.http: Flags [.], ack 357, win 237, options [nop,nop,TS val 475667406 ecr 164349643], length 0
+22:43:17.853106 IP srv1.eosmultimedia.nl.26690 > 142.93.118.186.4145: Flags [S], seq 2388489914, win 25220, length 0
+22:43:17.853162 IP 142.93.118.186.4145 > srv1.eosmultimedia.nl.26690: Flags [R.], seq 0, ack 2388489915, win 0, length 0
+22:43:19.745496 IP serv2.irc-bouncers.com.37213 > 142.93.118.186.omniorb: Flags [S], seq 3636833216, win 65535, options [mss 536], length 0
+22:43:19.745546 IP 142.93.118.186.omniorb > serv2.irc-bouncers.com.37213: Flags [R.], seq 0, ack 3636833217, win 0, length 0
+22:43:21.064015 IP 104.248.224.85.33794 > 142.93.118.186.2749: Flags [P.], seq 244:269, ack 232, win 229, options [nop,nop,TS val 2088960 ecr 475667226], length 25
+22:43:21.064067 IP 142.93.118.186.2749 > 104.248.224.85.33794: Flags [.], ack 269, win 227, options [nop,nop,TS val 475668254 ecr 2088960], length 0
+22:43:21.064184 IP 142.93.118.186.2749 > 206.189.113.189.53878: Flags [P.], seq 363:400, ack 95, win 227, options [nop,nop,TS val 475668254 ecr 2072125], length 37
+22:43:21.132771 IP 206.189.113.189.53878 > 142.93.118.186.2749: Flags [.], ack 400, win 229, options [nop,nop,TS val 2073170 ecr 475668254], length 0
+22:43:23.671682 IP 142.93.118.186.39092 > 67.207.67.2.domain: 6852+ A? nostarch.com. (30)
+22:43:23.671703 IP 142.93.118.186.39092 > 67.207.67.2.domain: 57368+ AAAA? nostarch.com. (30)
+22:43:23.672216 IP 67.207.67.2.domain > 142.93.118.186.39092: 57368 2/0/0 AAAA 2606:4700:10::6814:d103, AAAA 2606:4700:10::6814:d003 (86)
+22:43:23.672441 IP 67.207.67.2.domain > 142.93.118.186.39092: 6852 2/0/0 A 104.20.208.3, A 104.20.209.3 (62)
+22:43:23.672592 IP 142.93.118.186.59612 > 104.20.208.3.https: Flags [S], seq 1198625252, win 29200, options [mss 1460,sackOK,TS val 475668906 ecr 0,nop,wscale 7], length 0
+22:43:23.674232 IP 104.20.208.3.https > 142.93.118.186.59612: Flags [S.], seq 3772397218, ack 1198625253, win 29200, options [mss 1460,nop,nop,sackOK,nop,wscale 10], length 0
+22:43:23.674253 IP 142.93.118.186.59612 > 104.20.208.3.https: Flags [.], ack 1, win 229, length 0
+22:43:23.674345 IP 142.93.118.186.59612 > 104.20.208.3.https: Flags [P.], seq 1:327, ack 1, win 229, length 326
+22:43:23.675804 IP 104.20.208.3.https > 142.93.118.186.59612: Flags [.], ack 327, win 30, length 0
+22:43:23.678557 IP 104.20.208.3.https > 142.93.118.186.59612: Flags [P.], seq 1:2406, ack 327, win 30, length 2405
+22:43:23.678583 IP 142.93.118.186.59612 > 104.20.208.3.https: Flags [.], ack 2406, win 266, length 0
+22:43:23.679635 IP 142.93.118.186.59612 > 104.20.208.3.https: Flags [P.], seq 327:453, ack 2406, win 266, length 126
+22:43:23.681395 IP 104.20.208.3.https > 142.93.118.186.59612: Flags [P.], seq 2406:2648, ack 453, win 30, length 242
+22:43:23.681551 IP 142.93.118.186.59612 > 104.20.208.3.https: Flags [P.], seq 453:625, ack 2648, win 289, length 172
+22:43:23.723549 IP 104.20.208.3.https > 142.93.118.186.59612: Flags [.], ack 625, win 31, length 0
+22:43:24.187127 IP 104.20.208.3.https > 142.93.118.186.59612: Flags [P.], seq 2648:4046, ack 625, win 31, length 1398
+22:43:24.187187 IP 104.20.208.3.https > 142.93.118.186.59612: Flags [P.], seq 4046:5444, ack 625, win 31, length 1398
+22:43:24.187217 IP 142.93.118.186.59612 > 104.20.208.3.https: Flags [.], ack 5444, win 334, length 0
+22:43:24.187231 IP 104.20.208.3.https > 142.93.118.186.59612: Flags [P.], seq 5444:6842, ack 625, win 31, length 1398
+22:43:24.187237 IP 104.20.208.3.https > 142.93.118.186.59612: Flags [P.], seq 6842:8240, ack 625, win 31, length 1398
+22:43:24.187251 IP 142.93.118.186.59612 > 104.20.208.3.https: Flags [.], ack 8240, win 377, length 0
+22:43:24.187253 IP 104.20.208.3.https > 142.93.118.186.59612: Flags [P.], seq 8240:9638, ack 625, win 31, length 1398
+22:43:24.187258 IP 104.20.208.3.https > 142.93.118.186.59612: Flags [P.], seq 9638:11036, ack 625, win 31, length 1398
+22:43:24.187265 IP 142.93.118.186.59612 > 104.20.208.3.https: Flags [.], ack 11036, win 421, length 0
+22:43:24.187280 IP 104.20.208.3.https > 142.93.118.186.59612: Flags [P.], seq 11036:12434, ack 625, win 31, length 1398
+22:43:24.187285 IP 104.20.208.3.https > 142.93.118.186.59612: Flags [P.], seq 12434:15230, ack 625, win 31, length 2796
+22:43:24.187292 IP 142.93.118.186.59612 > 104.20.208.3.https: Flags [.], ack 15230, win 487, length 0
+22:43:24.187333 IP 104.20.208.3.https > 142.93.118.186.59612: Flags [P.], seq 15230:18026, ack 625, win 31, length 2796
+22:43:24.187346 IP 142.93.118.186.59612 > 104.20.208.3.https: Flags [.], ack 18026, win 530, length 0
+22:43:24.187460 IP 104.20.208.3.https > 142.93.118.186.59612: Flags [.], seq 18026:19486, ack 625, win 31, length 1460
+22:43:24.187479 IP 104.20.208.3.https > 142.93.118.186.59612: Flags [P.], seq 19486:19487, ack 625, win 31, length 1
+22:43:24.187485 IP 142.93.118.186.59612 > 104.20.208.3.https: Flags [.], ack 19487, win 553, length 0
+22:43:24.196231 IP 104.20.208.3.https > 142.93.118.186.59612: Flags [P.], seq 19487:20885, ack 625, win 31, length 1398
+22:43:24.196367 IP 104.20.208.3.https > 142.93.118.186.59612: Flags [P.], seq 20885:22283, ack 625, win 31, length 1398
+22:43:24.196387 IP 142.93.118.186.59612 > 104.20.208.3.https: Flags [.], ack 22283, win 598, length 0
+22:43:24.196403 IP 104.20.208.3.https > 142.93.118.186.59612: Flags [P.], seq 22283:25079, ack 625, win 31, length 2796
+22:43:24.196412 IP 142.93.118.186.59612 > 104.20.208.3.https: Flags [.], ack 25079, win 641, length 0
+22:43:24.196416 IP 104.20.208.3.https > 142.93.118.186.59612: Flags [.], seq 25079:26539, ack 625, win 31, length 1460
+22:43:24.196490 IP 104.20.208.3.https > 142.93.118.186.59612: Flags [P.], seq 26539:27561, ack 625, win 31, length 1022
+22:43:24.196499 IP 142.93.118.186.59612 > 104.20.208.3.https: Flags [.], ack 27561, win 687, length 0
+22:43:24.203340 IP 104.20.208.3.https > 142.93.118.186.59612: Flags [P.], seq 27561:28959, ack 625, win 31, length 1398
+22:43:24.203429 IP 104.20.208.3.https > 142.93.118.186.59612: Flags [P.], seq 28959:30357, ack 625, win 31, length 1398
+22:43:24.203444 IP 142.93.118.186.59612 > 104.20.208.3.https: Flags [.], ack 30357, win 732, length 0
+22:43:24.203458 IP 104.20.208.3.https > 142.93.118.186.59612: Flags [P.], seq 30357:33096, ack 625, win 31, length 2739
+22:43:24.203466 IP 142.93.118.186.59612 > 104.20.208.3.https: Flags [.], ack 33096, win 774, length 0
+22:43:24.204617 IP 104.20.208.3.https > 142.93.118.186.59612: Flags [P.], seq 33096:34494, ack 625, win 31, length 1398
+22:43:24.204627 IP 104.20.208.3.https > 142.93.118.186.59612: Flags [P.], seq 34494:37290, ack 625, win 31, length 2796
+22:43:24.204635 IP 142.93.118.186.59612 > 104.20.208.3.https: Flags [.], ack 37290, win 841, length 0
+22:43:24.204750 IP 104.20.208.3.https > 142.93.118.186.59612: Flags [P.], seq 37290:38285, ack 625, win 31, length 995
+22:43:24.204777 IP 104.20.208.3.https > 142.93.118.186.59612: Flags [P.], seq 38285:38319, ack 625, win 31, length 34
+22:43:24.204809 IP 142.93.118.186.59612 > 104.20.208.3.https: Flags [.], ack 38319, win 864, length 0
+22:43:24.205419 IP 142.93.118.186.59612 > 104.20.208.3.https: Flags [F.], seq 625, ack 38319, win 864, length 0
+22:43:24.207367 IP 104.20.208.3.https > 142.93.118.186.59612: Flags [F.], seq 38319, ack 626, win 31, length 0
+22:43:24.207396 IP 142.93.118.186.59612 > 104.20.208.3.https: Flags [.], ack 38320, win 864, length 0
+22:43:25.170823 IP 104.248.224.85.33794 > 142.93.118.186.2749: Flags [F.], seq 269, ack 232, win 229, options [nop,nop,TS val 2089987 ecr 475668254], length 0
+22:43:25.209683 IP 142.93.118.186.2749 > 104.248.224.85.33794: Flags [.], ack 270, win 227, options [nop,nop,TS val 475669291 ecr 2089987], length 0
+22:43:26.828214 IP 206.189.113.189.53878 > 142.93.118.186.2749: Flags [F.], seq 95, ack 400, win 229, options [nop,nop,TS val 2074594 ecr 475668254], length 0
+22:43:26.865677 IP 142.93.118.186.2749 > 206.189.113.189.53878: Flags [.], ack 96, win 227, options [nop,nop,TS val 475669705 ecr 2074594], length 0

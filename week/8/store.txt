@@ -1,0 +1,1747 @@
+facebook
+facebook
+verisign-grs
+verisign-grs
+verisign-grs
+verisign-grs
+=square.com
+please enter a username: 
+   Domain Name: SQUARE.COM
+   Registry Domain ID: 433055_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.markmonitor.com
+   Registrar URL: http://www.markmonitor.com
+   Updated Date: 2017-05-18T11:10:15Z
+   Creation Date: 1994-06-04T04:00:00Z
+   Registry Expiry Date: 2019-06-03T04:00:00Z
+   Registrar: MarkMonitor Inc.
+   Registrar IANA ID: 292
+   Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+   Registrar Abuse Contact Phone: +1.2083895740
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: NS5.DNSMADEEASY.COM
+   Name Server: NS6.DNSMADEEASY.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2018-10-25T02:42:08Z <<<
+For more information on Whois status codes, please visit https://icann.org/epp
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' ("VeriSign") Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability.  VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.
+laz0rh4x
+laz0rh4x, you are now in the chat room
+please enter a username: 
+hostmaster
+&GET / HTTP/1.1
+User-Agent: Wget/1.17.1 (linux-gnu)
+Accept: */*
+Accept-Encoding: identity
+Host: oracle.com
+Connection: Keep-Alive
+HTTP/1.0 301 Moved Permanently
+Location: http://www.oracle.com/
+Connection: close
+Content-Length: 0
+akamaiedge
+akamaiedge
+GET / HTTP/1.1
+User-Agent: Wget/1.17.1 (linux-gnu)
+Accept: */*
+Accept-Encoding: identity
+Host: www.oracle.com
+Connection: Keep-Alive
+HTTP/1.1 301 Moved Permanently
+Location: https://www.oracle.com/index.html
+Server: BigIP
+Content-Length: 0
+Date: Thu, 25 Oct 2018 02:42:27 GMT
+Connection: keep-alive
+Server-Timing: cdn-cache; desc=HIT
+Server-Timing: edge; dur=0
+X-XSS-Protection: 1
+Actual-Object-TTL: -1
+www.oracle.com
+DigiCert Inc1&0$
+DigiCert ECC Secure Server CA0
+181016000000Z
+200115120000Z0
+California1
+Redwood Shores1
+Oracle Corporation1'0%
+Content Management Services IT1
+www-cs-01.oracle.com0Y0
+www-cs-01.oracle.com
+events.oracle.com
+search.oracle.com
+www.oracle.com
+my.oracle.com
+cloud.oracle.com
+learning.oracle.com
+m.oracle.com
+www.oracleimg.com
+learn.oracle.com
+pressroom.oracle.com0
+(http://crl3.digicert.com/ssca-ecc-g1.crl0.
+(http://crl4.digicert.com/ssca-ecc-g1.crl0L
+https://www.digicert.com/CPS0
+http://ocsp.digicert.com0E
+9http://cacerts.digicert.com/DigiCertECCSecureServerCA.crt0	
+DigiCert Inc1
+www.digicert.com1 0
+DigiCert Global Root CA0
+130308120000Z
+230308120000Z0L1
+DigiCert Inc1&0$
+DigiCert ECC Secure Server CA0v0
+http://ocsp.digicert.com0B
+1http://crl3.digicert.com/DigiCertGlobalRootCA.crl0=
+https://www.digicert.com/CPS0
+k$; -5s"
+Q-QhgrMIl
+WvNT,ooR
+H($$.=g d
++]K@|wf0
+c}Hyz;Vd
+but+a5(8
+.h%#Mf^N
+5aJ'm<.xoD
+k0hNB?4T
+vb}|5t.l
+zT:	{.}s
+-RB{HY59
+c0uchpot4doz
+c0uchpot4doz, you are now in the chat room
+c0uchpot4doz, has joined the cat room
+	microsoft
+	microsoft
+whizbang
+postmaster
+TGET / HTTP/1.1
+User-Agent: Wget/1.17.1 (linux-gnu)
+Accept: */*
+Accept-Encoding: identity
+Host: csec.umd.edu
+Connection: Keep-Alive
+HTTP/1.1 200 OK
+Date: Thu, 25 Oct 2018 02:42:33 GMT
+Server: Apache/2.2.15 (Red Hat)
+Last-Modified: Mon, 19 Mar 2018 21:25:53 GMT
+ETag: "b101bb10-3ebb-567ca9a52a581"
+Accept-Ranges: bytes
+Content-Length: 16059
+Content-Type: text/html; charset=UTF-8
+<!DOCTYPE html>
+  <!-- Site made with Mobirise Website Builder v4.5.4, https://mobirise.com -->
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Mobirise v4.5.4, mobirise.com">
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+  <link rel="shortcut icon" href="assets/images/logo-128x192.png" type="image/x-icon">
+  <meta name="description" content="">
+  <title>UMD-CSEC</title>
+  <link rel="stylesheet" href="assets/web/assets/mobirise-icons/mobirise-icons.css">
+  <link rel="stylesheet" href="assets/tether/tether.min.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-grid.min.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-reboot.min.css">
+  <link rel="stylesheet" href="assets/dropdown/css/style.css">
+  <link rel="stylesheet" href="assets/socicon/css/styles.css">
+  <link rel="stylesheet" href="assets/theme/css/style.css">
+  <link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
+<section class="menu cid-qFNxiw5mdO" once="menu" id="menu1-h">
+    <nav class="navbar navbar-expand beta-menu navbar-dropdown align-items-center navbar-toggleable-sm bg-color transparent">
+        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <div class="hamburger">
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </button>
+        <div class="menu-logo">
+            <div class="navbar-brand">
+                <span class="navbar-logo">
+                    <a href="http://csec.umd.edu">
+                         <img src="assets/images/logo-450x675.png" alt="Mobirise" title="" style="height: 5.6rem;">
+                    </a>
+                </span>
+                
+            </div>
+        </div>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav nav-dropdown nav-right" data-app-modern-menu="true"><li class="nav-item">
+                    <a class="nav-link link text-black display-4" href="index.html#info3-q"><span class="mbri-info mbr-iconfont mbr-iconfont-btn"></span>
+                        
+                        About Us
+                    </a>
+                </li><li class="nav-item">
+                    <a class="nav-link link text-black display-4" href="index.html#content10-n"><span class="mbri-calendar mbr-iconfont mbr-iconfont-btn"></span>
+                        
+                        Schedule</a>
+                </li></ul>
+            
+        </div>
+    </nav>
+</section>
+<section class="engine"><a href="https://mobirise.co/k">free bootstrap template</a></section><section class="cid-qFNxiwSshu mbr-fullscreen mbr-parallax-background" id="header2-i">
+    <div class="container align-center">
+        <div class="row justify-content-md-center">
+            <div class="mbr-white col-md-10">
+                <h1 class="mbr-section-title mbr-bold pb-3 mbr-fonts-style display-2">University of Maryland
+<div>Cybersecurity Club</div><br><br><div>
+</div></h1>
+                
+                
+                <div class="mbr-section-btn"><a class="btn btn-md btn-secondary display-4" href="https://orgsync.com/64230/chapter">JOIN NOW</a></div>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="mbr-section info3 cid-qFNJgNvdzL" id="info3-q">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="media-container-column title col-12 col-md-10">
+                
+                <h3 class="mbr-section-subtitle align-left mbr-light mbr-white pb-3 mbr-fonts-style display-5">
+                    ABOUT US</h3>
+                <p cl
+ass="mbr-text align-left mbr-white mbr-fonts-style display-7">
+                    The University of Maryland Cybersecurity Club is a student run organization based in Computer Science and Electrical and Computer Engineering at The University of Maryland, College Park. Our main purpose is to develop and encourage cyber security awareness and application by providing students with the tools and education they need to advance their cyber security careers. To accomplish this goal, we organize community outreach programs about security related topics, host tech talks and guest speakers and participate in security related competitions and conventions.
+                </p>
+                
+            </div>
+        </div>
+    </div>
+</section>
+<section class="counters1 counters cid-qHGqDR4uO5" id="counters1-x">
+    <div class="container">
+        
+        <h3 class="mbr-section-subtitle mbr-fonts-style display-5">
+            UMD CSEC consists of 2 types of meetings</h3>
+        <div class="container pt-4 mt-2">
+            <div class="media-container-row">
+                <div class="card p-3 align-center col-12 col-md-6">
+                    <div class="panel-item p-3">
+                        
+                        <div class="card-text">
+                            <h3 class="mbr-section-title pb-3 mbr-fonts-style display-2">GBMs</h3>
+                            <h4 class="mbr-content-title mbr-bold mbr-fonts-style display-7">every other Wednesday at 6pm</h4>
+                            <p class="mbr-content-text mbr-fonts-style display-7">
+                                At general body meetings, members of the cybersecurity community come to talk about the latest developments in their fields. &nbsp;In past meetings, this has included hands-on demonstrations including router exploitation as well as physical security exploits such as lock picking. &nbsp;One demonstration we have planned for this semester is firmware extraction from a router using the debug pins. &nbsp;Join our mailing list for the latest meeting updates.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="card p-3 align-center col-12 col-md-6">
+                    <div class="panel-item p-3">
+                        
+                        <div class="card-text">
+                            <h3 class="mbr-section-title pb-3 mbr-fonts-style display-2">
+                                  Comp Team</h3>
+                            <h4 class="mbr-content-title mbr-bold mbr-fonts-style display-7">Saturdays at 4pm</h4>
+                            <p class="mbr-content-text mbr-fonts-style display-7">Competition team meetings are led by our VP, Peter Heppenstall, and cover practical applications of security with an emphasis on competitions. &nbsp;Last semester's focus was on reverse engineering and binary exploitation. &nbsp;For more information about the competition team or any upcoming CTF competitions that you are interested in forming a team for, contact Peter at <a href="mailto:compteam@csec.umiacs.umd.edu">compteam@csec.umiacs.umd.edu</a>.&nbsp;</p>
+                        </div>
+                    </div>
+                </div>
+                
+                
+            </div>
+        </div>
+   </div>
+</section>
+<section class="mbr-section article content10 cid-qFNHuQM89s" id="content10-n">
+    <div class="container">
+        <div class="inner-container" style="width: 66%;">
+            <hr class="line" style="width: 25%;">
+            <div class="section-text align-center mbr-white mbr-fonts-style display-5">2018 SCHEDULE<br><br>JAN 31: &nbsp;Raytheon<br>FEB 14: &nbsp;NIST: Post-Quantum Cryptography<br>FEB 28: Buffer Overflow Demo<br>MARCH 28: Cipher Tech<br>APRIL 14: UMDCTF</div>
+            <hr class="line" style="width: 25%;">
+        </div>
+    </div>
+</section>
+<section class="clients cid-qGVjvsyKUk" id="clients-w">
+        <div class="container mb-5">
+            <div class="media-container-row">
+                <div class="col-12 align-center">
+                    <h2 class="mbr-section-title pb-3 mbr-fonts-style display-2">Our Sponsors</h2>
+                    
+                </div>
+            </div>
+        </div>
+    <div class="container">
+        <div class="carousel slide" data-ride="carousel" role="listbox">
+            <div class="carousel-inner" data-visible="4">
+                
+                
+                
+                
+                
+            <div class="carousel-item ">
+                    <div class="media-container-row">
+                        <div class="col-md-12">
+                            <div class="wrap-img ">
+                                <a href="https://www.lockheedmartin.com" target="_blank"><img src="assets/images/lockheed-500x85.png" class="img-responsive clients-img" alt="" title=""></a>
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="carousel-item ">
+                    <div class="media-container-row">
+                        <div class="col-md-12">
+                            <div class="wrap-img ">
+                                <a href="https://www.boozallen.com/" target="_blank"><img src="assets/images/booz-459x100.png" class="img-responsive clients-img" alt="" title=""></a>
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="carousel-item ">
+                    <div class="media-container-row">
+                        <div class="col-md-12">
+                            <div class="wrap-img ">
+                                <a href="http://www.northropgrumman.com" target="_blank"><img src="assets/images/northrop-560x105.png" class="img-responsive clients-img" alt="" title=""></a>
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="carousel-item ">
+                    <div class="media-container-row">
+                        <div class="col-md-12">
+                            <div class="wrap-img ">
+                                <a href="https://www.leidos.com/" target="_blank"><img src="assets/images/leidos-1024x248.png" class="img-responsive clients-img" alt="" title=""></a>
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="carousel-item ">
+                    <div class="media-container-row">
+                        <div class="col-md-12">
+                            <div class="wrap-img ">
+                                <a href="https://www.gd.com/" target="_blank"><img src="assets/images/gdms-722x100.png" class="img-responsive clients-img" alt="" title=""></a>
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="carousel-item ">
+                    <div class="media-container-row">
+                        <div class="col-md-12">
+                            <div class="wrap-img ">
+                                <a href="https://www.ciphertechsolutions.com"><img src="assets/images/cipher-tech2-801x211.png" class="img-responsive clients-img" alt="" title=""></a>
+                            </div>
+                        </div>
+                    </div>
+                </div></div>
+            <div class="carousel-controls">
+                <a data-app-prevent-settings="" class="carousel-control carousel-control-prev" role="button" data-slide="prev">
+                    <span aria-hidden="true" class="mbri-left mbr-iconfont"></span>
+                    <span class="sr-only">Previous</span>
+                </a>
+                <a data-app-prevent-settings="" class="carousel-control carousel-control-next" role="button" data-slide="next">
+                    <span aria-hidden="true" class="mbri-right mbr-iconfont"></span>
+                    <span class="sr-only">Next</span>
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="cid-qFNT0D0ITQ" id="footer1-s">
+    <div class="container">
+        <div class="media-container-row content text-white">
+            <div class="col-12 col-md-3">
+                <div class="media-wrap">
+                    <a href="http://csec.umd.edu/">
+                        <img src="assets/images/logo-450x675.png" alt="Mobirise" title="">
+                    </a>
+                </div>
+            </div>
+            <div class="col-12 col-md-3 mbr-fonts-style display-7">
+                <h5 class="pb-3">Location</h5>
+        
+        <p class="mbr-text">1322 A.V. Williams Bldg
+<br>8223 Paint Branch Dr
+<br>College Park, MD 20740</p>
+            </div>
+            <div class="col-12 col-md-3 mbr-fonts-style display-7">
+                <h5 class="pb-3">Officers</h5>
+                <p class="mbr-text">President: Callan Cramer&nbsp;<br>VP:&nbsp;Peter Heppenstall<br>Secretary: Joshua Fleming</p>
+            </div>
+            <div class="col-12 col-md-3 mbr-fonts-style display-4">
+                <h5 class="pb-3">Contacts</h5>
+                <p class="mbr-text"><a href="mailto:president@csec.umiacs.umd.edu">president@csec.umiacs.umd.edu</a><br><a href="mailto:compteam@csec.umiacs.umd.edu">compteam@csec.umiacs.umd...</a><br><a href="mailto:secretary@csec.umiacs.umd.edu">secretary@csec.umiacs.umd.edu</a><br></p>
+            </div>
+        </div>
+        <div class="footer-lower">
+            <div class="media-container-row">
+                <div class="col-sm-12">
+                    <hr>
+                </div>
+            </div>
+            <div class="media-container-row mbr-white">
+                <div class="col-sm-6 copyright">
+                    <p class="mbr-text mbr-fonts-style display-7">
+                        
+ Copyright 2018 University of Maryland</p>
+                </div>
+                <div class="col-md-6">
+                    <div class="social-list align-right">
+                        <div class="soc-item">
+                            <a href="https://twitter.com/umdcsec" target="_blank">
+                                <span class="mbr-iconfont mbr-iconfont-social socicon-twitter socicon"></span>
+                            </a>
+                        </div>
+                        <div class="soc-item">
+                            <a href="https://www.facebook.com/groups/csec.umd/" target="_blank">
+                                <span class="mbr-iconfont mbr-iconfont-social socicon-facebook socicon"></span>
+                            </a>
+                        </div>
+                        <div class="soc-item">
+                            <a href="https://github.com/UMD-CSEC" target="_blank">
+                                <span class="mbr-iconfont mbr-iconfont-social socicon-github socicon"></span>
+                            </a>
+                        </div>
+                        
+                        
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+  <script src="assets/web/assets/jquery/jquery.min.js"></script>
+  <script src="assets/popper/popper.min.js"></script>
+  <script src="assets/tether/tether.min.js"></script>
+  <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+  <script src="assets/smoothscroll/smooth-scroll.js"></script>
+  <script src="assets/dropdown/js/script.min.js"></script>
+  <script src="assets/parallax/jarallax.min.js"></script>
+  <script src="assets/viewportchecker/jquery.viewportchecker.js"></script>
+  <script src="assets/bootstrapcarouselswipe/bootstrap-carousel-swipe.js"></script>
+  <script src="assets/mbr-clients-slider/mbr-clients-slider.js"></script>
+  <script src="assets/touchswipe/jquery.touch-swipe.min.js"></script>
+  <script src="assets/theme/js/script.js"></script>
+khey man, are you there?
+<laz0rh4x> hey man, are you there?
+whizbang
+postmaster
+@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+digitalocean
+hostmaster
+@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+digitalocean
+hostmaster
+digitalocean
+hostmaster
+@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+w@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+k@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+	@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+G@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+I@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+#@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+~yeah. when is it happening?
+<c0uchpot4doz> yeah. when is it happening?
+z@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+'	ae-1-3501
+Washington1
+MID-ATLANTI
+Washington1
+ae0	clpk-core
+maxgigapop
+maxgigapop
+hostmaster
+hostmaster
+hostmaster
+hostmaster
+v62	avw-1139a
+csec-vip
+we're all set for tomorrow at 1500
+<laz0rh4x> we're all set for tomorrow at 1500
+GET / HTTP/1.1
+User-Agent: Wget/1.17.1 (linux-gnu)
+Accept: */*
+Accept-Encoding: identity
+Host: cnn.com
+Connection: Keep-Alive
+HTTP/1.1 301 Moved Permanently
+Server: Varnish
+Retry-After: 0
+Content-Length: 0
+Cache-Control: public, max-age=600
+Location: http://www.cnn.com/
+Accept-Ranges: bytes
+Date: Thu, 25 Oct 2018 02:42:52 GMT
+Via: 1.1 varnish
+Connection: close
+Set-Cookie: countryCode=US; Domain=.cnn.com; Path=/
+Set-Cookie: geoData=new york|NY|10013|US|NA; Domain=.cnn.com; Path=/
+X-Served-By: cache-jfk8133-JFK
+X-Cache: HIT
+X-Cache-Hits: 0
+turner-tls
+turner-tls
+GET / HTTP/1.1
+User-Agent: Wget/1.17.1 (linux-gnu)
+Accept: */*
+Accept-Encoding: identity
+Host: www.cnn.com
+Connection: Keep-Alive
+Cookie: countryCode=US; geoData=new york|NY|10013|US|NA
+HTTP/1.1 301 Moved Permanently
+Server: Varnish
+Retry-After: 0
+Content-Length: 0
+Cache-Control: public, max-age=600
+Location: https://www.cnn.com/
+Accept-Ranges: bytes
+Date: Thu, 25 Oct 2018 02:42:52 GMT
+Via: 1.1 varnish
+Connection: close
+Set-Cookie: countryCode=US; Domain=.cnn.com; Path=/
+Set-Cookie: geoData=new york|NY|10013|US|NA; Domain=.cnn.com; Path=/
+X-Served-By: cache-jfk8134-JFK
+X-Cache: HIT
+X-Cache-Hits: 0
+www.cnn.com
+GlobalSign nv-sa1-0+
+$GlobalSign CloudSSL CA - SHA256 - G30
+180726192007Z
+190414163054Z0u1
+California1
+San Francisco1
+Fastly, Inc.1"0 
+turner-tls.map.fastly.net0
+6http://secure.globalsign.com/cacert/cloudsslsha2g3.crt06
+*http://ocsp2.globalsign.com/cloudsslsha2g30V
+&https://www.globalsign.com/repository/0
+turner-tls.map.fastly.net
+*.api.cnn.com
+*.api.cnn.io
+*.api.electiontracker.cnn.com
+*.api.platform.cnn.com
+*.arabic.cnn.com
+*.artemis.turner.com
+*.beta.next.cnn.com
+*.blogs.cnn.com
+*.client.appletv.cnn.com
+	*.cnn.com
+*.cnn.io
+*.cnnlabs.com
+*.cnnmoney.com
+*.cnnmoneystream.com
+*.cnnpolitics.com
+*.cnnv2.com
+*.config.outturner.com
+*.corporatemobile.outturner.com
+*.data.api.cnn.io
+*.edition.cnn.com
+*.edition.i.cdn.cnn.com
+*.electiontracker.cnn.com
+*.go.cnn.com
+*.greatbig.com
+*.greatbigstory.com
+*.greatbigstory.se
+*.i.cdn.cnn.com
+*.markets.money.cnn.io
+*.money.cnn.com
+*.moneystream.cnn.com
+*.next.cnn.com
+*.odm.platform.cnn.com
+*.outturner.com
+*.platform.cnn.com
+*.section-content.money.cnn.com
+*.stage.next.cnn.com
+*.travel.cnn.com
+*.turner.com
+*.www.i.cdn.cnn.com
+admin.cnnmoney.ch
+api.electiontracker.cnn.com
+api.etp.cnn.com
+api.platform.cnn.com
+app.cnn.io
+arabic.cnn.com
+client.appletv.cnn.com
+cnnlabs.com
+cnnmoney.ch
+cnnmoney.com
+cnnpolitics.com
+compositor.api.cnn.com
+content.cnnmoney.ch
+dev.admin.cnnmoney.ch
+dev.client.appletv.cnn.com
+dev.cnnmoney.ch
+dev.content.cnnmoney.ch
+dev.hypatia.api.cnn.io
+dev.money.cnn.com
+edition-m.cnn.com
+eightiesyourself.cnn.com
+graphql.verticals.api.cnn.io
+hypatia.api.cnn.io
+i.cdn.travel.cnn.com
+lite.cnn.com
+markets.money.cnn.io
+money.cnn.com
+preview.dev.money.cnn.com
+preview.money.cnn.com
+preview.qa.money.cnn.com
+preview.ref.money.cnn.com
+preview.train.money.cnn.com
+preview2.ref.money.cnn.com
+qa.money.cnn.com
+ref.admin.cnnmoney.ch
+ref.cnnmoney.ch
+ref.content.cnnmoney.ch
+ref.hypatia.api.cnn.io
+ref.money.cnn.com
+ref2.money.cnn.com
+stage.cnnmoney.ch
+stage.content.cnnmoney.ch
+stage.edition-m.cnn.com
+stage.money.cnn.com
+stage.us-m.cnn.com
+stage.www-m.cnn.com
+train.money.cnn.com
+us-m.cnn.com
+www-m.cnn.com
+www.cnnmoney.ch0
+GlobalSign nv-sa1
+Root CA1
+GlobalSign Root CA0
+150819000000Z
+250819000000Z0W1
+GlobalSign nv-sa1-0+
+$GlobalSign CloudSSL CA - SHA256 - G30
+!http://ocsp.globalsign.com/rootr103
+"http://crl.globalsign.com/root.crl0V
+&https://www.globalsign.com/repository/0
+r/;8,+n{
+J6}j2eWz{W
+H<_ #xD?
+=}w<T5	v
+ie=j!\	j
+hsF2vc 6%
+@QB{H7NNA9,
+Xbfe;KN%
+OwUKa/'u
+>XVn4/6{
+0%qy&b`k
+3 A1<81D
+a3fT.nIF
+/U\*7aykz
+7Mm-NWD@.
+\Cy^CE&'
+~p]Yb[a=f
+*~b(U6UCdV
+[p YkK 7	
+%JLfLfb}E7
+`F{Q7w0;
+j3Z=f(/{P
+$OhxA-EF
+%	R{C6Wj]!
+M{A#t71MpL
+#l-)Td3E
+PA(Z#XQyg
+B:sAr7-j
+6#{dHyv[
+:}A`YpF{
+kf}5!cU,
+y-T.anni
+v&_)<4}Jq
+6oPA6OeE
+v58&r^BZ
+6028<B;ns-{
+9ZoJ{EdV
+.<9u31v$
+mb#L'1$4
+JmmVM-D#
+}!3q'`$Tz
+%	6B2[7B\
+FY,$%J[B
+0R,-`sIz*
+_S6b{	%Q
+"-sN::8/
+~b*m	V^)Wv
+]$.%)d(_
+"mWRb&F7
+U [feJHT
+Q9FcD]6+Z
+cf1[;N?6
+?N||zS:N
+)\'Wy]=<
+\O-MHT7u
+(|f=Z#2-
+DBeea$M3
+3BRc<*aE
+|1z~Y4#=ju
+sWc"|d3B
+i~qD3)]~
+N*G}_)WZg#
+):%0?f"]
+XW;o+cG9c{
+bM$7Bk~,.M=
+N8AE_+aE
+82!iwf,v
+&J*]GF{&YR
+!oj#_bJ^I]
+(;]\fdfzV
+rt\N'kB(
+2r{]*uHE
+YLiQ,{t;L
+#4CH!UR'
+zbE*:7&Yn
+oI9R&Yv6
+]=^O@]m_
+GaZkL9bL
+v%[Xv(nRN
+;k\ 3Ct0
+6Y6<%!s/
+K-VPgOh(
+/h2B5B9J
+i"u\JYqD
+vuXRC]Gj
+\n 27N'Y
+:}j^RlbV
+I}u__U;I
+RdEv))j&
+XjVcM{]>7
+!B-%5Jk.
+{)>7J}!!
+yU.2gG.~Mq
+*{FuT<B'
+5n]0\c8$
+g$SEQ~)e
+sY4w?LdtP
+ Vk%dbs:
+}X{7-^}UU
+lz@TDUL#IE
+DE``.a^X
+(})rkE{5
+?DY++J|J
+Ea]W9'GB
+jYQ6"1(]
+/HLU%2.6
+3V|GkNmh93Ju
+`"Gz^A6^
+J?qH^/][
+fS=tKQ.Z
+A9Gv~[a)3
+5T/$7!iO
+u`F],~Im
+gZD'aEuJ~'
+xK8#siy 
+9V|aQN42
+C'hy}v_,d
++6Hx*b-4w
+@nBGXuD|
+-}ett1Ds
+VgjSsXQ;
+=#KFE>"i>
+=srbh>;a
+Zk5$;W&w3
+AofxuNId[B
+EYkY{^2`
+Yah?Rl#8gU"*
+3bt,)D]C{9
+zC`L'%pb
+}zC	"[K#
+se5Ek6y0
+(kr!p|,f
+CTv&O:52
+:O.)9N&@jHTi
+j]hGhPjB
+kw*s%+W~
++&M@v8i)w@
+zZsc{XAf)
+nS({#"?A
+`7j}eiF\
+v)3.E]8O~
+ou|p;KpV
+CCAiq:l &
+eDo(CVr<<`
+xtJJ5DA1
+wx0r5e c`
+p!}a?x1:`
+8N:w=0KZ
+<;`8.dwx
+$"u3XYT=]st
+vE4LNs-<
+n'3SQ>S!
+oX>_O[L<6
+}'mPlLtF@]
+SR=2)h<Ju)0
+|FQoo8bv
+AfwI)gIO:I?^]
+6P`f88A.
+ct	gn $$1
+Oj[Za^-s
+XY's:$zU
+?:mZnL,:
+#@g~1Fq.
+FMQQpPiq
+Na{DW6D/
+}*=8-gkb
+bka`By{_
+$[H m?@0
+|t72]TgHz$
+["E`PG>f
+d";i	Y#Ls
+T;gwA5L~
+w3W	E3%!
+Rnopo{`y|
+\	 5f0y5
+s)gdhSLF
+fj2$O2ut
+! 5^y|4h
+3Qq99o#~
+#B%Nsx^7	F4
+/_v&-/aZ
+13qWA\-< 
+0klsqTu.
+}(cLyKM&K8.
+-jh/f.NZ
+s6uVmp!{
+Q/lxBlf$
+fVE*Ou(!
+32Z%duT".
+Z7zHwyix~
+kT$mJ{rm9
+<<mCO^?[e
+<WM@9I7b
+Eg+^W1+X\
+aLGL4%/4_x{
+[wQ/-j8;7
+M;0)t%&R-%
+VE~xk[y7
+xUH(KHpH
+sX{1g3I0
+50CH~AsuSJ
+kaPUW\>5
+[s+scTM_
+KSA$k9Rs
+CN3KJ?Y9[
+Stjc6*M/0
+4Du4yD{Q
+KjcWDU&/
+	Q$+\R9k
+ %T5SLeEsL
+)b5J{QPL_
+0w#Vyx6k
+5~c>X$y f&
++R_mCoVf
+l0ao`9%6I
+>["U7?.p
+JB]d%#q3
+~g(w	^ve
+twYFrIiB
+rrXu82	Y
+q:&wAu<X
+gsGt@b"m
+1yMz|O",
++U=GBp~}
+hV-#p\;4
+M_2j^za&
+&lSq'y0JSm
+@<T_,Ylz
+q4R$$W}c
+L=Twk!+_V
+'5ahBa/F`
+p])tQ0##
+.,Z_Z,^k
+xFo*XUW:
+qE	U*^j&
+@SstzC1AE
+sTFb{;~`f
+an~"59~0
+RS5Lfe<"
+IJkV;F@h?o)
+Ib$W;4n~
+D5%bJ]M"
+=aq=w8=PN
+r}+Uv)83@
+jHdr5A#ZJ6z
+A1v#M}Vj
+H`iW-*68[
+jYSX%(!RS
+OG[^L&hH
+q7jdF3/X
+\R	qPt=-
+@*@d0PS)%
+^mTbK9}JP%
+{j@I$ze9
+,EO^+I+?
+^|UTl{,5sS
++79*9N'$
+=(	OLS[c
+2ml	v9Z[LM
+$VtgE 4.QXEW
+uzf`5W9s
+g{w@%@&3
+K+9*B/H]F
+3)e7RY*s
+U)>V$5e;
+6$yB>B]wN
+RmTwMI!#!c\A
+Lj_U$ML`
+QYR25Y;j
+YFF:7X"V
+\P-^d)L@
+6vn)P{jG,
+e1&Y0$gp)
+llyFzWLSs
+oB@G"FQT:
+alhjd@kX
+-&2O!iNY.
++S*aS~+:?
+K} ) :"i
+DhO@8Pi>
+|u)E:W/J
+[K21Q6yl
+^_`{8z'i
+n\D|XOVnWv
+r7D7fFEl&
+=`M5{~x6
+C9YK1B0H
+S:[AB}i`]
+;]=,$?6M
+Y"qhe_rZ~
+Pko(s^&W
+_0)[!]K5
+F|d<n'^F
+w_&ZH/t8
+MYla9J.I
+6l"P8Ny&
+}p^ARmGV{
+"LSa- 3M^
+&! zI4],-
+%b^vroW"
+Vc8J|NAy
+/qVetV n|
+bVj=[qJA
+]qF.oUqp
+(bK%[tC^GRQey
+443Ch,V>
+B)w6L<BJb
+Dd0cMj}Z
+\ad> *L0[
+R"|LrHx>
+Dv1An%"4
+#H6V:R)KE
+Wop*#9:U
+c|=TJ.k1
+st9sM=ID
+i)qfo9&aH
+/%bj^JGe
+pMgyR	fb
+pc:SQ&Q\[|!
+4kqueDb6
+D'nV5JLe]
+RC2l5ps	
+W2./COml
+,`z^2<]B
+J_Ywg?hRZ
+F0y:ogG9
+nOhogr(i<
+..wB1/MD2
+]3Uyhm[.)
+L'{d&P ANPP
+^+\%"9PF/
+p_D^_Jkg
+|K)nZ?2f
+5(Z@n(@qv!f
+gfI`9`l h
+>&l*goR6
+l`.8U%^E
+b[M^>L^4+%
+dp'#v;U~
+*Z{C\C9EIHt
+	b3G-x5g
+IxiD/K](T
+O!7=|(`	x
+J^~|`9]h
+4gGH;P5'o
+/Mm,MOp%
+Tl&63  <%
+tfnOJBv.
+/akQ.{<qr~
+s(_J| Vn
+#^lryI]ARYR
+9[ 3Li -?]$JP
+HSLiG2NsL
+x?f}d,pD
+6O/WnJ1j
+"jCyQFn@z
+HPzjexG`
+?ao_bTDkJ_0
+NX:+fcvz6,lH
+?ieVz/]4
+L~+dWB\>N"
+i%/N#Zh\
+O0FEz3h_S
+1C7q'bds
+a\?l>*Mp
+<	HA5~$B
+6%2r%)Eq
+-s2p52*G=
+b*-`04	^W1
+/&(>H^u["
+/`-!}_2^=
+: AXjnV%E
+u/qlZ* $,
+*{AjQ@$1
+An@^}Jnq;lL
+J7tOq"CK
+_+]*|Q2s
+!mZBvJ0mj
+>\26`ym6
+(?hFwpyH
+`4{^8@$f
+{0=jVY	2
+ie"7v%C1
+Vn#'"#oJ
+KN)BZF#p
+Ir <[	nmM
+W9!;Jw>(
+S5ez^UqA
+ *t(trz}
+p(dw>IW!
+0CppuA~#QY
+A'TYU^f[#[}
+/rT	LNIl$7B
+	s$m|L4(\
+i#7{ /</
+p 7B6ZQ!7
+9IB.'="'
+e)nyMS;<
+"#el{h@Y
+*vH%'3KT
+U'0C4V577
+3qT*rt:|
+^alCte+5
+UC({I>3G
+h@LfJ|}b
+7UOaWUy|
+K"3=VPD!
+W	VgPYo4
+'<7nAX'+
+o!X0BhHZ
+.	k"L0bV
+e5wg:#Vu
+{JL:6VZi
+#7l.kfr 
+;Sv0]E2J%
+;A@!/So0
++m|t}|ZY2
+ft_xP9 O
+L~;>4kpb!$
+gGz>]}NN~!B
+1o2o7 $<
+[~H\9@85z
+nZQScD?9
+Z.9l:@3i
+,E,K(~%t
+k7*,4==kQ
+rI~`#e+d
+Ndid you get the updated plans?
+<laz0rh4x> did you get the updated plans?
+uno, can you send them over?
+<c0uchpot4doz> no, can you send them over?
+cornerstoneairlines
+cornerstoneairlines
+cornerstoneairlines
+registrar-servers
+hostmaster
+cornerstoneairlines
+https://drive.google.com/file/d/1McOX5WjeVHNLyTBNXqbOde7l8SAQ3DoI/view?usp=sharing
+<laz0rh4x> https://drive.google.com/file/d/1McOX5WjeVHNLyTBNXqbOde7l8SAQ3DoI/view?usp=sharing
+z@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+z@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+z@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+z@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+z@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+z@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+z@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+z@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+z@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+z@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+z@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+z@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+z@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+z@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+z@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+z@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+digitalocean
+hostmaster
+1@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+y@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+P@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+digitalocean
+hostmaster
+()e@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+digitalocean
+hostmaster
+digitalocean
+hostmaster
+digitalocean
+hostmaster
+z@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+z@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+z@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+z@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+z@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+z@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+z@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+z@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+w@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+digitalocean
+hostmaster
+digitalocean
+hostmaster
+digitalocean
+hostmaster
+digitalocean
+hostmaster
+	dns-admin
+	dns-admin
+	dns-admin
+z@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+z@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+z@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+z@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+z@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+z@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+z@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+z@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+lga25s41-in-f14
+lga25s41-in-f238
+&done. you can read that with the parser I gave you last week
+<laz0rh4x> done. you can read that with the parser I gave you last week
+thanks, see you tomorrow
+<c0uchpot4doz> thanks, see you tomorrow
+msnhst	microsoft
+GET / HTTP/1.1
+User-Agent: Wget/1.17.1 (linux-gnu)
+Accept: */*
+Accept-Encoding: identity
+Host: msn.com
+Connection: Keep-Alive
+HTTP/1.1 301 Moved Permanently
+Content-Type: text/html; charset=UTF-8
+Location: http://www.msn.com/
+Server: Microsoft-IIS/8.5
+X-Powered-By: ASP.NET
+Date: Thu, 25 Oct 2018 02:43:16 GMT
+Content-Length: 142
+<head><title>Document Moved</title></head>
+<body><h1>Object Moved</h1>This document may be found <a HREF="http://www.msn.com/">here</a></body>
+www-msn-com
+a-msedge
+msnhst	microsoft
+www-msn-com
+a-msedge
+GET / HTTP/1.1
+User-Agent: Wget/1.17.1 (linux-gnu)
+Accept: */*
+Accept-Encoding: identity
+Host: www.msn.com
+Connection: Keep-Alive
+HTTP/1.1 200 OK
+Cache-Control: no-cache, no-store, no-transform
+Pragma: no-cache
+Content-Length: 45219
+Content-Type: text/html; charset=utf-8
+Expires: -1
+Vary: User-Agent
+Set-Cookie: PreferencesMsn=eyJIb21lUGFnZSI6eyJTdHJpcGVzIjpbXSwiTWVTdHJpcGVNb2R1bGVzIjpbXSwiTWFya2V0Q29uZmlndXJhdGlvbiI6eyJNYXJrZXQiOiJlbi11cyIsIlN1cHByZXNzUHJvbXB0IjpmYWxzZSwiUHJlZmVycmVkTGFuZ3VhZ2VDb2RlIjoiZW4tdXMiLCJDb3VudHJ5Q29kZSI6IlVTIn19LCJFeHBpcnlUaW1lIjo2MzcwNzU2ODE5NzYzMTgzMjQsIlZlcnNpb24iOjF90; domain=msn.com; expires=Fri, 25-Oct-2019 02:43:17 GMT; path=/; HttpOnly
+Set-Cookie: marketPref=en-us; domain=msn.com; expires=Fri, 25-Oct-2019 02:43:17 GMT; path=/; HttpOnly
+Set-Cookie: RecentStocks=; domain=msn.com; path=/; HttpOnly
+Access-Control-Allow-Origin: *
+X-AspNetMvc-Version: 5.2
+X-AppVersion: 20181021_12489478
+X-Activity-Id: cef6dcd2-ff8a-4583-bcb8-fe977abb0d73
+X-Az: {did:9a9a6dcc560c4a5a958f3f1a2bcb24f4, rid: 55, sn: eastus-prod-hp, dt: 2018-10-24T00:09:48.1981242Z, bt: 2018-10-22T00:14:45.4941623Z}
+X-UA-Compatible: IE=Edge;chrome=1
+X-Content-Type-Options: nosniff
+X-FRAME-OPTIONS: SAMEORIGIN
+X-Powered-By: ASP.NET
+Access-Control-Allow-Methods: HEAD,GET,OPTIONS
+X-XSS-Protection: 1
+X-MSEdge-Ref: Ref A: CEF6DCD2FF8A4583BCB8FE977ABB0D73 Ref B: NYCEDGE0522 Ref C: 2018-10-25T02:43:17Z
+Set-Cookie: _EDGE_S=F=1; path=/; httponly; domain=msn.com
+Set-Cookie: _EDGE_V=1; path=/; httponly; expires=Tue, 19-Nov-2019 02:43:17 GMT; domain=msn.com
+Set-Cookie: MUID=2C843D2A535866D71EA531B952D067AC; path=/; expires=Tue, 19-Nov-2019 02:43:17 GMT; domain=msn.com
+Date: Thu, 25 Oct 2018 02:43:17 GMT
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE HTML PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.2//EN" "http://www.openmobilealliance.org/tech/DTD/xhtml-mobile12.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" dir="ltr">
+ <!-- data-info:v:20181021_12489478;a:cef6dcd2-ff8a-4583-bcb8-fe977abb0d73;cn:55;az:{did:9a9a6dcc560c4a5a958f3f1a2bcb24f4, rid: 55, sn: eastus-prod-hp, dt: 2018-10-24T00:09:48.1981242Z, bt: 2018-10-22T00:14:45.4941623Z};ddpi:1;dpio:;dpi:1;dg:downlevel.pc;th:start;PageName:startPage;m:en-us;cb:;l:en-us;mu:en-us;ud:{cid:,vk:homepage,n:,l:en-us,ck:};xd:BBnbhK2;ovc:f;al:;fxd:f;xdpub:2018-10-23 07:21:52Z;xdmap:2018-10-25 02:41:30Z;axd:;f:muidflt11cf,muidflt26cf,hptripleliftrtb,adflt-gal0p5sec,muidflt53cf,muidflt56cf,muidflt57cf,sam-dynamicfloor,oneboxdhpcf,bingmsncombined2cf,bingmsncombined5cf,startedge2cf,bingcollabedge2cf,starthp2cf,artgly1cf,artgly2cf;userOptOut:false;userOptOutOptions: -->
+ <link rel="canonical" href="http://www.msn.com/" />
+ <title>MSN | Outlook, Office, Skype, Bing, Breaking News, and Latest Videos</title>
+ <meta name="description" content="Your customizable and curated collection of the best in trusted news plus coverage of sports, entertainment, money, weather, travel, health and lifestyle, combined with Outlook/Hotmail, Facebook, Twitter, Bing, Skype and more."/>
+<meta name="viewport" content="width=device-width,initial-scale=1, maximum-scale=1" />
+ <link rel="stylesheet" href="//static-global-s-msn-com.akamaized.net/hp-eus/en-us/homepage/_sc/css/b443689a-4ab53bd3/direction=ltr.locales=en-us.themes=start.dpi=resolution1x/42-b8ee35-4e3b0a9b/90-67c322-ee5f2b10/2a-1f1669-a955659a/9b-ba6b1f-f94d3276/ab-52fe22-a648eab2/86-b413d7-63b61fa3/d1-7801d5-68ddb2ab/7a-660b57-4534563a/75-a00681-654638bf/83-f2931f-60b40184/ed-848db0-7e0223ed?ver=20181021_12489478&amp;fdhead=muidflt11cf,muidflt26cf,hptripleliftrtb,adflt-gal
+nction st(i,r){var f=k.exec(r),e,u;if(f){if(e=f[1],u=n[e],u!==t)return u;s||(s=setTimeout(nt,w))}}function nt(){var i,r,e,o,h;s=0;i=!1;for(r in u)e=k.exec(r),e&&(o=e[1],h=n[o],h!==t?f.push(r):i=!0);i&&!s&&(s=setTimeout(nt,w));f.length&&g()}function ht(n,t,i){if((typeof n!="object"||n&&n.splice)&&(i=t,t=n,n={}),t&&t.splice||(i=t,t=[]),ct(n.js),i){var r,u=n.synchronous||!1;l(r,t,i,!0,u)}}function ct(n){if(typeof n=="string")tt(n);else if(n)for(var t=0;t<n.length;t++)tt(n[t])}function tt(n){if(!b[n]){b[n]=1;var i=o.getElementsByTagName("script")[0],t=o.createElement("script");t.src=n;t.onload=t.onreadystatechange=function(){this.readyState&&this.readyState!="loaded"&&this.readyState!="complete"||(t.onload=t.onreadystatechange=null,t.parentNode&&t.parentNode.removeChild(t))};i.parentNode.insertBefore(t,i)}}function lt(n){return ut?n?i.now():Math.round(i.now()):new Date-y}var it=n._jsLoaderAsyncCanary||"c.dom",rt="c.pageReveal",a=!1,v=typeof n._jsLoaderRevealMode=="undefined"?!0:n._jsLoaderRevealMode,i=n.performance,ut=i&&typeof i.now=="function",r=" ----- ",y=((i||{}).timing||{}).navigationStart||+new Date,o=n.document,p=null;try{p=n.localStorage}catch(at){}var c={date:Date,document:o,image:n.Image,localStorage:p,location:o&&o.location,navigator:navigator,pageStart:y,pageTime:lt,screen:n.screen,window:n},u={},f=[],e,w=50,s,b={},k=/^window\.(.+)$/;h.amd={jQuery:1};h.is=function(n){return typeof c[n]!="undefined"};n.define=h;n.require=ht;h.showUserMarks=function(){var n=["Mark Name"+r+"Start time in ms"];return i.getEntriesByType("mark").forEach(function(t){n.push(t.name+r+t.startTime+"ms")}),n.join("\n")};h.showUserMeasures=function(){var n=["Measure name"+r+"Start time in ms"+r+"Duration in ms"];return i.getEntriesByType("measure").forEach(function(t){n.push(t.name+r+t.startTime+"ms"+r+t.duration+"ms")}),n.join("\n")}})(window);define("navigation",["escape","location","document"],function(n,t,i){function u(n,t,i){var s=function(n){return n=n.replace(/\+/g," "),decodeURIComponent(n)},u={},o,e;if(n)for(n=n.split("#")[0],o=n.split("&"),e=0;e<o.length;e++){var h=o[e].split("="),r=h[0],f=h[1];i&&(r=s(r),f&&(f=s(f)));t?(u[r]||(u[r]=[]),u[r].push(f)):u[r]=f}return u}function f(n){var t=i.createElement("a");return t.href=n,{protocol:t.protocol,host:t.host,hostName:t.hostname,port:t.port,path:t.pathname,hash:t.hash,query:t.search,origin:t.origin}}function e(n){return f(n).hostName}var r={getUrl:function(n){return r.filter?r.filter(n):n},navigate:function(n,i){r.filter&&(n=r.filter(n));i?t.replace(n):t.href=n},getHostName:e,parseUrl:f,isLocal:function(n){var i=e(n);return!i||t.hostname==i},getParams:u,getParamsFromUrl:function(n,t,i){var r=n.split("?")[1];return u(r,t,i)},mergeQueryStringParams:function(t,i){var e,f,o,r;if(i){if(e=t.split("?"),e[1]){f=u(e[1],!1,!0);for(r in i)f[r]=i[r]}else f=i;t=e[0];o="?";for(r in f)t+=f[r]?o+n.urlPart(r)+"="+n.urlPart(f[r]):o+n.urlPart(r),o="&"}return t},filter:null};return r});define("logging",["window"],function(n){function r(n,t){if(n.addEventListener)n.addEventListener("error",t,!1);else if(n.onerror){var i=n.onerror;n.onerror=function(n,r,u,f,e){return i(n,r,u,f,e),t(n,r,u,f,e)}}else n.onerror=t}function t(t){n.console&&(console.error||console.log)(t)}function u(){}function f(){}function e(t){(n.console||{}).timeStamp?console.timeStamp(t):(n.performance||{}).mark&&n.performance.mark(t)}var i=0;return r(n,function(n){return i++,n&&t("[SCRIPTERROR] "+n),!0}),{error:t,fatalError:t,unhandledErrorCount:function(){return i},perfMark:e,warning:u,information:f}})//]]></script><script type="text/javascript" src="//static-global-s-msn-com.akamaized.net/hp-eus/_h/4c59fa2c/webcore/externalscripts/jquery/jquery-1.11.1.min.js"></script>
+ <style>.spartan #main .paging-container.snap{overflow-x:hidden}#main .poc.topsites li{width:14.2%}#main .simple.poc.topsites a{height:16.5rem;width:16.5rem}#addRemoveSectionsModalContainer #addRemoveSectionsModal{display:block}.stripecontainer .stripeouter.noborder{height:33.7rem}.mobile #header-common>h1 a.vertical{color:#fff}.ip .nativead .caption .nativead{color:#a0a0a0}html[dir='rtl'] .ie8 .mip>ul>li.triptych h3+a{border-right:0}html[dir='ltr'] .ie8 .mip>ul>li.triptych h3+a{border-left:0}.meflyouts .integratedskype .signin>ul li:first-child{display:none}.tmx.pc.webkit.chrome .stripecontent ul{overflow-x:hidden}.mobile .galleryinfo .img-divider{display:none}.homepage.tmx.pc.chrome #main .one-col,.homepage.tmx.pc.chrome #main .two-col,.homepage.tmx.pc.chrome #main .three-col{margin-right:-.016rem;margin-left:-.016rem}.homepage.midlevel .pagingsection>button.show,.channelplayerpage.midlevel .pagingsection>button.show{display:none}.settings.start.tmx.pc .globalsettings .social.twitter{display:none}</style>
+<body class="startpage sp center-content start">
+ <div id="banners">
+<div class="head">
+<div id="topnav">
+ <ul class="verticalsnav">
+ <li  class="current">
+<a href="/en-us">Home</a>
+<a href="/en-us/news">News</a>
+<a href="/en-us/weather">Weather</a>
+<a href="/en-us/entertainment">Entertainment</a>
+<a href="/en-us/sports">Sports</a>
+<a href="/en-us/money">Money</a>
+ <li class="more">
+<a href="#nav">More ></a>
+<a href="/en-us/lifestyle">Lifestyle</a>
+<a href="/en-us/health">Health &amp; Fitness</a>
+<a href="/en-us/foodanddrink">Food &amp; Drink</a>
+<a href="/en-us/travel">Travel</a>
+<a href="/en-us/autos">Autos</a>
+<a href="/en-us/video">Video</a>
+<a href="/en-us/kids">Kids</a>
+  <div id="header-common">
+<div class="header">
+<div class="header-logo">
+  <a class="logo" href="/en-us" tabindex="2">
+<img alt="" height="20" width="20" src="//static-global-s-msn-com.akamaized.net/hp-eus/sc/82/c22c7d.gif" />
+ <a class="vertical" href="/en-us" tabindex="2">msn</a>
+<div id="header-links">
+ <a href="http://www.outlook.com/">Outlook.com</a>
+ <span>|</span>
+ <a href="/en-us/settings/markettoggle"><img alt="en-us" src="//static-global-s-msn-com.akamaized.net/hp-eus/sc/6a/a62410.gif" /></a>
+<a class="navigation" href="#nav">
+<img  alt="go to navigation" width="27" height="20" src="//static-global-s-msn-com.akamaized.net/hp-eus/sc/57/a49b8d.gif" />
+                    </a>
+                </div>
+            </div>
+        </div>
+<div id="header-search">
+<form action="http://www.bing.com/search?scope=web" method="get" id="srchfrm">
+<div class="searchbox">
+<input type="text" id="q" name="q" value="" />
+<input type="hidden" name="form" value="PRUSDL" />
+ <input type="hidden" name="mkt" value="en-us" />
+  <input type="hidden" n
+0p5sec,muidflt53cf,muidflt56cf,muidflt57cf,sam-dynamicfloor,oneboxdhpcf,bingmsncombined2cf,bingmsncombined5cf,startedge2cf,bingcollabedge2cf,starthp2cf,artgly1cf,artgly2cf&amp;csopd=20181019164832&amp;csopdb=20181023170225" type="text/css" media="all" />
+ <script type="text/javascript">//<![CDATA[
+(function(n,t){function h(n,i,r){typeof n!="string"&&(r=i,i=n,n=t);i&&i.splice||(r=i,i=[]);n==it?a=!0:n==rt&&(v=!0);l(n,i,r,!1,!1)}function l(n,t,i,r,f,e){var s,y;if(!n||!c[n]){var h=ot(n,t),o=h.dependencyNotFound,l=h.resolved;if(o){typeof u[o]=="undefined"&&(u[o]=[]);u[o].push(e||{i:n,d:t,f:i,r:r,s:f});return}s=typeof i=="function";y=v&&a&&s&&!f;y?et(n,i,l,r):ft(s,n,i,l,r)}}function ft(n,t,i,r,u){var f;f=n?i.apply(null,r):i;d(t,f,u)}function et(n,t,i,r){setTimeout(function(){var u=t.apply(null,i);d(n,u,r)},1)}function d(t,i,r){r&&(i={});t&&(i?(c[t]=i,f.push(t),g()):n.console&&console.error("Dependencies resolved, but object still not defined (or is otherwise falsey). id:"+t+"; typeof obj: "+typeof i))}function g(){var t,s,h,i,o,c,r,n;if(e)e&&(e=2);else{t=[];do{for(e=1,h=f.length,i=0;i<h;i++)o=f[i],c=u[o]||[],t=t.concat(c),delete u[o];for(f=[],s=t.length,r=0;r<s;r++)n=t[r],l(n.i,n.d,n.f,n.r,n.s,n);t=[]}while(e>1);e=0}}function ot(n,t){for(var e,i=[],r,o=t?t.length:0,u=0;u<o;u++){var f=t[u],s=c[f],h=typeof s!="undefined";if(!h){if(e=st(n,f),e){i.push(e);continue}r||(r=f);break}i.push(s)}return o===i.length?{resolved:i}:{dependencyNotFound:r}}fu
+ame="httpsmsn" value="1">
+   <input type="hidden" name="refig" value="cef6dcd2ff8a4583bcb8fe977abb0d73">
+<input type="submit" class="text" value="web search" title="web search"/>
+ <div id="sw_as"> </div>
+ <script type="text/javascript">
+            //<![CDATA[
+            var srchInput = document.getElementById("q");
+            function sj_be(el, evt, mth) {
+                if (el.addEventListener) {
+                    el.addEventListener(evt, mth, false);
+                }
+                else if (el.attachEvent) {
+                    el.attachEvent("on" + evt, mth);
+                }
+                else {
+                    el["on" + evt] = mth;
+                }
+            }
+            function sj_ue(el, evt, mth) {
+                if (el.removeEventListener) {
+                    el.removeEventListener(evt, mth, false);
+                }
+                else if (el.detachEvent) {
+                    el.detachEvent("on" + evt, mth);
+                }
+                else {
+                    el["on" + evt] = null;
+                }
+            }
+            function loadScript(url, callback) {
+                var script = document.createElement("script")
+                script.type = "text/javascript";
+                if (script.readyState) {
+                    script.onreadystatechange = function () {
+                        if (script.readyState == "loaded" || script.ready
+State == "complete") {
+                            script.onreadystatechange = null;
+                            callback();
+                        }
+                    };
+                }
+                else {
+                    script.onload = function () {
+                        callback();
+                    };
+                }
+                script.src = url;
+                document.getElementsByTagName("head")[0].appendChild(script);
+            }
+            function initAS() {
+                loadScript("http://www.bing.com/s/as/1436447/en.js", function () {
+                    var config = { u: 'http://api.bing.com/qsonhs.aspx?form=MSN005', tPN: 'Popular Now', f: 'srchfrm', i: 'q', r: 'AutoSugShared', o: 's+a+p+hs+', h: 1, k: 0, m: 8, d: 100, ol: 1, eHS: 1, spr: 0 };
+                    if (typeof window.sa_autosuggest != "undefined") {
+                        window["sa_inst"] = new window.sa_autosuggest(config);
+                        window["sa_inst"].init("sa_inst");
+                    }
+                });
+                sj_ue(srchInput, 'click', initAS);
+            }
+            if (srchInput) {
+                sj_be(srchInput, 'click', initAS);
+            }
+            //]]>
+        </script>
+<div class="upgradebrowser">
+ You are using an older browser version. Please use a <a href="http://support2.microsoft.com/kb/2999871/en-us">supported version</a> for the best MSN experience.
+<div id="maincontent">
+<div id="main"  data-region="main">
+ <div class="today">
+	<div class="weatodaytile"  data-module-id="startpage|todayDownlevel|section|DownlevelMiniWeather|WeatherTodayTileModule"   data-aop="todayweathersd_weathertodaythreedaystilemodule">
+<a  href="/en-us/weather/today/New-York,New-York,United-States/we-city?iso=US&amp;el=upHNH4QiRgb%2Bvf%2FDAXg%2B8w%3D%3D" data-loc="lat=40.76&amp;long=-73.98&amp;c=New%20York&amp;st=New%20York&amp;cn=United%20States&amp;iso=US&amp;type=1">
+<div class="weatileleft">
+<img class="skycond" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BB8MNzQ.img?m=6&amp;o=true&amp;u=true&amp;n=true&amp;w=40&amp;h=40"
+data-src="{&quot;default&quot;:&quot;//img-s-msn-com.akamaized.net/tenant/amp/entityid/BB8MNzQ.img?m=6&amp;o=true&amp;u=true&amp;n=true&amp;w=40&amp;h=40&quot;}"
+alt="Mostly Clear" title="Mostly Clear" data-icon="28" />
+	<div><span class="currentcond">45&#176;</span><span class="tempunit">F</span></div>
+<div class="weatileright">
+<span class="weacity">New York</span>
+<span class="skytext">Today, Mostly Clear</span>
+<span class="tempavghigh">High 54&#176;</span>
+<span class="tempavglow">Low 42&#176;</span>
+ <div class="edit"  data-aop="change">
+<a class="edithome" href="#" aria-label="Change location or temperature unit" data-degreetype="F" 
+data-home="Search for Location / City" title="Change">Change</a>
+<div class="weapopup" role="dialog" aria-labelledby="weaaddlocation-label"  data-aop="editweatherflyout"  data-region="editweatherflyout">
+<div class="weaddn wpopbg"></div>
+<div class="weaddn wpopctn">
+<a class="close"  role="button" href="#" title="Close">Close</a>
+<div class="weaaddlocation">
+<form  action="/en-us/weather/search" data-action="/en-us/weather/ajax/places/search/" method="get" >
+<p class="label" id="weaaddlocation-label">Set Default Location</p>
+<div class="add-loc-as-container">
+<input name="q" class="query" accesskey="L" autocomplete="off" type="search" aria-autocomplete="list"
+value="" maxlength="250" data-auto-suggest-settings='{&quot;market&quot;:&quot;en-us&quot;,&quot;mode&quot;:&quot;AS&quot;,&quot;baseurl&quot;:&quot;/en-us/weather/today&quot;,&quot;action&quot;:&quot;sethome&quot;,&quot;method&quot;:&quot;custom&quot;,&quot;selector&quot;:&quot;.weaaddlocation&quot;,&quot;urltype&quot;:&quot;GeoLocation&quot;,&quot;formcode&quot;:&quot;&quot;,&quot;lat&quot;:40.7601,&quot;lon&quot;:-73.9816}'
+                   placeholder="Search for Location / City" data-seemoretext="Press &lt;Enter&gt; to see more" data-autosuggestdelay="100"
+                   aria-label="Search for Location / City"  />
+<button type="submit" title ="Search" class="searchbtn" 
+  aria-label="search">
+<span class="x-screen-reader">Search</span>               
+            </button>
+        </div>
+        <div class="nolocerr" aria-live="assertive" data-message="No search results for &#39;{0}&#39;"></div>
+<div class="errmsg" aria-hidden="true" data-error-in-service-message="An unexpected error occurred, please try again."></div>
+<div class="suggestmsg"></div>
+<div class="autosuggestresults" ></div>
+<div  role="radiogroup">
+<p>Display Temperature In</p>
+<form id="id619751ce9bfe47f5b944d4ffc6339773" class="setdegree"  action="/en-us/weather/ajax/places/savedegree/" method="post">
+<button name="weaDegreeType" id="id619751ce9bfe47f5b944d4ffc6339773_fahrenheit" value="F"
+                        class="selected"
+ role="radio"
+<span class="dot"></span>
+</button>
+<label for="id619751ce9bfe47f5b944d4ffc6339773_fahrenheit" form="id619751ce9bfe47f5b944d4ffc6339773">Fahrenheit</label>
+            </div>
+            <div>
+                <button name="weaDegreeType" id="id619751ce9bfe47f5b944d4ffc6339773_celsius" value="C"
+                        class=""
+ role="radio"
+<span class="dot"></span>
+</button>
+<label for="id619751ce9bfe47f5b944d4ffc6339773_celsius" form="id619751ce9bfe47f5b944d4ffc6339773">Celsius</label>
+ <button  class="donebutton disabled" disabled="disabled" title="Done">Done</button>
+ <div class="popularnow">
+ <h3><a href="//www.msn.com/en-us/news" >Trending Now</a></h3>
+                        <ul>
+                            <li>            <a href="https://www.msn.com/en-us/news/us/explosive-devices-found-in-mail-sent-to-hillary-clinton-and-obama/ar-BBOPm1p" >
+Bombs target Democrats            </a>
+<li>            <a href="//www.msn.com/en-us/news/politics/trump-excoriates-media-hours-after-cnn-sent-pipe-bomb/ar-BBOR2gF?" >
+Trump blames media            </a>
+                        </ul>
+                        <ul>
+                            <li>            <a href="//www.msn.com/en-us/news/us/megyn-kelly-expected-to-end-nbc-morning-show/ar-BBOR4mN?" >
+Megyn Kelly show end            </a>
+<li>            <a href="//www.msn.com/en-us/news/us/one-killed-in-kentucky-supermarket-shooting-local-media/ar-BBOQMJY" >
+Supermarket shooting            </a>
+                        </ul>
+                    </div>
+ <div class="stripe first">
+<h2>Today</h2>            <a href="/en-us/news/us/inv
+estigators-seeking-suspicious-package-addressed-to-ex-vice-president-biden-official/ar-BBOR2tr?li=BBnb7Kz" >
+<img alt="Former U.S. Vice President Joe Biden addresses the Human Rights Campaign dinner ..." height="194" src="//static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBOR9Ok.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=433&amp;y=230" title="Former U.S. Vice President Joe Biden addresses the Human Rights Campaign dinner ... - REUTERS/Yuri Gripas" width="300" />
+            </a>
+ <li  class="first">
+             <a href="/en-us/news/us/investigators-seeking-suspicious-package-addressed-to-ex-vice-president-biden-official/ar-BBOR2tr?li=BBnb7Kz" >
+Official: Suspicious package addressed to Biden sought            </a>
+             <a href="/en-us/news/us/package-addressed-to-rep-maxine-waters-prompts-evacuation-of-south-la-mail-facility/ar-BBOQSeu?li=BBnb7Kz" >
+2nd package addressed to Waters intercepted            </a>
+             <a href="/en-us/news/politics/dem-leaders-slam-trumps-response-to-bomb-threats-his-words-ring-hollow/ar-BBOQMKs?li=BBnb7Kz" >
+Schumer, Pelosi slam Trump response to packages            </a>
+             <a href="/en-us/news/us/what-we-know-about-the-explosive-devices-targeting-democrats/ar-BBOQzSm?li=BBnb7Kz" >
+Explosive devices targeting Democrats: What we know and don&#39;t know            </a>
+             <a href="/en-us/news/world/cia-director-listens-to-audio-of-journalist%e2%80%99s-alleged-murder/ar-BBOR3LG?li=BBnb7Kz" >
+CIA director Haspel listens to audio of Khashoggi&#39;s alleged murder            </a>
+ <div class="stripe">
+<h2><a href="/en-us/news" >News</a></h2>            <a href="/en-us/news/politics/explosive-devices-add-to-climate-of-overheated-partisan-rancor/ar-BBOR7Ei?li=BBnbcA1" >
+<img alt="A Secret Service agent on Wednesday stood near where President Barack Obama and ..." height="194" src="//static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBOR7GI.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" title="A Secret Service agent on Wednesday stood near where President Barack Obama and ... - Chip Somodevilla/Getty Images" width="300" />
+            </a>
+ <li  class="first">
+             <a href="/en-us/news/politics/explosive-devices-add-to-climate-of-overheated-partisan-rancor/ar-BBOR7Ei?li=BBnbcA1" >
+Explosive Devices Add to Climate of Overheated Partisan Rancor            </a>
+             <a href="/en-us/news/politics/judge-blocks-georgia-election-officials-from-tossing-out-absentee-ballots/ar-BBOQxqq?li=BBnbcA1" >
+Judge blocks Georgia officials from tossing out absentee ballots            </a>
+             <a href="/en-us/news/world/nato-chief-calls-arms-buildup-unlikely-putin-warns-europe/ar
+-BBOQgDJ?li=BBnbcA1" >
+Putin says Russia will target nations hosting US missiles            </a>
+             <a href="/en-us/news/us/the-instant-inevitable-cries-of-%e2%80%98false-flag%e2%80%99-after-bomb-threats-targeting-the-clintons-obamas-and-cnn/ar-BBOQs9K?li=BBnbcA1" >
+The instant, inevitable cries of 
+false flag
+ after bomb threats            </a>
+             <a href="/en-us/news/crime/two-female-bodies-discovered-in-new-yorks-hudson-river-report/ar-BBOQAkF?li=BBnbcA1" >
+Two female bodies discovered in New York&#39;s Hudson River: report            </a>
+ <div class="stripe">
+<h2><a href="/en-us/entertainment" >Entertainment</a></h2>            <a href="/en-us/movies/gallery/the-best-movie-kisses-of-all-time/ss-BBOr3Bf?li=BBnb2gh" >
+<img alt="Thelma &amp; Louise" height="194" src="//static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBOr7T7.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=591&amp;y=225" title="Thelma &amp; Louise - MGM" width="300" />
+            </a>
+ <li  class="first">
+             <a href="/en-us/movies/gallery/the-best-movie-kisses-of-all-time/ss-BBOr3Bf?li=BBnb2gh" >
+The best movie kisses of all time            </a>
+             <a href="/en-us/tv/gallery/doctor-strange-house-of-cards-and-70-other-exciting-titles-hitting-netflix-in-november/ss-BBOPECI?li=BBnb2gh" >
+All the movies and TV shows hitting Netflix in November            </a>
+             <a href="/en-us/movies/gallery/23-horror-movie-mistakes-that-will-scare-you-silly/ss-BBOyMut?li=BBnb2gh" >
+Eek! Horror movie mistakes that you can&#39;t unsee            </a>
+             <a href="/en-us/music/celebrity/justin-bieber-shows-off-his-man-bun-during-outing-with-hailey-baldwin/ar-BBOPLjq?li=BBnb2gh" >
+Justin Bieber shows off man bun while out with wife Hailey Baldwin            </a>
+             <a href="/en-us/music/celebrity/jessie-james-decker-frolics-on-the-beach-in-teeny-green-bikini-7-months-after-welcoming-third-baby/ss-BBON52F?li=BBnb2gh" >
+Jessie James Decker frolics on the beach 7 months after baby No. 3            </a>
+ <div class="stripe">
+<h2><a href="/en-us/sports" >Sports</a></h2>            <a href="/en-us/sports/ncaafb/10-qbs-under-most-pressure-in-college-football-week-9/ss-BBOQNpT?li=BBnba9I" >
+<img alt="" height="194" src="//static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBOQQL6.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=977&amp;y=217" title="Clayton
+Thorson, Malik Rosier Jr and  Feleipe Franks - Zach Bolinger/Icon Sportswire via Getty Images; Sam Greenwood/Getty Images" width="300" />
+            </a>
+ <li  class="first">
+             <a href="/en-us/sports/ncaafb/10-qbs-under-most-pressure-in-colle
+ge-football-week-9/ss-BBOQNpT?li=BBnba9I" >
+10 QBs under most pressure in college football Week 9            </a>
+             <a href="/en-us/sports/nba/wizards%e2%80%99-markieff-morris-fined-for-attempting-to-%e2%80%98pants%e2%80%99-seth-curry/ar-BBOQKJq?li=BBnba9I" >
+Wizards&#39; Morris fined $15K for attempting to 
+ Seth Curry            </a>
+             <a href="https://bit.ly/2q9kABC" >
+Watch live: Lightning faces Avalanche in Colorado            </a>
+             <a href="/en-us/sports/nba/ex-nba-player-darius-miles-opens-up-about-mental-health-woes-i-was-gonna-hurt-somebody/ar-BBOQX1C?li=BBnba9I" >
+Ex-NBA player opens up about mental health: &#39;I was gonna hurt somebody&#39;            </a>
+             <a href="/en-us/sports/nfl/steelers%e2%80%99-juju-smith-schuster-has-hilarious-reason-for-buying-lottery-tickets/ar-BBOQXKK?li=BBnba9I" >
+Steelers&#39; Smith-Schuster has hilarious reason for playing lottery            </a>
+ <div class="stripe">
+<h2><a href="/en-us/money" >Money</a></h2>            <a href="/en-us/money/savingandinvesting/how-to-pick-yourself-up-and-make-more-money-in-stocks-after-market-drops/ar-BBOQrV0?li=BBnbfcN" >
+<img alt="" height="194" src="//static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBOQwRo.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=942&amp;y=379" title="How to pick yourself up and make more money in stocks after market drops - Provided by CNBC LLC" width="300" />
+            </a>
+ <li  class="first">
+             <a href="/en-us/money/savingandinvesting/how-to-pick-yourself-up-and-make-more-money-in-stocks-after-market-drops/ar-BBOQrV0?li=BBnbfcN" >
+How to pick yourself up, make more money after market drops            </a>
+             <a href="/en-us/money/companies/when-sears-flourished-so-did-workers-at-amazon-its-more-complicated/ar-BBOPOMg?li=BBnbfcN" >
+When Sears flourished, so did workers. At Amazon, it&#39;s complicated            </a>
+             <a href="/en-us/money/companies/tesla-shares-jump-as-musk-delivers-quarterly-profit-cash/ar-BBOQCkr?li=BBnbfcN" >
+Tesla shares jump as Musk delivers quarterly profit, cash            </a>
+             <a href="/en-us/money/retirement/the-30-greatest-threats-to-your-retirement/ss-BBNAIAm?li=BBnbfcN" >
+The 30 greatest threats to your retirement            </a>
+             <a href="/en-us/money/markets/trump-and-the-fed-are-creating-a-totally-destructive-tug-of-war-in-the-stock-market-cramer-warns/ar-BBOQPhF?li=BBnbfcN" >
+Cramer: Trump, Fed creating &#39;destructive tug of war&#39; in the market            </a>
+ <div class="stripe">
+<h2><a href="/en-us/lifestyle" >Lifestyle</a></h2>            <a href="/en-us/lifestyle/
+lifestyle-buzz/people-are-struggling-to-find-the-sun-among-the-leaves-in-this-autumn-themed-brain-teaser-%e2%80%94-can-you-spot-it/ar-BBON4a1?li=BBnbcA0" >
+<img alt="" height="194" src="//static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBOMWPb.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=353&amp;y=238" title="Rattan Direct" width="300" />
+            </a>
+ <li  class="first">
+             <a href="/en-us/lifestyle/lifestyle-buzz/people-are-struggling-to-find-the-sun-among-the-leaves-in-this-autumn-themed-brain-teaser-%e2%80%94-can-you-spot-it/ar-BBON4a1?li=BBnbcA0" >
+Can You Find the Sun Hidden Among the Leaves?            </a>
+             <a href="/en-us/lifestyle/lifestyle-buzz/woman-receives-invoice-from-bride-after-bachelorette-party/ar-BBOzbxq?li=BBnbcA0" >
+Woman Receives Invoice From Bride After Bachelorette Party            </a>
+             <a href="/en-us/lifestyle/style/35-clothing-choices-that-are-making-you-look-older/ss-BBONO7b?li=BBnbcA0" >
+35 Clothing Choices That Are Making You Look Older            </a>
+             <a href="/en-us/lifestyle/lifestyle-buzz/theyve-lived-together-their-whole-lives-inseparable-saint-bernards-are-adopted/ar-BBOJKcr?li=BBnbcA0" >
+Inseparable Saint Bernards are adopted            </a>
+             <a href="/en-us/lifestyle/lifestyle-buzz/dog-returned-to-shelter-for-being-%e2%80%98too-good%e2%80%99-family-claims/ar-BBON96F?li=BBnbcA0" >
+Dog Returned to Shelter for Being &#39;Too Good&#39;            </a>
+ <div class="stripe">
+<h2><a href="/en-us/autos" >Autos</a></h2>            <a href="/en-us/autos/" >
+<img alt="" height="194" src="//static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBOQlZc.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=582&amp;y=340" title="Who Makes the Most Reliable Cars? - Provided by Consumers Union of United States, Inc." width="300" />
+            </a>
+ <li  class="first">
+             <a href="/en-us/autos/" >
+Who makes the most reliable cars?            </a>
+             <a href="/en-us/autos/autos-hybrids/tesla-adjusts-price-on-newly-announced-model-3-mid-range/ar-BBOzVFX?li=BBnb4R5" >
+Tesla adjusts price on newly announced Model 3 Mid Range            </a>
+             <a href="https://www.msn.com/en-us/autos/chrysler/" >
+Research the latest from Chrysler on MSN Autos            </a>
+             <a href="/en-us/autos/motorcycles/harley-davidson-recalling-238380-bikes-for-clutch-problem/ar-BBOMUH9?li=BBnb4R5" >
+Harley-Davidson just recalled 238,380 bikes for this problem            </a>
+             <a href="/en-us/autos/autos-sports/the-ford-mustang-performance-pack-two-is-what-happens-when-you-let-engineers-tinker/ar-BBONfe9?li=BBnb4R5" >
+The Ford Mustang PP2 is what happens when you let engineers tinker            </a>
+ <div class="stripe">
+<h2><a href="/en-us/health" >Health &amp; Fitness</a></h2>            <a href="/en-us/health/medical/15-ms-symptoms-that-women-should-never-ever-ignore/ar-BBOLHr0?li=BBnba9O" >
+<img alt="Selma Blair thought she was suffering from a pinched nerve before being diagnose..." height="194" src="//static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBOLvFq.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=1261&amp;y=556" title="Early Signs of MS Every Woman Should Know - Jon Kopaloff - Getty Images" width="300" />
+            </a>
+ <li  class="first">
+             <a href="/en-us/health/medical/15-ms-symptoms-that-women-should-never-ever-ignore/ar-BBOLHr0?li=BBnba9O" >
+15 MS symptoms that women should never, ever ignore            </a>
+             <a href="/en-us/health/healthy-heart/6-warning-signs-you-may-be-about-to-go-into-cardiac-arrest/ss-BBOcKSR?li=BBnba9O" >
+Warning signs you may be about to go into cardiac arrest            </a>
+             <a href="/en-us/health/weightloss/lea-michele-reveals-the-ridiculously-simple-way-she-got-fit-for-her-wedding/ar-BBOPAoQ?li=BBnba9O" >
+Lea Michele reveals the ridiculously simple way she got fit for her wedding            </a>
+             <a href="/en-us/health/lung-health/13-signs-of-cancer-men-are-likely-to-ignore/ss-AAtZBPn?li=BBnba9O" >
+13 signs of cancer men are likely to ignore            </a>
+             <a href="/en-us/health/wellness/after-giving-birth-to-triplets-this-woman-posted-a-seriously-honest-postpartum-stomach-photo/ar-BBOQONr?li=BBnba9O" >
+Mom of triplets posts a seriously honest postpartum tummy photo            </a>
+ <div class="stripe">
+<h2><a href="/en-us/foodanddrink" >Food &amp; Drink</a></h2>            <a href="/en-us/foodanddrink/foodnews/the-secret-ingredient-for-the-best-brownies-ever/ar-BBOO11v?li=BBnb7Kw" >
+<img alt="Brownies" height="194" src="//static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBONQGh.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=1156&amp;y=316" title="Brownies - Provided by Trusted Media Brands, Inc." width="300" />
+            </a>
+ <li  class="first">
+             <a href="/en-us/foodanddrink/foodnews/the-secret-ingredient-for-the-best-brownies-ever/ar-BBOO11v?li=BBnb7Kw" >
+The Secret Ingredient for the Best Brownies Ever            </a>
+             <a href="/en-us/foodanddrink/tipsandtricks/4-things-that-will-make-you-a-better-cook-according-to-the-pros/ss-BBOQCG9?li=BBnb7Kw" >
+4 Things That Will Make You A Better Cook, According to the Pros            </a>
+             <a href="/en-us/foodanddrink/foodne
+ws/this-is-why-there-are-13-in-a-baker%e2%80%99s-dozen/ar-BBOQJ8P?li=BBnb7Kw" >
+This Is Why There Are 13 in a Baker
+s Dozen            </a>
+             <a href="/en-us/foodanddrink/foodnews/this-mcdonalds-employee-revealed-why-you-should-always-ask-for-your-receipt/ss-BBOMLbS?li=BBnb7Kw" >
+McDonald&#39;s employee reveals why you should ask for a receipt            </a>
+             <a href="/en-us/foodanddrink/recipes/make-sinatra-the-chairman-of-your-kitchen-with-his-classic-spaghetti-and-meatballs-recipe/ar-BBOOcm8?li=BBnb7Kw" >
+Frank Sinatra&#39;s classic spaghetti-and-meatballs recipe            </a>
+ <div class="stripe">
+<h2><a href="/en-us/travel" >Travel</a></h2>            <a href="/en-us/travel/tripideas/the-most-terrifying-destination-in-every-state/ss-BBOQE15?li=BBnbklE" >
+<img alt="Feeling brave? America has plenty of places that go bump in the night 
+ but, som..." height="194" src="//static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBOsfHf.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=428&amp;y=636" title="Foxwoods Resort and Casino offers guests a dose of adrenalin away from the black... - HighFlyer Zip Line/Facebook" width="300" />
+            </a>
+ <li  class="first">
+             <a href="/en-us/travel/tripideas/the-most-terrifying-destination-in-every-state/ss-BBOQE15?li=BBnbklE" >
+The most terrifying destination in every state            </a>
+             <a href="/en-us/travel/article/how-to-travel-the-world-after-you-retire/ar-BBOm1x7?li=BBnbklE" >
+How to Travel the World After You Retire            </a>
+             <a href="/en-us/travel/video/10-best-national-parks-to-visit-in-fall/vi-BBO6oAK" >
+10 Best National Parks to Visit in Fall            </a>
+             <a href="/en-us/travel/news/the-other-side-of-venices-overtourism-problem/ar-BBOPP9q?li=BBnbklE" >
+The Other Side of Venice&#39;s Overtourism Problem            </a>
+             <a href="/en-us/travel/tips/this-simple-trick-can-stop-you-from-losing-your-passport-according-to-a-flight-attendant/ar-BBOPIRE?li=BBnbklE" >
+This simple trick can stop you from losing your passport, according to a flight attendant            </a>
+ <div class="stripe">
+<h2><a href="/en-us/lifestyle/smart-living" >Halloween</a></h2>            <a href="/en-us/tv/celebrity/heidi-klums-craziest-halloween-costumes-through-the-years/ss-AAAGSdV?li=AAeKimm" >
+<img alt="Supermodel-turned-TV star Heidi Klum is the Queen of Halloween - there&#39;s no ifs,..." height="194" src="//static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AAAGILE.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=317&amp;y=73" title="Supermodel-turned-TV star Heidi Klum is the Queen of Halloween - t
+here&#39;s no ifs,... - Getty Images" width="300" />
+            </a>
+ <li  class="first">
+             <a href="/en-us/tv/celebrity/heidi-klums-craziest-halloween-costumes-through-the-years/ss-AAAGSdV?li=AAeKimm" >
+Heidi Klum&#39;s craziest Halloween costumes through the years            </a>
+             <a href="/en-us/foodanddrink/foodnews/how-snickers-are-made-and-more-fun-halloween-candy-facts-revealed/ar-BBOziT2?li=AAeKimm" >
+How Snickers are made and more fun Halloween candy facts revealed            </a>
+             <a href="/en-us/foodanddrink/foodnews/here-are-all-the-places-you-can-eat-for-free-this-halloween/ar-BBOCsIA?li=AAeKimm" >
+Here Are All The Places You Can Eat For Free This Halloween            </a>
+             <a href="/en-us/travel/tripideas/31-haunted-hotels-around-the-world-you-should-definitely-stay-at/ss-BBO9Ynd?li=AAeKimm" >
+31 Haunted Hotels Around the World You Should Definitely Stay At            </a>
+             <a href="/en-us/lifestyle/did-you-know/10-differences-between-halloween-in-the-us-and-the-uk/ss-BBOCv4y?li=AAeKimm" >
+10 Differences Between Halloween in the US and UK            </a>
+ <div class="stripe">
+<h2><a href="/en-us/video" >Video</a></h2>            <a href="/en-us/video/animals/baby-penguins-take-a-stroll-in-adorable-video/vi-BBOPkby" >
+<img alt="Baby penguins take a stroll in adorable video" height="194" src="//static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBOPp2Y.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=998&amp;y=1067" title="Baby penguins take a stroll in adorable video - Provided by NBCU News Group, a division of NBCUniversal Media LLC" width="300" />
+            </a>
+ <li  class="first">
+             <a href="/en-us/video/animals/baby-penguins-take-a-stroll-in-adorable-video/vi-BBOPkby" >
+Baby penguins take a stroll in adorable video            </a>
+             <a href="/en-us/video/tunedin/what-are-these-strange-black-pods-washing-up-on-carolina-beaches/vi-BBOQTHz" >
+What are these strange black pods washing up on Carolina beaches?            </a>
+             <a href="/en-us/video/wonder/female-mummy-covered-in-tattoos-may-have-been-a-highly-respected-magician/vi-BBOQ6qe" >
+Ancient female mummy covered in tattoos likely a highly respected magician            </a>
+             <a href="/en-us/video/downtime/intense-fight-between-bandicoots-in-australia/vi-BBOOWs3" >
+Intense fight between bandicoots in Australia            </a>
+             <a href="/en-us/video/tunedin/anonymous-person-in-south-carolina-wins-dollar15-billion-jackpot/vi-BBOQH6L" >
+Anonymous person in South Carolina wins $1.5 billion jackpot            </a>
+ <div class="stripe">
+<h2><a href="https://afflnk.microsoft.com/c/1239701/433017/7593?sharedid=PRIME_ENUS_HP_STORES_TITLE&u=https://www.microsoft.com/en-us/store/b/home" >Sponsored by Microsoft</a></h2>            <a href="https://afflnk.microsoft.com/c/1239701/433017/7593?sharedid=PRIME_ENUS_HP_STORES_L1_DELL_599&amp;u=https://www.microsoft.com/en-us/p/dell-inspiron-15-5570-i5570-5279slv-pus-laptop/8n5jrpqvs64w/473q"                                                          target="_blank"
+ data-pg="TSTPRMUS32" data-pid="7HD66FC">
+<img alt="" height="194" src="//static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AAAyLZP.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" title="PC SALE SEP 2018 - Microsoft" width="300" />
+            </a>
+ <li  class="first">
+             <a href="https://afflnk.microsoft.com/c/1239701/433017/7593?sharedid=PRIME_ENUS_HP_STORES_L1_DELL_599&amp;u=https://www.microsoft.com/en-us/p/dell-inspiron-15-5570-i5570-5279slv-pus-laptop/8n5jrpqvs64w/473q"                                                          target="_blank"
+ data-pg="TSTPRMUS32" data-pid="7HD66FC">
+                        <span  class="nativead">Sponsored: </span>
+SALE: Only $599 for the Dell Inspiron 15 with 8th Gen Intel Core                        <img  class="nativead"
+                              />
+            </a>
+             <a href="https://afflnk.microsoft.com/c/1239701/433017/7593?sharedid=PRIME_ENUS_HP_STORES_L2_WMR_BUNDLE&amp;u=https://www.microsoft.com/en-us/store/collections/PC-WMR-Bundle-Sale"                                                          target="_blank"
+ data-pg="Save on VR and Mixed Reality Headsets" data-pid="7HD66FC">
+                        <span  class="nativead">Sponsored: </span>
+Save up to $250 on select PC + Windows Mixed Reality headset bundles                        <img  class="nativead"
+                              />
+            </a>
+             <a href="https://www.msn.com/en-us/money/credit/creditcards?ocid=sponstripe"                                                          target="_blank"
+ data-pg="TSTPRMUS32" data-pid="7HD66FC">
+                        <span  class="nativead">Sponsored: </span>
+Pay 0% Interest for 21 Months                        <img  class="nativead"
+                              />
+            </a>
+             <a href="https://www.msn.com/en-us/money/realestate/mortgagerates?ocid=sponstripe"                                                          target="_blank"
+ data-pg="TSTPRMUS32" data-pid="7HD66FC">
+                        <span  class="nativead">Sponsored: </span>
+The top mortgage and refinance rates for October 2018                        <img  class="nativead"
+                              />
+            </a>
+<div id="aside"  data-region="aside">
+<div id="nav">
+ <ul class="ve
+rticalsnav">
+ <li  class="current">
+<a href="/en-us">Home</a>
+<a href="/en-us/news">News</a>
+<a href="/en-us/weather">Weather</a>
+<a href="/en-us/entertainment">Entertainment</a>
+<a href="/en-us/sports">Sports</a>
+<a href="/en-us/money">Money</a>
+<a href="/en-us/lifestyle">Lifestyle</a>
+<a href="/en-us/health">Health &amp; Fitness</a>
+<a href="/en-us/foodanddrink">Food &amp; Drink</a>
+<a href="/en-us/travel">Travel</a>
+<a href="/en-us/autos">Autos</a>
+<a href="/en-us/video">Video</a>
+<a href="/en-us/kids">Kids</a>
+<div id="foot">
+<div> <a href="https://www.microsoft.com/en-us/">&#169; 2018 Microsoft</a>
+ <a href="https://go.microsoft.com/fwlink/?LinkId=521839">Privacy &amp; Cookies</a>
+ <a href="https://go.microsoft.com/fwlink/?LinkID=246338">Terms of use</a>
+ <a href="https://go.microsoft.com/fwlink/?LinkID=286759">About our Ads</a>
+ <a href="https://jfe.qualtrics.com/form/SV_d4ir2X6Zkgjw0rb">Feedback</a>
+ <a href="https://go.microsoft.com/fwlink/?LinkId=512703">Help</a>
+ <a href="/en-us/msn-worldwide">MSN Worldwide</a>
+ <a href="/en-us/newslettersignup">Newsletter</a>
+ <a href="https://go.microsoft.com/fwlink/?linkid=875132">Advertise</a>
+ <a href="https://blog.msn.com/">MSN Blog</a>
+ <img src="//c.msn.com/c.gif?udc=true&amp;rid=cef
+6dcd2ff8a4583bcb8fe977abb0d73&amp;rnd=636760321976318324&amp;rf=&amp;tp=http%253A%252F%252Fwww.msn.com%252F&amp;di=340&amp;lng=en-us&amp;activityId=cef6dcd2ff8a4583bcb8fe977abb0d73&amp;d.dgk=downlevel.pc&amp;d.imd=0&amp;st.dpt=&amp;st.sdpt=&amp;subcvs=homepage&amp;pg.n=startpage&amp;pg.t=hp&amp;pg.c=&amp;pg.p=prime&amp;anoncknm=&amp;issso=0&amp;aadState=0" alt="image beacon" width="1" height="1" /><img src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=3000001&amp;cs_ucfr=1&amp;rn=636760321976318324&amp;c7=http%253A%252F%252Fwww.msn.com%252F&amp;c8=&amp;c9=" alt="image beacon" width="1" height="1" /><img src="//otf.msn.com/c.gif?js=0&amp;evt=impr&amp;di=340&amp;pi=&amp;ps=&amp;su=http%253A%252F%252Fwww.msn.com%252F&amp;mkt=en-us&amp;pp=False&amp;cv.partner=&amp;cv.publcat=&amp;st.dpt=&amp;st.sdpt=&amp;dv.Title1=&amp;cts=636760321976318324&amp;rf=&amp;rid=cef6dcd2ff8a4583bcb8fe977abb0d73&amp;cvs=Browser&amp;subcvs=homepage&amp;cv.entityId=&amp;cv.entitySrc=&amp;provid=&amp;ar=0&amp;d.dgk=downlevel.pc&amp;d.imd=0&amp;cv.parentId=&amp;isCorePV=&amp;pgIdx=&amp;pgTot=&amp;activityId=cef6dcd2ff8a4583bcb8fe977abb0d73&amp;pm=&amp;pg.n=startpage&amp;pg.t=hp&amp;pg.c=&amp;pg.p=prime&amp;anoncknm=&amp;issso=0&amp;ex=&amp;aadState=0" alt="image beacon" width="1" height="1" />
+     <script>
+        require(["headData", "pageInstance", "mediator", "c.deferred"], function (headData, pageInstance, mediator)
+        {
+        var url = '//www.bizographics.com/collect/?fmt=gif&pid=7850';
+        if (headData && headData.clientSettings && headData.clientSettings.static_page)
+        {
+            mediator.pub(pageInstance.eventName);
+            var rid = pageInstance.getActivityId();
+            url = url.replace(/([?&]rid=)[^&#]*/i, "$1" + rid);
+            }
+        new Image().src = url.replace(/&amp;/g, '&');
+    </script>
+    <noscript>
+        <div>
+            <img data-src="//www.bizographics.com/collect/?fmt=gif&amp;pid=7850&amp;ts=noscript" width="1" height="1" alt="" />
+        </div>
+    </noscript>
+ <!--MSNAvailToken--></html>
+good luck, don't be late
+<laz0rh4x> good luck, don't be late
+nostarch
+nostarch
+nostarch
+nostarch
+nostarch.com
+San Francisco1
+CloudFlare, Inc.1 0
+CloudFlare Inc ECC CA-20
+180616000000Z
+190616120000Z0d1
+San Francisco1
+CloudFlare, Inc.1
+nostarch.com0Y0
+nostarch.com
+*.nostarch.com0
+0http://crl3.digicert.com/CloudFlareIncECCCA2.crl06
+0http://crl4.digicert.com/CloudFlareIncECCCA2.crl0L
+https://www.digicert.com/CPS0
+http://ocsp.digicert.com0@
+4http://cacerts.digicert.com/CloudFlareIncECCCA-2.crt0
+	Baltimore1
+CyberTrust1"0 
+Baltimore CyberTrust Root0
+151014120000Z
+201009120000Z0o1
+San Francisco1
+CloudFlare, Inc.1 0
+CloudFlare Inc ECC CA-20Y0
+http://ocsp.digicert.com0:
+)http://crl3.digicert.com/Omniroot2025.crl0=
+https://www.digicert.com/CPS0
+q-5&gHg}
+n?E]Je*+5
+Rz`I*?A=
+zS;\^a%x
+$+u>~o3/i

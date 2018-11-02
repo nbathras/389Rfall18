@@ -18,6 +18,9 @@ if len(sys.argv) < 2:
 
 # Normally we'd parse a stream to save memory, but the FPFF files in this
 # assignment are relatively small.
+
+print(str(sys.argv[1]))
+
 with open(sys.argv[1], 'rb') as fpff:
     data = fpff.read()
 

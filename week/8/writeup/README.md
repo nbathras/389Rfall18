@@ -38,7 +38,16 @@ The hackers plan to see eachother tomorrow, Oct 25 at 3:00 pm.
 
 ### Part 2 (55 Pts)
 
-Print Out from update.fpff:
+*Report your answers to the questions about parsing update.fpff below.*
+
+1. 2018-10-25 00:40:07
+
+2. laz0rh4x
+
+3. It said there were 9 section, but there were actually 11.  We found the other 2 by continuing to traverse the file until we ran out
+of bytes
+
+4.
 ```
 ------- HEADER -------
 MAGIC: 0xdeadbeef
@@ -136,13 +145,6 @@ Final Pointer: %d 247039
 Total Data Length: %d 247039
 ```
 
-*Report your answers to the questions about parsing update.fpff below.*
-1.
-
-2.
-
-3.
-
-4.
-
-5.
+5. 
+CMSC389R-{c0rn3rst0ne_airlines3s_to_the_m00n}
+CMSC389R-{h1dd3n-s3ct10n-1n-f1l3}

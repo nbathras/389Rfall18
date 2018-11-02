@@ -2,7 +2,7 @@
 
 import sys
 import struct
-
+import datetime
 
 # You can use this method to exit on failure conditions.
 def bork(msg):
@@ -57,7 +57,8 @@ par_point += WORD
 
 print("MAGIC: %s" % hex(magic))
 print("VERSION: %d" % int(version))
-print("Timestamp: %d" % int(timestamp))
+#print("Timestamp: %d" % int(timestamp))
+print('Timestamp: %s' % str(datetime.datetime.utcfromtimestamp(timestamp)))
 print("Author: %s" % str(author))
 print("Section_count: %d" % int(section_count))
 

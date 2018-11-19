@@ -14,15 +14,21 @@ Digital acknowledgement of honor pledge: Noah Bathras
 
 The flag I found was: 
 CMSC389R-{i_still_put_the_M_between_the_DV}
+
 I found the flag by passing in the data: 
 alpha
+
 Which generated the legit hash: 
 7ed9da42c417adf26cc59485b4650264
+
 Then the fake hash we generated was: 
 57cd1a192bab4964f9cf197b1dc38e24
+
 And lastly the successful payload sent in was: 616c70686180000000000000000000000000000000000000000000000000000000000000000000000000000000007800000000000000676574676f74
+
 With the following message appended to it:
 getgot
+
 
 The way the attack was conducted was I passed in data to get a legitemate hash value, which I then updated with my malicious text segment: getgot.  I then had to fix the generate a payload to drop off which requires the correct padding and formatting.  We were told that the secret would be between 6 and 15 bytes so we had to generate and test a new payload for each padding amount.  When ran it showed that the correct length was 10.  Once we found the correct length we passed in the payload generate by doing:
 ```

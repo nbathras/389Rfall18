@@ -1,3 +1,1 @@
-<script>
-  alert("got em'");
-</script>
+alert("got em'");
